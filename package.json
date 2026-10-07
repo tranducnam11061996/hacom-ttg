@@ -1,0 +1,26 @@
+{
+  "name": "ttg-static-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm run build:store && npm run build:videos && npm run build:css",
+    "build:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/site.min.css --minify",
+    "dev:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/site.min.css --watch",
+    "build:videos": "node scripts/build-videos.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --experimental-vm-modules --test tests/*.test.mjs",
+    "build:store": "node scripts/build-store.mjs",
+    "check:http": "node scripts/check-http.mjs"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.3.0",
+    "cheerio": "1.2.0",
+    "sharp": "0.35.5",
+    "tailwindcss": "4.3.0"
+  },
+  "overrides": {
+    "@parcel/watcher": "2.6.0"
+  }
+}

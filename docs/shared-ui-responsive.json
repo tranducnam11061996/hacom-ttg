@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-07",
+  "browser": "Chrome DevTools dedicated profile",
+  "comparison": "Original loaded DOM/CSS vs refactored page; after fonts and two animation frames",
+  "tolerancePx": 1,
+  "checks": [
+    {
+      "width": 360,
+      "actualWidth": 360,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    },
+    {
+      "width": 390,
+      "actualWidth": 390,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    },
+    {
+      "width": 768,
+      "actualWidth": 768,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    },
+    {
+      "width": 1280,
+      "actualWidth": 1280,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    },
+    {
+      "width": 1440,
+      "actualWidth": 1440,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    },
+    {
+      "width": 1920,
+      "actualWidth": 1920,
+      "overflow": false,
+      "elementsCompared": 190,
+      "differences": []
+    }
+  ]
+}

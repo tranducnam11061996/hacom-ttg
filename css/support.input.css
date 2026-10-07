@@ -1,0 +1,63 @@
+@layer components {
+  .service-section { padding-inline:4px; }
+  .service-list { display:flex; flex-wrap:wrap; align-items:flex-end; justify-content:space-between; gap:16px; padding:14px 8px; border:1px solid #ececec; border-radius:12px; background:white; transform:skewX(-3deg); }
+  .service-list li { width:calc(50% - 8px); text-align:center; transform:skewX(3deg); }
+  .service-icon { display:inline-block; vertical-align:top; width:40px; height:40px; background:url('../image/icons/ttgshop-icons-map-2.png') no-repeat; background-size:226px 203px; }
+  .service-icon-1 { background-position:-5px -83px; }
+  .service-icon-2 { background-position:-55px -83px; }
+  .service-icon-3 { background-position:-105px -83px; }
+  .service-icon-4 { background-position:-5px -133px; }
+  .service-list h3 { font-size:12px; font-weight:700; line-height:1.5; margin:8px 0 4px; }
+  .service-list p { font-size:11px; font-weight:500; line-height:1.5; min-height:33px; }
+  .commitment-section { margin-top:20px; margin-bottom:20px; }
+  .commitment-heading { text-align:center; font-size:16px; font-weight:700; line-height:1.5; }
+  .commitment-large { font-size:24px; }
+  .commitment-gradient { background:linear-gradient(172deg,#f9a900 25%,#ff6f00 75%); background-clip:text; color:transparent; }
+  .commitment-list { background:white; border-radius:12px; padding:4px 10px; margin-top:12px; }
+  .commitment-list li:not(:last-child) { border-bottom:1px solid #e8e8e8; }
+  [data-commitment-toggle] { display:flex; align-items:center; justify-content:space-between; gap:4px; width:100%; text-align:left; padding:12px 4px; font-size:13px; line-height:15px; font-weight:600; }
+  [data-commitment-toggle]>span:first-child { flex:1; min-width:0; }
+  [data-commitment-toggle][aria-expanded=true] { color:#ff5636; }
+  .commitment-plus { position:relative; flex-shrink:0; width:11px; height:3px; background:black; }
+  .commitment-plus::after { content:""; position:absolute; inset:0; background:black; transform:rotate(90deg); transition:transform 400ms; }
+  [aria-expanded=true]>.commitment-plus::after { transform:rotate(0deg); }
+  .commitment-content { padding-bottom:20px; font-size:13px; line-height:1.5; }
+  @media(min-width:386px) {
+    .service-list h3 { font-size:13px; }
+  }
+  @media(min-width:640px) {
+    .service-list h3 { font-size:15px; }
+    .service-list p { font-size:13px; }
+    .commitment-section { margin-top:32px; margin-bottom:40px; }
+    .commitment-heading { font-size:20px; }
+    .commitment-large { font-size:32px; }
+    .commitment-list { padding:18px 38px; margin-top:20px; }
+    [data-commitment-toggle] { padding-block:20px; font-size:15px; line-height:20px; }
+    .commitment-plus { width:14px; height:4px; }
+    .commitment-content { font-size:14px; }
+  }
+  @media(min-width:768px) {
+    .service-section { padding-inline:16px; }
+    .service-list { padding:28px 38px 28px 28px; transform:skewX(-10deg); }
+    .service-list li { width:auto; max-width:25%; transform:skewX(10deg); }
+  }
+  @media(min-width:768px) and (max-width:1279px) {
+    .service-list li { flex:1; width:0; max-width:none; }
+  }
+  @media(min-width:1280px) {
+    .service-section { padding-inline:0; }
+    .support-block { width:calc(100% + 4px); margin-inline:-2px; }
+  }
+  @media(min-width:101.25rem) {
+    .service-list { padding:38px 48px 38px 38px; }
+    .service-list h3 { font-size:17px; margin-top:12px; }
+    .service-list p { font-size:15px; }
+    .commitment-heading { font-size:24px; }
+    .commitment-large { font-size:40px; }
+    [data-commitment-toggle] { font-size:17px; }
+    .commitment-content { font-size:16px; }
+  }
+  @media(prefers-reduced-motion:reduce) {
+    .commitment-plus::after { transition:none; }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "checkedAt": "2026-10-07T10:32:04.789Z",
+  "metrics": {
+    "sourceHtmlBytes": 912001,
+    "htmlBytes": 322116,
+    "cssBytes": 45651,
+    "cssGzipBytes": 9774,
+    "products": 171,
+    "pages": 6,
+    "localReferenceErrors": 0,
+    "js": {
+      "home.js": {
+        "bytes": 186,
+        "gzipBytes": 129
+      },
+      "modules/carousel.js": {
+        "bytes": 7023,
+        "gzipBytes": 2202
+      },
+      "modules/commitment.js": {
+        "bytes": 1865,
+        "gzipBytes": 738
+      },
+      "modules/demo.js": {
+        "bytes": 785,
+        "gzipBytes": 446
+      },
+      "modules/header.js": {
+        "bytes": 6898,
+        "gzipBytes": 1911
+      },
+      "modules/hero.js": {
+        "bytes": 4722,
+        "gzipBytes": 1714
+      },
+      "modules/motion.js": {
+        "bytes": 319,
+        "gzipBytes": 245
+      },
+      "modules/sale-tabs.js": {
+        "bytes": 1817,
+        "gzipBytes": 811
+      },
+      "ui.js": {
+        "bytes": 496,
+        "gzipBytes": 224
+      },
+      "video-state.js": {
+        "bytes": 162,
+        "gzipBytes": 145
+      },
+      "video.js": {
+        "bytes": 4074,
+        "gzipBytes": 1540
+      }
+    },
+    "pageScripts": {
+      "index.html": {
+        "modules": [
+          "js/home.js",
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js",
+          "js/modules/hero.js",
+          "js/modules/sale-tabs.js"
+        ],
+        "bytes": 24111,
+        "gzipBytes": 8420
+      },
+      "videos/index.html": {
+        "modules": [
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js"
+        ],
+        "bytes": 17386,
+        "gzipBytes": 5766
+      },
+      "videos/playlist/sieu-trung-thuc.html": {
+        "modules": [
+          "js/video.js",
+          "js/video-state.js"
+        ],
+        "bytes": 4236,
+        "gzipBytes": 1685
+      },
+      "videos/playlist/vlog.html": {
+        "modules": [
+          "js/video.js",
+          "js/video-state.js"
+        ],
+        "bytes": 4236,
+        "gzipBytes": 1685
+      },
+      "videos/playlist/aba-reaction.html": {
+        "modules": [
+          "js/video.js",
+          "js/video-state.js"
+        ],
+        "bytes": 4236,
+        "gzipBytes": 1685
+      },
+      "videos/playlist/daily-moment.html": {
+        "modules": [
+          "js/video.js",
+          "js/video-state.js"
+        ],
+        "bytes": 4236,
+        "gzipBytes": 1685
+      }
+    },
+    "htmlReductionPercent": 64.7,
+    "htmlGzipBytes": 23951
+  },
+  "errors": []
+}

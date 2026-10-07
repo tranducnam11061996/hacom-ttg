@@ -1,0 +1,6 @@
+import { esc, icon } from "../../html.mjs";
+import { createImage } from "../utils/assets.mjs";
+export function productCard(p, { assets, overlays = {}, context = {} }) {
+  const image = createImage(assets, context);
+  return `<article data-product class="category-card"><a href="#" class="category-image">${image(p.image, p.name, "size-full object-contain")}${p.overlay && overlays[p.overlay] ? image(overlays[p.overlay], "", "absolute inset-x-0 bottom-0 h-2/5 w-full object-contain object-bottom") : ""}</a><h3 class="category-name"><a href="#" title="${esc(p.name)}">${esc(p.name)}</a></h3><div class="category-prices"><div class="category-price-stack"><p class="category-price">${esc(p.price)}</p><del class="category-market">${esc(p.market)}</del></div>${p.discount ? `<span class="category-discount">${esc(p.discount)}</span>` : ""}</div><div class="category-bottom"><button type="button" data-demo class="category-buy" aria-label="${esc(p.buy + " — " + p.name)}"><span class="category-buy-inner"><span class="category-cart">${icon("cart")}</span><span>${esc(p.buy)}</span></span></button><span class="category-stock ${/hết|liên hệ/i.test(p.status) ? "category-stock-empty" : ""}">${esc(p.status)}</span></div></article>`;
+}

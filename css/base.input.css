@@ -1,0 +1,47 @@
+@theme {
+  --breakpoint-wide: 101.25rem;
+  --font-sans: Inter, sans-serif;
+  --color-primary: #ff5636;
+  --color-secondary: #002023;
+  --color-tertiary: #004147;
+}
+@utility site-container {
+  width: 100%;
+  max-width: 1220px;
+  padding-inline: 12px;
+  margin-inline: auto;
+  @media (min-width: 1620px) {
+    max-width: 1620px;
+  }
+}
+@utility ttg-container {
+  width:100%; max-width:1220px; padding-inline:10px; margin-inline:auto;
+  @media(min-width:1620px) { max-width:1620px; }
+}
+@layer base {
+  body {
+    font-size: 14px;
+  }
+  button,
+  summary {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 3px solid #ff5636;
+    outline-offset: 3px;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  img {
+    max-width: 100%;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      scroll-behavior: auto;
+      transition: none;
+    }
+  }
+}

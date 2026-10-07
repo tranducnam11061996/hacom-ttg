@@ -1,0 +1,74 @@
+[
+  {
+    "width": 1280,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":1280,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":1265,\"h\":177.5},\"menu\":{\"x\":32.5,\"y\":132,\"w\":191.609375,\"h\":32},\"search\":{\"x\":284.53125,\"y\":63,\"w\":455,\"h\":38},\"features\":{\"x\":822.5625,\"y\":58,\"w\":409.9375,\"h\":48}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":1440,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":1425,\"h\":177.5},\"menu\":{\"x\":112.5,\"y\":132,\"w\":191.609375,\"h\":32},\"search\":{\"x\":364.53125,\"y\":63,\"w\":455,\"h\":38},\"features\":{\"x\":902.5625,\"y\":58,\"w\":409.9375,\"h\":48}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 1620,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":1620,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":1605,\"h\":195.5},\"menu\":{\"x\":10,\"y\":147,\"w\":229.578125,\"h\":36},\"search\":{\"x\":294.046875,\"y\":69.5,\"w\":720,\"h\":44},\"features\":{\"x\":1098.078125,\"y\":62.5,\"w\":496.921875,\"h\":58}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":1920,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":1905,\"h\":195.5},\"menu\":{\"x\":152.5,\"y\":147,\"w\":229.578125,\"h\":36},\"search\":{\"x\":444.046875,\"y\":69.5,\"w\":720,\"h\":44},\"features\":{\"x\":1255.578125,\"y\":62.5,\"w\":496.921875,\"h\":58}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 360,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":360,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":345,\"h\":282.34375},\"menu\":{\"x\":10,\"y\":189.25,\"w\":191.609375,\"h\":32},\"search\":{\"x\":10,\"y\":117.25,\"w\":325,\"h\":40},\"features\":{\"x\":241.859375,\"y\":60.625,\"w\":93.140625,\"h\":36}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":390,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":375,\"h\":282.34375},\"menu\":{\"x\":10,\"y\":189.25,\"w\":191.609375,\"h\":32},\"search\":{\"x\":10,\"y\":117.25,\"w\":355,\"h\":40},\"features\":{\"x\":271.859375,\"y\":60.625,\"w\":93.140625,\"h\":36}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":768,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":753,\"h\":282.34375},\"menu\":{\"x\":10,\"y\":189.25,\"w\":191.609375,\"h\":32},\"search\":{\"x\":10,\"y\":117.25,\"w\":733,\"h\":40},\"features\":{\"x\":649.859375,\"y\":60.625,\"w\":93.140625,\"h\":36}}\n```"
+      }
+    ]
+  },
+  {
+    "width": 1279,
+    "result": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"width\":1279,\"overflow\":false,\"header\":{\"x\":0,\"y\":0,\"w\":1264,\"h\":282.34375},\"menu\":{\"x\":32,\"y\":189.25,\"w\":191.609375,\"h\":32},\"search\":{\"x\":32,\"y\":117.25,\"w\":1200,\"h\":40},\"features\":{\"x\":1138.859375,\"y\":60.625,\"w\":93.140625,\"h\":36}}\n```"
+      }
+    ]
+  }
+]

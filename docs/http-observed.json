@@ -1,0 +1,154 @@
+{
+  "viewport": "1440x900",
+  "cache": "warm browser cache, reload; local server returns 200 + gzip",
+  "windowStart": "2026-10-07T03:49:55.783Z",
+  "windowMs": 3000,
+  "bodyBytes": 1165562,
+  "requests": 24,
+  "resources": [
+    {
+      "time": "2026-10-07T03:49:55.783Z",
+      "url": "/index.html",
+      "bodyBytes": 21556,
+      "gzip": true
+    },
+    {
+      "time": "2026-10-07T03:49:55.814Z",
+      "url": "/js/ui.js",
+      "bodyBytes": 1352,
+      "gzip": true
+    },
+    {
+      "time": "2026-10-07T03:49:55.815Z",
+      "url": "/css/site.min.css",
+      "bodyBytes": 5252,
+      "gzip": true
+    },
+    {
+      "time": "2026-10-07T03:49:55.816Z",
+      "url": "/image/brand/logo_ttgshop-logo-27122025-1-91346259.webp",
+      "bodyBytes": 16266,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.816Z",
+      "url": "/image/banners/pc-delta-force_2-4499ead7.webp",
+      "bodyBytes": 161168,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.902Z",
+      "url": "/image/banners/ttgshop-collection-bg-1-553dce89.webp",
+      "bodyBytes": 27224,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.941Z",
+      "url": "/fonts/inter-latin.woff2",
+      "bodyBytes": 72920,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.942Z",
+      "url": "/fonts/inter-latin-ext.woff2",
+      "bodyBytes": 133336,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.943Z",
+      "url": "/fonts/inter-vietnamese.woff2",
+      "bodyBytes": 15268,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.962Z",
+      "url": "/image/banners/ttg-lap-dat-pc-tai-nha-banner-chinh-c4d76f1d.webp",
+      "bodyBytes": 107190,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.963Z",
+      "url": "/image/banners/pc-pr-ttg-8b09f1e0.webp",
+      "bodyBytes": 119050,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.964Z",
+      "url": "/image/banners/ttg-ldpctn-c07ee15f.webp",
+      "bodyBytes": 115436,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.965Z",
+      "url": "/image/banners/tcdm-ttg-17442246.webp",
+      "bodyBytes": 157856,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.967Z",
+      "url": "/image/products/250_1072100401_pc_aqua_ml_rtx_5070ti_zotac_5-e1bb80f8.webp",
+      "bodyBytes": 13678,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.968Z",
+      "url": "/image/icons/khung-pc-delta-force_pc-eb03eb72.webp",
+      "bodyBytes": 56330,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.975Z",
+      "url": "/image/products/250_1071570188_pc_ttg_designer_3d_render_edit_video_ultra_7_265kf_rtx_5060_ti_8gb1__3_-43805c80.webp",
+      "bodyBytes": 13734,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.975Z",
+      "url": "/image/products/250_1067749684_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_-fdb1230a.webp",
+      "bodyBytes": 15526,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.976Z",
+      "url": "/image/products/250_1072089536_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_8gb14__1_-40084a42.webp",
+      "bodyBytes": 20448,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.978Z",
+      "url": "/image/products/250_1072100123_pc_ttg_ultra_gaming_i5_14400f_rtx_5070_ti_16gb_o__5_-a1ad111a.webp",
+      "bodyBytes": 15506,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.978Z",
+      "url": "/image/products/250_1049266798_pc_choi_game_hieu_suat_cao_rtx_3060_12gb_12400f_all__2_-43e5a28f.webp",
+      "bodyBytes": 13740,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.980Z",
+      "url": "/image/products/250_1068179994_pc_ttg_gaming_i5_10400f_rtx_3050_8gb11-3a9341c9.webp",
+      "bodyBytes": 13702,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.982Z",
+      "url": "/image/products/250_1067388338_pc_amd_gaming_pro_ryzen_5_8400f_rtx_5060_ti_8gb1__3_-568e43cb.webp",
+      "bodyBytes": 13618,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.983Z",
+      "url": "/image/products/250_1066265777_pc_ttg_amd_gaming_ryzen_7_7800x3d_rtx_5060_ti_16gb11__1_-c9be3d5f.webp",
+      "bodyBytes": 16580,
+      "gzip": false
+    },
+    {
+      "time": "2026-10-07T03:49:55.985Z",
+      "url": "/image/products/250_1067310425_pc_ttg_amd_gaming_ryzen_7_7800x3d_rtx_5060_8gb_all_new_bao_hanh_36_thang14__1_-6ccf548f.webp",
+      "bodyBytes": 18826,
+      "gzip": false
+    }
+  ]
+}

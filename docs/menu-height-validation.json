@@ -1,0 +1,273 @@
+{
+  "checkedAt": "2026-10-07",
+  "desktop": [
+    {
+      "width": 1280,
+      "compact": false,
+      "list": {
+        "width": 240,
+        "height": 655,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 40,
+      "panel": {
+        "width": 960,
+        "height": 655,
+        "scrollHeight": 655,
+        "clientHeight": 655,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "compact": true,
+      "list": {
+        "width": 240,
+        "height": 655,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 40,
+      "panel": {
+        "width": 960,
+        "height": 655,
+        "scrollHeight": 655,
+        "clientHeight": 655,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "compact": false,
+      "list": {
+        "width": 240,
+        "height": 655,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 40,
+      "panel": {
+        "width": 960,
+        "height": 655,
+        "scrollHeight": 655,
+        "clientHeight": 655,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "compact": true,
+      "list": {
+        "width": 240,
+        "height": 655,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 40,
+      "panel": {
+        "width": 960,
+        "height": 655,
+        "scrollHeight": 655,
+        "clientHeight": 655,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1620,
+      "compact": false,
+      "list": {
+        "width": 300,
+        "height": 719,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 44,
+      "panel": {
+        "width": 1285,
+        "height": 719,
+        "scrollHeight": 719,
+        "clientHeight": 719,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1620,
+      "compact": true,
+      "list": {
+        "width": 300,
+        "height": 719,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 44,
+      "panel": {
+        "width": 1285,
+        "height": 719,
+        "scrollHeight": 719,
+        "clientHeight": 719,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "compact": false,
+      "list": {
+        "width": 300,
+        "height": 719,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 44,
+      "panel": {
+        "width": 1300,
+        "height": 719,
+        "scrollHeight": 719,
+        "clientHeight": 719,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "compact": true,
+      "list": {
+        "width": 300,
+        "height": 719,
+        "overflow": "visible",
+        "maxHeight": "none"
+      },
+      "row": 44,
+      "panel": {
+        "width": 1300,
+        "height": 719,
+        "scrollHeight": 719,
+        "clientHeight": 719,
+        "maxHeight": "none",
+        "hit": true
+      },
+      "overflow": false
+    }
+  ],
+  "panels": [
+    {
+      "name": "PC GAMING",
+      "id": "mega-0",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "PC WORKSTATION 2D 3D",
+      "id": "mega-1",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "PC VĂN PHÒNG",
+      "id": "mega-4",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "Linh kiện máy tính",
+      "id": "mega-6",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "Màn hình máy tính",
+      "id": "mega-7",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "Gaming Gear",
+      "id": "mega-8",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    },
+    {
+      "name": "LAPTOP",
+      "id": "mega-14",
+      "height": 719,
+      "clientHeight": 719,
+      "scrollHeight": 719,
+      "overflow": "auto",
+      "maxHeight": "none"
+    }
+  ],
+  "mobile": [
+    {
+      "width": 360,
+      "open": true,
+      "laptop": true,
+      "listOverflow": "auto",
+      "maxHeight": "656.75px",
+      "row": 39,
+      "panelOverflow": "visible",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "open": true,
+      "laptop": true,
+      "listOverflow": "auto",
+      "maxHeight": "656.75px",
+      "row": 39,
+      "panelOverflow": "visible",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "open": true,
+      "laptop": true,
+      "listOverflow": "auto",
+      "maxHeight": "656.75px",
+      "row": 39,
+      "panelOverflow": "visible",
+      "overflow": false
+    },
+    {
+      "width": 1279,
+      "open": true,
+      "laptop": true,
+      "input": "mouse-hover",
+      "listOverflow": "auto",
+      "maxHeight": "656.75px",
+      "row": 39,
+      "panelOverflow": "visible",
+      "overflow": false
+    }
+  ]
+}

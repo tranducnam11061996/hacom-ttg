@@ -1,0 +1,1354 @@
+{
+  "checkedAt": "2026-10-07T10:32:40.626Z",
+  "origin": "http://127.0.0.1:4174",
+  "files": 165,
+  "errors": [],
+  "blocked": [
+    {
+      "file": "README.md",
+      "status": 404
+    },
+    {
+      "file": "data/store.snapshot.json",
+      "status": 404
+    },
+    {
+      "file": "scripts/build-store.mjs",
+      "status": 404
+    },
+    {
+      "file": "tests/menu.test.mjs",
+      "status": 404
+    },
+    {
+      "file": ".cache/shared-ui/index.before.html",
+      "status": 404
+    },
+    {
+      "file": "css/header.input.css",
+      "status": 404
+    }
+  ],
+  "results": [
+    {
+      "file": "videos/index.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 1360,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "videos/playlist/sieu-trung-thuc.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 1972,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "videos/playlist/vlog.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 3581,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "videos/playlist/aba-reaction.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 4431,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "videos/playlist/daily-moment.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 4265,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "mime": "text/html; charset=utf-8",
+      "bodyBytes": 23951,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "image/banners/gioi-thieu-ban-mua-hang-ttg-d3dfed03-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 45274,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/header-4a96b5821452.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 72136,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/gioi-thieu-ban-mua-hang-ttg-d3dfed03.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 124988,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/header-a2618820d52a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 80376,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/header-7f79fb36cba2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 82286,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "css/site.min.css",
+      "status": 200,
+      "mime": "text/css",
+      "bodyBytes": 9774,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "image/banners/header-aa9e2899ed6a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 74390,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/pc-delta-force_2-4499ead7-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 55996,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/pc-pr-ttg-8b09f1e0-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 53364,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/pc-delta-force_2-4499ead7.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 161168,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/pc-pr-ttg-8b09f1e0.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 119050,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/slide_pc_premium-71c9a957-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 48608,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/tcdm-ttg-17442246-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 63080,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/thu-cu-doi-moi-bnc-ttg-905791b2-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 44578,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-011-6e093026-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 55696,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/tcdm-ttg-17442246.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 157856,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/slide_pc_premium-71c9a957.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 132478,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/thu-cu-doi-moi-bnc-ttg-905791b2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 141306,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-021-7f2d10c2-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 69494,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-khuyen-mai-hs-sv-fade1a9c-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 68836,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-lap-dat-pc-tai-nha-banner-chinh-c4d76f1d-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 46016,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-021-7f2d10c2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 238172,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-011-6e093026.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 160904,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-khuyen-mai-hs-sv-fade1a9c.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 194782,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-ldpctn-c07ee15f-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 55614,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttgshop-collection-bg-1-553dce89.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 27224,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-lap-dat-pc-tai-nha-banner-chinh-c4d76f1d.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 107190,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg-ldpctn-c07ee15f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 115436,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg_khuyen-mai-pc-doanh-nghiep-1-686a5b39.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 175462,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/banners/ttg_khuyen-mai-pc-doanh-nghiep-1-686a5b39-800.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 68106,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-066e792ef59e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2114,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-1b9a6e1f0ae7.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1610,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-0219bae7d9bb.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1680,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-055c23e9c9fd.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1586,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-380f7f09d15c.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2416,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-30b392fabb3e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1702,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-45e661f38dca.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1484,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-4b12ab01c38d.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 24576,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-5e06d7be41ea.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 21182,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-738b9ed1aed3.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2730,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-60a8ec18b608.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 60076,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-6b95d0b8e08e.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 9540,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-7e1c68cd60f8.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 3918,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-91b3fff1a948.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2196,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-9874c576f81f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2106,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-a1a3142f42ba.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 36975,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-c58bbf114603.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 4424,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-b2c17bfe506c.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2328,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-c7ca2bc93a65.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2380,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-d2453d303b8f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 4494,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-f3088cf92265.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1854,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-d7386055fd0c.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 1356,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/header-fac2d6ed8116.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 2358,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/logo_ttgshop-logo-27122025-1-91346259.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16266,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/brand/ttgshop-bct-1-e3a8ee83.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17524,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/category-polygon.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 1824,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/header-42ee228a1621.jpg",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bodyBytes": 4739,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/header-7c7e3c834f2e.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 3488,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/header-c030be292572.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 5765,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/header-d2cab0358637.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 6313,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/header-d38494c65eef.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 6178,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/khungwin-f2ca87a6.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 53874,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/ttgshop-static-icon-border-1.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 4769,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/ttgshop-icons-map-2.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 29017,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/khung-pc-delta-force_pc-eb03eb72.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 56330,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/ttgshop-collection-title-1-2e841388.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 43364,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/icons/ttgshop-static-icon-border-2.png",
+      "status": 200,
+      "mime": "image/png",
+      "bodyBytes": 2485,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1046543111_1_e54a5b9be63f4a1b9862201d49992575-04a8e4ed.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 19268,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054766386_pc_ttg_home_office_core_i7_12700_ram_16gb_ssd_500gb__5_-ebc70a3e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 12078,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1046530070_1_2ae2660ed4364847b5d04b90fd257aab-30f19d7d.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 25844,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1049266798_pc_choi_game_hieu_suat_cao_rtx_3060_12gb_12400f_all__2_-43e5a28f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13740,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054767551_pc_ttg_home_office_core_i7_12700_ram_16gb_ssd_500gb_man_hinh_24_inch__2_-bcce5402.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14284,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054767909_pc_ttg_home_office_core_i5_12400_ram_16gb_ssd_256gb__2_-f1bb34dc.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9450,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054768267_pc_ttg_home_office_core_i3_10105_ram_8gb_ssd_256gb__4_-352f3a49.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9484,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054768316_pc_ttg_home_office_pentium_gold_g6405_ram_8gb_ssd_256gb__2_-352f3a49.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9484,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054768075_pc_ttg_home_office_core_i3_12100_ram_8gb_ssd_256gb__7_-f1bb34dc.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9450,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1056546442_pc_faster_gaming_10400f_rtx_3050_6gb_all_new_bao_hanh_36_th__1_-6e3d911e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13172,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1054768335_pc_ttg_home_office_pentium_gold_g6405_ram_8gb_ssd_256gb_man_hinh_24inch__3_-9308daa2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14476,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1063646367_vga_gigabyte_rtx_5090_aorus_master_32gb_1_993eed43baa64019a68cc64ff3849206-7128b5ec.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17082,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1058176674_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_6g__1_-753c24ed.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14498,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1063646411_rtx_5090_gaming_oc_32gb_gddr7_ee79f28c5d2540d28b7176e45962bab7-55647e58.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 25814,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1062878654_pc_ttg_gaming_i5_14600kf_rtx_5080_16gb_x314__2_-a010d3d7.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16680,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1063787324_11913_vga_asus_tuf_rtx5090_o32g_gaming_pcm_2_fbdabad09fe5435bb5b8add8160305a1-f1206f8f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 21074,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1063712064_11900_vga_rog_astral_rtx5090_o32g_gaming_pcm_3_e431e58dc93f41ae9242f29275029fcd-6670a0da.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 22914,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1064329638_pcm_dsc04701_2414f155dadb4c81a7b26ba530d8ddd8-65e17a82.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14194,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1064329869_pc_ttg_amd_gaming_pro_ryzen_5_7500f_rtx_5070_12__2_-73d3a43a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 15960,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066265326_pc_ttg_gaming_i5_14600kf_rtx_5060_ti_16gb11__1_-9d10e71f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16442,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066265752_pc_ttg_amd_gaming_ryzen_5_7500f_rtx_5060_ti_16gb12__1_-04350043.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 15014,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066856963_pc_ttg_designer_edit_video_i5_14600kf_rtx_3060_12__3_-49400101.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14310,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066265777_pc_ttg_amd_gaming_ryzen_7_7800x3d_rtx_5060_ti_16gb11__1_-c9be3d5f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16580,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066944459_cpu_i5_12400f_tray_88463acacaae4eae9a81b1a6f9f048ab-e79582ec.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 11684,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066857207_dsc02568_copy_548ff4ee39d546899c9f8842ed9385de-86d98af0.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17502,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1066857250_dsc02692_copy_a798c0ec042343d2b16a79438b08ea1a-7496d32b.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16992,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067310425_pc_ttg_amd_gaming_ryzen_7_7800x3d_rtx_5060_8gb_all_new_bao_hanh_36_thang14__1_-6ccf548f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 18826,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067266380_12362_zotac_gaming_geforce_rtx_5060_ti_16gb_twin_edge_oc_1_caa9921010da41d383e8652449da5e9f-61d55ecb.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14632,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067310783_pc_ttg_designer_3d_render_edit_video_i7_14700kf_rtx_5060_8gb14__1_-729fdbb2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 18950,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067388338_pc_amd_gaming_pro_ryzen_5_8400f_rtx_5060_ti_8gb1__3_-568e43cb.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13618,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067573995_pc_ttg_designer_3d_render_edit_video_i7_14700kf_rtx_5070_ti_16gb_o-7c204701.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16506,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067749684_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_-fdb1230a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 15526,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1067750065_dsc02779_copy_ed23efd7eb5a4cc0b4fbcf9d3873c112-380ac216.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17538,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1068179994_pc_ttg_gaming_i5_10400f_rtx_3050_8gb11-3a9341c9.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13702,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1069164519_pc_ttg_gaming_i5_14400f_rtx_3060_12g__3_-a9ac8ea0.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14086,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1069436540_card_man_hinh_asus_rog_astral_rtx_5090_32g_gaming_white_oc_1_cab262232ab44d1b983f193b64106759-b5ea1bf3.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14126,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1069546902_12869_11344_12283_11879_pc_mini_i5_14600kf_rtx_4070_12gb_pcm_4__1__abd3929b8d7548fbb9f413e260b5-d4c07816.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 21944,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1069224619_dsc02409_b146778ced2e4255b489bf3cb3754ec8-353c1706.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16566,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1070354927_pcm_dsc01236_5fbe2742af624d15ba1569b9d347a902-13601dc1.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 21022,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1070648416_man_hinh_msi_mag_272f_x24_1_ea8abbfa194847c2a10a0cedb40d1791-a2cca281.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14818,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071164337_53821_m__n_h__nh_msi_mag_245f_x24___1__0843cb2019f7441192ae772f3cace6bb-217de65a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 12574,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071164411_tuf_gaming_vg259qm5a_bfc59bac5a9e4d35ba3b59bf422e08b7-d1870745.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 6942,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071344848_pc_ttg_home_office_ryzen_5_3400g_ram_16gb_ssd_256gb__1_-ea6a9d9a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 11514,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071344861_pc_ttg_home_office_ryzen_5_3400g_ram_16gb_ssd_256gb_kem_man_hinh__2_-9308daa2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14476,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071344878_pc_ttg_home_office_ryzen_5_5500gt_ram_16gb_ssd_256gb_kem_man_hinh__2_-9308daa2.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14476,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071344884_pc_ttg_home_office_ryzen_5_5500gt_ram_16gb_ssd_256gb__3_-ea6a9d9a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 11514,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071539305_vga_zotac_gaming_geforce_rtx_5060_twin_edge_1_b196753399e64fc6a3f9e6e601fa1293-ad9805ff.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 15018,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071570188_pc_ttg_designer_3d_render_edit_video_ultra_7_265kf_rtx_5060_ti_8gb1__3_-43805c80.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13734,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071747886_pcm_dsc04714_dc6e0ca680b04f33855a0b744b180007-67eeaf5b.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13578,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071614787_pc_ttg_amd_gaming_ryzen_7_5700x_rx_7600_8gb___2_-0c515a89.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 12776,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071748151_pcm_dsc02242-75a0e65e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 20814,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071614808_pc_ttg_amd_ryzen_5_5500_rtx_3060_12g__3_-40f61340.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14224,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071870959_pcm_dsc00871_1_9d04138b9a3b4c97903cc3f192168858-dc827a3d.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 26574,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071871333_13110_dsc00342_copy_e15810bfa2c74f2ea64d272cd24e9da0-a89d952b.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 21870,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071871481_13110_dsc00314_copy_0b1d706386e14ce1af4723a1d9db63f6-ae6f8e6d.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 19478,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072048008_125_12869_11344_12283_11879_pc_mini_i5_14600kf_rtx_4070_12gb_pcm_4__1__1bf36cb7ddca42f6ba1c2ff7-ef7ad7a9.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 21952,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071966832_pcm_dsc01312_7b797190e4c942a288c2244b510c576a-86893cc7.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 22432,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1071966667_pcm_dsc01300_86676e13b94046878fe71228e6ffc937-b8ffc29f.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 23522,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072089536_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_8gb14__1_-40084a42.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 20448,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072090334_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_ti_8gb__2_-9229904a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13666,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100132_pcm_dsc02218-d7902572.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 20626,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072091962_h732_0e66be1c15604be39c85603d64ca3934-afa56b8e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 22738,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100123_pc_ttg_ultra_gaming_i5_14400f_rtx_5070_ti_16gb_o__5_-a1ad111a.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 15506,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100284_cpu_intel_core_ultra_7_270k_plus-67b3fdc5.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 8302,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100287_card_man_hinh_msi_geforce_rtx_5090_lightning_z_32gb_gddr7_1-a94227bb.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17090,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100412_intel_core_ultra_7_270k_plus_tray-bd1549cf.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 10926,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100483_cpu_core_ultra_5_250k_plus_tray-d49b5d9d.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 11448,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100401_pc_aqua_ml_rtx_5070ti_zotac_5-e1bb80f8.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13678,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100408_man_hinh_msi_pro_mp242_e14a_pcm_1-5b6f908e.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 13566,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100486_pc_ttg_gaming_core_ultra_5_250k_plus_rtx_5060_ti_16gb1__1_-106ad472.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16558,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100514_card_pny_geforce_rtx_5060_8gb_argb_epic_x_rgb_oc_triple_fan__2_-e6b261a0.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 16072,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100517_card_man_hinh_pny_geforce_rtx_5060_ti_16gb_oc_dual_fan__2_-600f1342.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 14236,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100539_man_hinh_lg_ultragear_27g640a_b__3_-4c4fec35.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 10258,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100579_pc_ttg_office_ryzen_3_3200g_ram_8gb_ssd_256gb_kem_windows_11_pro__2_-2bf8dac8.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9338,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100577_pc_ttg_office_ryzen_5_3400g_ram_8gb_ssd_256gb_kem_windows_11_pro__2_-2bf8dac8.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9338,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100637_pc_ttg_office_ryzen_3_3200g_ram_8gb_ssd_256gb_kem_man_hinh_windows_11_pro__1_-50f90760.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 17056,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100578_pc_ttg_office_ryzen_5_5500gt_ram_8gb_ssd_256gb_kem_windows_11_pro__2_-2bf8dac8.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 9338,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "fonts/inter-vietnamese.woff2",
+      "status": 200,
+      "mime": "font/woff2",
+      "bodyBytes": 15268,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "image/products/250_1072100840_pc_ttg_amd_ryzen_5_5500_rtx_5050_8gb_oc14__1_-21dce180.webp",
+      "status": 200,
+      "mime": "image/webp",
+      "bodyBytes": 19786,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "fonts/inter-latin-ext.woff2",
+      "status": 200,
+      "mime": "font/woff2",
+      "bodyBytes": 133336,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "js/home.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 129,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/carousel.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 2202,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "fonts/inter-latin.woff2",
+      "status": 200,
+      "mime": "font/woff2",
+      "bodyBytes": 72920,
+      "gzip": false,
+      "matches": true
+    },
+    {
+      "file": "js/modules/commitment.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 738,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/demo.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 446,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/header.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 1911,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/motion.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 245,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/hero.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 1714,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/modules/sale-tabs.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 811,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/ui.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 224,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/video-state.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 145,
+      "gzip": true,
+      "matches": true
+    },
+    {
+      "file": "js/video.js",
+      "status": 200,
+      "mime": "text/javascript",
+      "bodyBytes": 1540,
+      "gzip": true,
+      "matches": true
+    }
+  ]
+}

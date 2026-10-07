@@ -1,0 +1,20 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {load} from 'cheerio';
+const normalize=s=>s.replace(/\s+/g,' ').trim();
+test('Footer preserves showroom, company, copyright and demo destinations',async()=>{
+ const d=JSON.parse(await fs.readFile('data/store.snapshot.json','utf8'));
+ const original=load(d.footer,null,false),$=load(await fs.readFile('index.html','utf8'));
+ assert.deepEqual($('.showroom-name').toArray().map(e=>normalize($(e).text())),original('.footer-showroom h3').toArray().map(e=>normalize(original(e).text())));
+ assert.deepEqual($('.showroom-info li').toArray().map(e=>normalize($(e).text())),original('.footer-showroom li').toArray().map(e=>normalize(original(e).text())));
+ assert.deepEqual($('.footer-company-grid h3').toArray().map(e=>normalize($(e).text())),original('.footer-company h4').toArray().map(e=>normalize(original(e).text())));
+ assert.deepEqual($('.footer-company-grid p,.footer-company-grid li').toArray().map(e=>normalize($(e).text())),original('.footer-company .grid p,.footer-company .grid li').toArray().map(e=>normalize(original(e).text())));
+ assert.equal(normalize($('.footer-copyright').text()),normalize(original('.copyright').text()));
+ $('.ttg-footer a').each((_,e)=>assert.equal($(e).attr('href'),'#'));
+ assert.equal($('.footer-icon').length,12);$('.footer-icon').each((_,e)=>assert.equal($(e).attr('aria-hidden'),'true'));
+ assert.ok(Number($('.footer-logo img').attr('width'))>0);
+ assert.equal($('.footer-bct img').length,1);
+ assert.equal($('.ttg-footer [onclick],.ttg-footer script').length,0);
+ for(const n of [1,2])assert.ok((await fs.readFile(`image/icons/ttgshop-static-icon-border-${n}.png`)).length>0);
+});

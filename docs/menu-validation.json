@@ -1,0 +1,58 @@
+[
+  {
+    "focused": "PC GAMING GIÁ RẺ",
+    "height": 703,
+    "index": 0,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "PC VIDEO EDITING",
+    "height": 703,
+    "index": 1,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+    "height": 703,
+    "index": 4,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "CPU",
+    "height": 703,
+    "index": 6,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "Màn Hình Theo Nhu Cầu",
+    "height": 703,
+    "index": 7,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "Thiết Bị Stream",
+    "height": 703,
+    "index": 8,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  },
+  {
+    "focused": "LAPTOP THEO HÃNG",
+    "height": 703,
+    "index": 14,
+    "overflow": false,
+    "visible": true,
+    "width": 1300
+  }
+]
