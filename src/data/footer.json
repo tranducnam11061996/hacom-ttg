@@ -1,0 +1,418 @@
+{
+  "showrooms": [
+    {
+      "name": "Showroom Hà Nội",
+      "lines": [
+        {
+          "icon": "footer-icon-location",
+          "parts": [
+            {
+              "text": " \n              \n              Địa chỉ: 83 - 85 Thái Hà - Đống Đa - HN\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-phone",
+          "parts": [
+            {
+              "text": " \n              \n              Số điện thoại: ",
+              "link": false
+            },
+            {
+              "text": "088.697.6868",
+              "link": true
+            },
+            {
+              "text": " - ",
+              "link": false
+            },
+            {
+              "text": " 087.997.9997",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-email",
+          "parts": [
+            {
+              "text": " \n              \n              Email: ",
+              "link": false
+            },
+            {
+              "text": "theloc93.neu@gmail.com",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-map",
+          "parts": [
+            {
+              "text": " \n              \n              ",
+              "link": false
+            },
+            {
+              "text": "Xem bản đồ đường đi",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Showroom TP. HỒ CHÍ MINH",
+      "lines": [
+        {
+          "icon": "footer-icon-location",
+          "parts": [
+            {
+              "text": " \n              \n              Địa chỉ: 83A Cửu Long -Phường 15 - Q10 - TP.HCM\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-phone",
+          "parts": [
+            {
+              "text": " \n              \n              Số điện thoại: ",
+              "link": false
+            },
+            {
+              "text": "088.697.6868",
+              "link": true
+            },
+            {
+              "text": " - ",
+              "link": false
+            },
+            {
+              "text": " 087.997.9997",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-email",
+          "parts": [
+            {
+              "text": " \n              \n              Email: ",
+              "link": false
+            },
+            {
+              "text": "theloc93.neu@gmail.com",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        },
+        {
+          "icon": "footer-icon-map",
+          "parts": [
+            {
+              "text": " \n              \n              ",
+              "link": false
+            },
+            {
+              "text": "Xem bản đồ đường đi",
+              "link": true
+            },
+            {
+              "text": "\n            ",
+              "link": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "logo": {
+    "src": "/images/brand/logo_ttgshop-logo-27122025-1-91346259.webp",
+    "width": 507,
+    "height": 180
+  },
+  "companies": [
+    {
+      "title": "Về TTG SHOP",
+      "blocks": [
+        {
+          "paragraph": "TTG SHOP là đơn vị chuyên cung cấp PC GAMING , PC ĐỒ HỌA , PC Đẹp và các sản phẩm linh kiện máy tính giá tốt.",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "Thông tin liên hệ",
+      "blocks": [
+        {
+          "paragraph": "",
+          "items": [
+            {
+              "icon": "footer-icon-contact-location",
+              "parts": [
+                {
+                  "text": " \n              \n              ",
+                  "link": false
+                },
+                {
+                  "text": " CS1: Số 83 - 85 Thái Hà - Đống Đa - HN ",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "footer-icon-contact-location",
+              "parts": [
+                {
+                  "text": " \n              \n              ",
+                  "link": false
+                },
+                {
+                  "text": " CS2: Số 83A Cửu Long -Phường 15 - Q10 - TP.HCM ",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "footer-icon-contact-phone",
+              "parts": [
+                {
+                  "text": " \n              \n              ",
+                  "link": false
+                },
+                {
+                  "text": " ",
+                  "link": false
+                },
+                {
+                  "text": "088.697.6868",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "footer-icon-contact-email",
+              "parts": [
+                {
+                  "text": " \n              \n              ",
+                  "link": false
+                },
+                {
+                  "text": "theloc93.neu@gmail.com",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tài Khoản Ngân Hàng",
+      "blocks": [
+        {
+          "paragraph": "",
+          "items": [
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Tài Khoản Ngân Hàng",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Tìm kiếm Phương thức thanh toán",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "",
+                  "link": true
+                }
+              ],
+              "image": {
+                "src": "/images/brand/ttgshop-bct-1-e3a8ee83.webp",
+                "width": 600,
+                "height": 227
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chính sách",
+      "blocks": [
+        {
+          "paragraph": "",
+          "items": [
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Chính Sách Bảo Mật",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Quy Định Bảo Hành",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Chính Sách Đổi Trả",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Điều khoản sử dụng",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            },
+            {
+              "icon": "",
+              "parts": [
+                {
+                  "text": "\n              ",
+                  "link": false
+                },
+                {
+                  "text": "Chính sách vận chuyển & kiểm hàng",
+                  "link": true
+                },
+                {
+                  "text": "\n            ",
+                  "link": false
+                }
+              ],
+              "image": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "copyright": [
+    "CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI PCM",
+    "Giấy phép Chứng nhận đăng ký doanh nghiệp số: 0110441021 do Sở Kế hoạch và đầu tư thành phố Hà Nội (Nay là Sở Tài chính thành phố Hà Nội) cấp lần đầu ngày: 07/08/2023; thay đổi lần thứ nhất ngày: 05/07/2024",
+    "Trụ sở: Số 83-85 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",
+    "Copyright ©2025"
+  ]
+}

@@ -90,3 +90,33 @@ Preview mặc định cổng 4173; có thể đặt `$env:PORT='4174'` để ch�
 Test tương tác dùng ES module đầy đủ với Node VM Modules; `npm test` bật `--experimental-vm-modules`. Node có thể in ExperimentalWarning; đây là cơ chế của test, không phải lỗi browser/runtime. Không cần thư viện trình duyệt mới.
 
 Khi upload hosting, tải `index.html`, `videos/`, `image/`, `fonts/`, toàn bộ `js/` (kể cả `modules/`) và `css/site.min.css`. Giữ cấu trúc thư mục; không upload nguồn build hoặc snapshot.
+
+## Chi tiết và sản phẩm tương tự
+
+Màn chi tiết mới là ví dụ đầy đủ tại `scripts/build-product.mjs` và `scripts/templates/pages/product/index.mjs`. Các component trong `components/product/` nhận snapshot và context, không đọc file hay gọi mạng. Section tương tự dùng thẻ mặc định hiện có:
+
+```js
+import { similarProducts } from './components/similar-products.mjs';
+const related = similarProducts({
+  products: productData.similarProducts,
+  assets: productData.assets, overlays: productData.overlays, context,
+  id: 'related-products-title', title: 'SẢN PHẨM TƯƠNG TỰ',
+  allHref: assetUrl('pc/index.html', context),
+});
+```
+
+Mỗi instance cấp id riêng. Rail hiện là demo tĩnh có native overflow; không gắn `data-category-carousel` nếu chưa được yêu cầu tương tác. `productCard` hỗ trợ `href` tùy chọn; mặc định gọi `productHref` để chỉ liên kết đến sản phẩm đã có màn local. `fragment.mjs` chuyển ảnh đã làm sạch sang đường dẫn local theo depth; không đưa HTML nghiệp vụ chưa làm sạch vào component.
+
+Pipeline hiện gồm store/category/product/videos/CSS. Khi phát hành thêm `pc/` và `pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc/`. Browser verification bắt buộc theo rule toàn cục: Chrome DevTools MCP qua launcher quản lý profile riêng.
+
+## Giỏ hàng và liên hệ nổi
+
+Pipeline đã có bước cart trước videos/CSS; phát hành thêm `cart/`. `cartContent({cartData,storeData,contactData,context})` ghép component trong `components/cart/`: cartItemRow, cartItems, buyerInformation, cartSummary, cartActions. Component nhận dữ liệu qua tham số; tổng tính tại build. `storeLayout` và `header` nhận `cartCount` tùy chọn; bỏ qua thì badge ẩn. Liên kết cart/index.html dùng context.depth.
+
+`floatingContact({contacts,assets,context})` dùng chung với chi tiết sản phẩm; hai nút dùng data-demo. Form giỏ dùng data-demo-form và novalidate để submit luôn hiện toast. Không thêm name hoặc endpoint gửi đơn vào form demo.
+
+## Build PC
+
+Pipeline có `build:buildpc` trước videos/CSS, xuất `buildpc/index.html`. `buildpcContent({buildData,storeData,contactData,context})` ghép component cấu hình và picker trong `components/buildpc/`. Các component nhận dữ liệu; `buildComponentGroup` hỗ trợ items rỗng. `formatMoney` trong `utils/money.mjs` dùng chung với cart.
+
+Entry `js/buildpc.js` nạp UI chung và quản lý popup trình bày. Dùng native dialog, reset form mỗi lần mở, giữ focus trong popup và trả focus khi đóng. Nội dung demo trong dialog dùng `[data-demo-status]` để toast xuất hiện trong lớp modal; các màn khác tiếp tục dùng `#demo-status`. Header Build PC dùng context.depth và giữ badge mặc định nếu không truyền cartCount.

@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-10-08T10:17:15.715Z",
+  "browser": "Chrome DevTools MCP dedicated managed profile",
+  "mobile": [
+    {
+      "url": "http://127.0.0.1:4173/cart",
+      "width": 390,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "overflows": [],
+      "labels": true,
+      "columns": [
+        {
+          "x": 22,
+          "y": 1090.34375,
+          "width": 346,
+          "height": 677,
+          "top": 1090.34375,
+          "right": 368,
+          "bottom": 1767.34375,
+          "left": 22
+        },
+        {
+          "x": 22,
+          "y": 1787.34375,
+          "width": 346,
+          "height": 497,
+          "top": 1787.34375,
+          "right": 368,
+          "bottom": 2284.34375,
+          "left": 22
+        }
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4173/cart",
+      "width": 768,
+      "scrollWidth": 753,
+      "brokenImages": [],
+      "overflows": [],
+      "labels": true,
+      "columns": [
+        {
+          "x": 25,
+          "y": 881.09375,
+          "width": 703,
+          "height": 481,
+          "top": 881.09375,
+          "right": 728,
+          "bottom": 1362.09375,
+          "left": 25
+        },
+        {
+          "x": 25,
+          "y": 1382.09375,
+          "width": 703,
+          "height": 476,
+          "top": 1382.09375,
+          "right": 728,
+          "bottom": 1858.09375,
+          "left": 25
+        }
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4173/cart",
+      "width": 1024,
+      "scrollWidth": 1009,
+      "brokenImages": [],
+      "overflows": [],
+      "labels": true,
+      "columns": [
+        {
+          "x": 25,
+          "y": 881.09375,
+          "width": 959,
+          "height": 481,
+          "top": 881.09375,
+          "right": 984,
+          "bottom": 1362.09375,
+          "left": 25
+        },
+        {
+          "x": 25,
+          "y": 1382.09375,
+          "width": 959,
+          "height": 476,
+          "top": 1382.09375,
+          "right": 984,
+          "bottom": 1858.09375,
+          "left": 25
+        }
+      ]
+    }
+  ],
+  "demo": {
+    "buttonsClicked": 15,
+    "submitPrevented": true,
+    "toastVisible": true,
+    "items": 3,
+    "quantities": [
+      1,
+      1,
+      1
+    ],
+    "total": 134940000,
+    "xhrFetchWebSocket": 0,
+    "consoleErrorsWarnings": 0,
+    "storageKeys": [],
+    "reloadClearsInputs": true,
+    "keyboardTab": "cart-name -> cart-phone",
+    "keyboardSubmitPrevented": true
+  },
+  "productRegression": {
+    "header": 1,
+    "footer": 1,
+    "contactRail": 1,
+    "contactWidth": 45,
+    "badgeHidden": true
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "width": 1280,
+    "region": "items",
+    "crop": {
+      "left": 33,
+      "top": 254,
+      "width": 1200,
+      "height": 333
+    },
+    "changedPixelPercent": 0.158,
+    "meanChannelError": 0.161
+  },
+  {
+    "width": 1280,
+    "region": "form",
+    "crop": {
+      "left": 33,
+      "top": 596,
+      "width": 1200,
+      "height": 511
+    },
+    "changedPixelPercent": 1.471,
+    "meanChannelError": 1.597
+  },
+  {
+    "width": 1280,
+    "region": "whole",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1265,
+      "height": 2450
+    },
+    "changedPixelPercent": 0.904,
+    "meanChannelError": 0.831
+  },
+  {
+    "width": 1440,
+    "region": "items",
+    "crop": {
+      "left": 113,
+      "top": 254,
+      "width": 1200,
+      "height": 333
+    },
+    "changedPixelPercent": 0.158,
+    "meanChannelError": 0.161
+  },
+  {
+    "width": 1440,
+    "region": "form",
+    "crop": {
+      "left": 113,
+      "top": 596,
+      "width": 1200,
+      "height": 511
+    },
+    "changedPixelPercent": 1.157,
+    "meanChannelError": 1.187
+  },
+  {
+    "width": 1440,
+    "region": "whole",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1425,
+      "height": 2450
+    },
+    "changedPixelPercent": 0.692,
+    "meanChannelError": 0.723
+  },
+  {
+    "width": 1620,
+    "region": "items",
+    "crop": {
+      "left": 10,
+      "top": 275,
+      "width": 1585,
+      "height": 333
+    },
+    "changedPixelPercent": 0.117,
+    "meanChannelError": 0.136
+  },
+  {
+    "width": 1620,
+    "region": "form",
+    "crop": {
+      "left": 10,
+      "top": 617,
+      "width": 1585,
+      "height": 518
+    },
+    "changedPixelPercent": 1.207,
+    "meanChannelError": 1.314
+  },
+  {
+    "width": 1620,
+    "region": "whole",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1612,
+      "height": 2591
+    },
+    "changedPixelPercent": 0.829,
+    "meanChannelError": 0.799
+  },
+  {
+    "width": 1920,
+    "region": "items",
+    "crop": {
+      "left": 153,
+      "top": 275,
+      "width": 1600,
+      "height": 333
+    },
+    "changedPixelPercent": 0.116,
+    "meanChannelError": 0.135
+  },
+  {
+    "width": 1920,
+    "region": "form",
+    "crop": {
+      "left": 153,
+      "top": 617,
+      "width": 1600,
+      "height": 518
+    },
+    "changedPixelPercent": 0.81,
+    "meanChannelError": 0.731
+  },
+  {
+    "width": 1920,
+    "region": "whole",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1905,
+      "height": 2591
+    },
+    "changedPixelPercent": 0.77,
+    "meanChannelError": 0.642
+  }
+]

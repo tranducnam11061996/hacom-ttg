@@ -16,6 +16,7 @@ const types = {
   ".woff2": "font/woff2",
   ".png": "image/png",
   ".jpg": "image/jpeg",
+  ".jpeg": "image/jpeg",
 };
 http
   .createServer(async (req, res) => {
@@ -23,6 +24,8 @@ http
       let pathname = decodeURIComponent(
         new URL(req.url, "http://localhost").pathname,
       );
+      if (pathname === '/pc') pathname = '/pc/index.html';
+      if (allowed.has(pathname + '/index.html')) pathname += '/index.html';
       if (pathname.endsWith("/")) pathname += "index.html";
       if (!allowed.has(pathname)) throw Error('Not public');
       const file = path.resolve(root, "." + pathname);

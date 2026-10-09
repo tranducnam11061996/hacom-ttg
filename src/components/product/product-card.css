@@ -1,0 +1,129 @@
+@layer components {
+  .category-card {
+    @apply flex min-w-0 snap-start flex-col rounded-[4px] border border-[#dadada] bg-white px-[10px] pb-[12px] pt-[10px];
+  }
+  .category-image {
+    @apply relative block aspect-square shrink-0 rounded-[4px];
+  }
+  .category-image:focus-visible {
+    outline-offset: -3px;
+  }
+  .category-image > img:first-child {
+    @apply transition-transform duration-300;
+  }
+  .category-image:hover > img:first-child {
+    transform: translateY(-10px);
+  }
+  .category-name {
+    @apply my-[10px] min-h-[34px] text-[14px] leading-[17px] font-normal;
+  }
+  .category-name a {
+    @apply line-clamp-2;
+  }
+  .category-prices {
+    @apply mb-[10px] flex items-center justify-between gap-[4px];
+  }
+  .category-price-stack {
+    @apply min-w-0;
+    line-height: 21px;
+  }
+  .category-price {
+    @apply text-[14px] leading-[20px] font-bold text-[#e40000] md:text-[16px];
+  }
+  .category-market {
+    @apply mt-[2px] inline-flex text-[12px] leading-[16px] font-normal text-[#9a9a9a] md:text-[13px];
+  }
+  .category-discount {
+    @apply min-w-[30px] shrink-0 rounded-[4px] bg-[#e40000] px-[4px] text-center text-[10px] leading-[20px] font-normal text-white md:min-w-[38px] md:px-[6px] md:text-[11px];
+  }
+  .category-bottom {
+    @apply mt-auto grid justify-items-start gap-[4px];
+  }
+  .category-buy {
+    @apply relative h-[24px] w-full min-w-0 overflow-hidden rounded-[12px] text-black;
+  }
+  .category-buy::before {
+    content: "";
+    @apply absolute inset-y-0 left-0 w-[20px] rounded-[12px] bg-[#263b96] transition-[width] duration-300;
+  }
+  .category-buy:hover::before {
+    width: 100%;
+  }
+  .category-buy:hover {
+    @apply text-white;
+  }
+  .category-buy-inner {
+    @apply absolute inset-0 flex items-center gap-[4px] pr-[4px] text-[11px] leading-[12px] font-bold whitespace-nowrap;
+  }
+  .category-cart {
+    @apply flex size-[20px] shrink-0 items-center justify-center rounded-full bg-[#263b96] text-white;
+  }
+  .category-cart svg {
+    @apply size-[17px];
+    stroke-width: 1.5;
+  }
+  .category-stock {
+    @apply rounded-[14px] bg-[#d7fce8] px-[7px] text-[10px] leading-[20px] font-medium text-[#00653b] whitespace-nowrap;
+  }
+  .category-stock-empty {
+    @apply bg-[#ff0000] text-white;
+  }
+  @media (min-width: 48rem) {
+    .category-bottom {
+      @apply flex items-center justify-between;
+    }
+    .category-buy {
+      width: auto;
+      min-width: 129px;
+    }
+    .category-buy::before,
+    .category-cart {
+      width: 24px;
+      height: 24px;
+    }
+    .category-buy-inner {
+      @apply gap-[6px] pr-[10px] text-[12px];
+    }
+    .category-cart svg {
+      width: 20px;
+      height: 20px;
+    }
+  }
+  @media (min-width: 101.25rem) {
+    .category-name {
+      min-height: 40px;
+      font-size: 16px;
+      line-height: 20px;
+    }
+    .category-price-stack {
+      line-height: 24px;
+    }
+    .category-price {
+      font-size: 18px;
+      line-height: 22px;
+    }
+    .category-market {
+      font-size: 15px;
+      line-height: 18px;
+    }
+    .category-discount {
+      @apply px-[7px] text-[13px] leading-[22px];
+    }
+    .category-buy {
+      min-width: 140px;
+      height: 26px;
+    }
+    .category-buy::before,
+    .category-cart {
+      width: 26px;
+      height: 26px;
+    }
+    .category-buy-inner {
+      font-size: 13px;
+      line-height: 16px;
+    }
+    .category-stock {
+      @apply px-[10px] text-[12px] leading-[24px];
+    }
+  }
+}

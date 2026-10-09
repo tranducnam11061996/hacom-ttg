@@ -103,7 +103,9 @@ for (const file of [...allowed].filter(file => file.startsWith('js/'))) {
   const b = await fs.readFile(file);
   metrics.js[file.slice(3)] = { bytes: b.length, gzipBytes: gzipSync(b).length };
 }
-if (css.length > 70 * 1024) errors.push('CSS exceeds 70 KiB');
+// Ten screens; Build PC adds a scoped responsive modal. Keep gzip budget unchanged.
+if (css.length > 85 * 1024) errors.push('CSS exceeds 85 KiB');
+if (metrics.cssGzipBytes > 18 * 1024) errors.push('Compressed CSS exceeds 18 KiB');
 metrics.htmlGzipBytes = gzipSync(await fs.readFile("index.html")).length;
 await fs.writeFile(
   "docs/validation.json",

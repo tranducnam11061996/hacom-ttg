@@ -1,8 +1,9 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { productDetailSlug } from './templates/utils/paths.mjs';
 
 // Single registration point for generated pages. Never discover HTML from the root.
-export const storePages = [{ file: 'index.html', depth: 0 }];
+export const storePages = [{ file: 'index.html', depth: 0 }, { file: 'pc/index.html', depth: 1 }, { file: 'cart/index.html', depth: 1 }, { file: 'buildpc/index.html', depth: 1 }, { file: productDetailSlug + '/index.html', depth: 1 }];
 const youtube = JSON.parse(await fs.readFile(new URL('../data/youtube.snapshot.json', import.meta.url), 'utf8'));
 export const videoPages = [
   { file: 'videos/index.html', depth: 1 },

@@ -1,0 +1,7 @@
+@reference "./globals.css";
+@import "../components/layout/footer.css";
+@import "../components/support/support.css";
+@import "../components/layout/header.css";
+@import "../components/layout/menu.css";
+@import "../components/product/product-card.css";
+@import "../components/product/carousel.css";

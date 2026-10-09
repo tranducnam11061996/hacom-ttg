@@ -7,10 +7,11 @@ export function initDemo(document = globalThis.document) {
   let toast;
   function demo(event) {
     event.preventDefault();
-    status.textContent = 'Đây là giao diện demo. Chức năng mua hàng chưa được kết nối.';
-    status.hidden = false;
+    const target = document.querySelector('dialog[open] [data-demo-status]') || status;
+    target.textContent = 'Đây là giao diện demo. Chức năng mua hàng chưa được kết nối.';
+    target.hidden = false;
     clearTimeout(toast);
-    toast = setTimeout(() => { status.hidden = true; }, 4000);
+    toast = setTimeout(() => { target.hidden = true; }, 4000);
   }
   document.addEventListener('click', event => {
     if (event.target.closest('a[href="#"], [data-demo]')) demo(event);

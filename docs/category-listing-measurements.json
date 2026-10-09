@@ -1,0 +1,890 @@
+{
+  "desktop": [
+    {
+      "width": 1280,
+      "name": "reference",
+      "rects": [
+        {
+          "s": ".category-description",
+          "x": 32.5,
+          "y": 222.5,
+          "width": 1200,
+          "height": 283,
+          "top": 222.5,
+          "right": 1232.5,
+          "bottom": 505.5,
+          "left": 32.5
+        },
+        {
+          "s": ".category-filter",
+          "x": 32.5,
+          "y": 517.5,
+          "width": 260,
+          "height": 1723,
+          "top": 517.5,
+          "right": 292.5,
+          "bottom": 2240.5,
+          "left": 32.5
+        },
+        {
+          "s": ".category-products",
+          "x": 304.5,
+          "y": 517.5,
+          "width": 928,
+          "height": 5516,
+          "top": 517.5,
+          "right": 1232.5,
+          "bottom": 6033.5,
+          "left": 304.5
+        },
+        {
+          "s": ".category-products__list",
+          "x": 316.5,
+          "y": 576.5,
+          "width": 904,
+          "height": 5388,
+          "top": 576.5,
+          "right": 1220.5,
+          "bottom": 5964.5,
+          "left": 316.5
+        },
+        {
+          "s": ".p-item",
+          "x": 316.5,
+          "y": 576.5,
+          "width": 217,
+          "height": 348,
+          "top": 576.5,
+          "right": 533.5,
+          "bottom": 924.5,
+          "left": 316.5
+        },
+        {
+          "s": ".paging",
+          "x": 316.5,
+          "y": 5980.5,
+          "width": 904,
+          "height": 38,
+          "top": 5980.5,
+          "right": 1220.5,
+          "bottom": 6018.5,
+          "left": 316.5
+        },
+        {
+          "s": ".support-featured",
+          "x": 32.5,
+          "y": 6065.5,
+          "width": 1200,
+          "height": 165.5,
+          "top": 6065.5,
+          "right": 1232.5,
+          "bottom": 6231,
+          "left": 32.5
+        },
+        {
+          "s": ".support-question",
+          "x": 32.5,
+          "y": 6263,
+          "width": 1200,
+          "height": 438,
+          "top": 6263,
+          "right": 1232.5,
+          "bottom": 6701,
+          "left": 32.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6741,
+          "width": 1265,
+          "height": 271,
+          "top": 6741,
+          "right": 1265,
+          "bottom": 7012,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1280,
+      "name": "local",
+      "rects": [
+        {
+          "s": ".listing-description",
+          "x": 32.5,
+          "y": 222.5,
+          "width": 1200,
+          "height": 283,
+          "top": 222.5,
+          "right": 1232.5,
+          "bottom": 505.5,
+          "left": 32.5
+        },
+        {
+          "s": ".listing-sidebar",
+          "x": 32.5,
+          "y": 517.5,
+          "width": 260,
+          "height": 1723,
+          "top": 517.5,
+          "right": 292.5,
+          "bottom": 2240.5,
+          "left": 32.5
+        },
+        {
+          "s": ".listing-products",
+          "x": 304.5,
+          "y": 517.5,
+          "width": 928,
+          "height": 5516,
+          "top": 517.5,
+          "right": 1232.5,
+          "bottom": 6033.5,
+          "left": 304.5
+        },
+        {
+          "s": ".listing-grid",
+          "x": 316.5,
+          "y": 576.5,
+          "width": 904,
+          "height": 5388,
+          "top": 576.5,
+          "right": 1220.5,
+          "bottom": 5964.5,
+          "left": 316.5
+        },
+        {
+          "s": ".listing-card",
+          "x": 316.5,
+          "y": 576.5,
+          "width": 217,
+          "height": 348,
+          "top": 576.5,
+          "right": 533.5,
+          "bottom": 924.5,
+          "left": 316.5
+        },
+        {
+          "s": ".listing-pagination",
+          "x": 316.5,
+          "y": 5980.5,
+          "width": 904,
+          "height": 38,
+          "top": 5980.5,
+          "right": 1220.5,
+          "bottom": 6018.5,
+          "left": 316.5
+        },
+        {
+          "s": ".service-section",
+          "x": 32.5,
+          "y": 6065.5,
+          "width": 1200,
+          "height": 165.5,
+          "top": 6065.5,
+          "right": 1232.5,
+          "bottom": 6231,
+          "left": 32.5
+        },
+        {
+          "s": ".commitment-section",
+          "x": 32.5,
+          "y": 6263,
+          "width": 1200,
+          "height": 438,
+          "top": 6263,
+          "right": 1232.5,
+          "bottom": 6701,
+          "left": 32.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6741,
+          "width": 1265,
+          "height": 271,
+          "top": 6741,
+          "right": 1265,
+          "bottom": 7012,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1440,
+      "name": "reference",
+      "rects": [
+        {
+          "s": ".category-description",
+          "x": 112.5,
+          "y": 222.5,
+          "width": 1200,
+          "height": 283,
+          "top": 222.5,
+          "right": 1312.5,
+          "bottom": 505.5,
+          "left": 112.5
+        },
+        {
+          "s": ".category-filter",
+          "x": 112.5,
+          "y": 517.5,
+          "width": 260,
+          "height": 1723,
+          "top": 517.5,
+          "right": 372.5,
+          "bottom": 2240.5,
+          "left": 112.5
+        },
+        {
+          "s": ".category-products",
+          "x": 384.5,
+          "y": 517.5,
+          "width": 928,
+          "height": 5516,
+          "top": 517.5,
+          "right": 1312.5,
+          "bottom": 6033.5,
+          "left": 384.5
+        },
+        {
+          "s": ".category-products__list",
+          "x": 396.5,
+          "y": 576.5,
+          "width": 904,
+          "height": 5388,
+          "top": 576.5,
+          "right": 1300.5,
+          "bottom": 5964.5,
+          "left": 396.5
+        },
+        {
+          "s": ".p-item",
+          "x": 396.5,
+          "y": 576.5,
+          "width": 217,
+          "height": 348,
+          "top": 576.5,
+          "right": 613.5,
+          "bottom": 924.5,
+          "left": 396.5
+        },
+        {
+          "s": ".paging",
+          "x": 396.5,
+          "y": 5980.5,
+          "width": 904,
+          "height": 38,
+          "top": 5980.5,
+          "right": 1300.5,
+          "bottom": 6018.5,
+          "left": 396.5
+        },
+        {
+          "s": ".support-featured",
+          "x": 112.5,
+          "y": 6065.5,
+          "width": 1200,
+          "height": 165.5,
+          "top": 6065.5,
+          "right": 1312.5,
+          "bottom": 6231,
+          "left": 112.5
+        },
+        {
+          "s": ".support-question",
+          "x": 112.5,
+          "y": 6263,
+          "width": 1200,
+          "height": 438,
+          "top": 6263,
+          "right": 1312.5,
+          "bottom": 6701,
+          "left": 112.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6741,
+          "width": 1425,
+          "height": 271,
+          "top": 6741,
+          "right": 1425,
+          "bottom": 7012,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1440,
+      "name": "local",
+      "rects": [
+        {
+          "s": ".listing-description",
+          "x": 112.5,
+          "y": 222.5,
+          "width": 1200,
+          "height": 283,
+          "top": 222.5,
+          "right": 1312.5,
+          "bottom": 505.5,
+          "left": 112.5
+        },
+        {
+          "s": ".listing-sidebar",
+          "x": 112.5,
+          "y": 517.5,
+          "width": 260,
+          "height": 1723,
+          "top": 517.5,
+          "right": 372.5,
+          "bottom": 2240.5,
+          "left": 112.5
+        },
+        {
+          "s": ".listing-products",
+          "x": 384.5,
+          "y": 517.5,
+          "width": 928,
+          "height": 5516,
+          "top": 517.5,
+          "right": 1312.5,
+          "bottom": 6033.5,
+          "left": 384.5
+        },
+        {
+          "s": ".listing-grid",
+          "x": 396.5,
+          "y": 576.5,
+          "width": 904,
+          "height": 5388,
+          "top": 576.5,
+          "right": 1300.5,
+          "bottom": 5964.5,
+          "left": 396.5
+        },
+        {
+          "s": ".listing-card",
+          "x": 396.5,
+          "y": 576.5,
+          "width": 217,
+          "height": 348,
+          "top": 576.5,
+          "right": 613.5,
+          "bottom": 924.5,
+          "left": 396.5
+        },
+        {
+          "s": ".listing-pagination",
+          "x": 396.5,
+          "y": 5980.5,
+          "width": 904,
+          "height": 38,
+          "top": 5980.5,
+          "right": 1300.5,
+          "bottom": 6018.5,
+          "left": 396.5
+        },
+        {
+          "s": ".service-section",
+          "x": 112.5,
+          "y": 6065.5,
+          "width": 1200,
+          "height": 165.5,
+          "top": 6065.5,
+          "right": 1312.5,
+          "bottom": 6231,
+          "left": 112.5
+        },
+        {
+          "s": ".commitment-section",
+          "x": 112.5,
+          "y": 6263,
+          "width": 1200,
+          "height": 438,
+          "top": 6263,
+          "right": 1312.5,
+          "bottom": 6701,
+          "left": 112.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6741,
+          "width": 1425,
+          "height": 271,
+          "top": 6741,
+          "right": 1425,
+          "bottom": 7012,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1620,
+      "name": "reference",
+      "rects": [
+        {
+          "s": ".category-description",
+          "x": 10,
+          "y": 240.5,
+          "width": 1585,
+          "height": 286,
+          "top": 240.5,
+          "right": 1595,
+          "bottom": 526.5,
+          "left": 10
+        },
+        {
+          "s": ".category-filter",
+          "x": 10,
+          "y": 538.5,
+          "width": 260,
+          "height": 1723,
+          "top": 538.5,
+          "right": 270,
+          "bottom": 2261.5,
+          "left": 10
+        },
+        {
+          "s": ".category-products",
+          "x": 282,
+          "y": 538.5,
+          "width": 1313,
+          "height": 4966.4375,
+          "top": 538.5,
+          "right": 1595,
+          "bottom": 5504.9375,
+          "left": 282
+        },
+        {
+          "s": ".category-products__list",
+          "x": 294,
+          "y": 597.5,
+          "width": 1289,
+          "height": 4838.4375,
+          "top": 597.5,
+          "right": 1583,
+          "bottom": 5435.9375,
+          "left": 294
+        },
+        {
+          "s": ".p-item",
+          "x": 294,
+          "y": 597.5,
+          "width": 248.1875,
+          "height": 392.203125,
+          "top": 597.5,
+          "right": 542.1875,
+          "bottom": 989.703125,
+          "left": 294
+        },
+        {
+          "s": ".paging",
+          "x": 294,
+          "y": 5451.9375,
+          "width": 1289,
+          "height": 38,
+          "top": 5451.9375,
+          "right": 1583,
+          "bottom": 5489.9375,
+          "left": 294
+        },
+        {
+          "s": ".support-featured",
+          "x": 10,
+          "y": 5536.9375,
+          "width": 1585,
+          "height": 192.5,
+          "top": 5536.9375,
+          "right": 1595,
+          "bottom": 5729.4375,
+          "left": 10
+        },
+        {
+          "s": ".support-question",
+          "x": 10,
+          "y": 5761.4375,
+          "width": 1585,
+          "height": 456,
+          "top": 5761.4375,
+          "right": 1595,
+          "bottom": 6217.4375,
+          "left": 10
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6257.4375,
+          "width": 1605,
+          "height": 300,
+          "top": 6257.4375,
+          "right": 1605,
+          "bottom": 6557.4375,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1620,
+      "name": "local",
+      "rects": [
+        {
+          "s": ".listing-description",
+          "x": 10,
+          "y": 240.5,
+          "width": 1585,
+          "height": 286,
+          "top": 240.5,
+          "right": 1595,
+          "bottom": 526.5,
+          "left": 10
+        },
+        {
+          "s": ".listing-sidebar",
+          "x": 10,
+          "y": 538.5,
+          "width": 260,
+          "height": 1723,
+          "top": 538.5,
+          "right": 270,
+          "bottom": 2261.5,
+          "left": 10
+        },
+        {
+          "s": ".listing-products",
+          "x": 282,
+          "y": 538.5,
+          "width": 1313,
+          "height": 4966.4375,
+          "top": 538.5,
+          "right": 1595,
+          "bottom": 5504.9375,
+          "left": 282
+        },
+        {
+          "s": ".listing-grid",
+          "x": 294,
+          "y": 597.5,
+          "width": 1289,
+          "height": 4838.4375,
+          "top": 597.5,
+          "right": 1583,
+          "bottom": 5435.9375,
+          "left": 294
+        },
+        {
+          "s": ".listing-card",
+          "x": 294,
+          "y": 597.5,
+          "width": 248.1875,
+          "height": 392.203125,
+          "top": 597.5,
+          "right": 542.1875,
+          "bottom": 989.703125,
+          "left": 294
+        },
+        {
+          "s": ".listing-pagination",
+          "x": 294,
+          "y": 5451.9375,
+          "width": 1289,
+          "height": 38,
+          "top": 5451.9375,
+          "right": 1583,
+          "bottom": 5489.9375,
+          "left": 294
+        },
+        {
+          "s": ".service-section",
+          "x": 10,
+          "y": 5536.9375,
+          "width": 1585,
+          "height": 192.5,
+          "top": 5536.9375,
+          "right": 1595,
+          "bottom": 5729.4375,
+          "left": 10
+        },
+        {
+          "s": ".commitment-section",
+          "x": 10,
+          "y": 5761.4375,
+          "width": 1585,
+          "height": 456,
+          "top": 5761.4375,
+          "right": 1595,
+          "bottom": 6217.4375,
+          "left": 10
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6257.4375,
+          "width": 1605,
+          "height": 300,
+          "top": 6257.4375,
+          "right": 1605,
+          "bottom": 6557.4375,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1920,
+      "name": "reference",
+      "rects": [
+        {
+          "s": ".category-description",
+          "x": 152.5,
+          "y": 240.5,
+          "width": 1600,
+          "height": 286,
+          "top": 240.5,
+          "right": 1752.5,
+          "bottom": 526.5,
+          "left": 152.5
+        },
+        {
+          "s": ".category-filter",
+          "x": 152.5,
+          "y": 538.5,
+          "width": 260,
+          "height": 1723,
+          "top": 538.5,
+          "right": 412.5,
+          "bottom": 2261.5,
+          "left": 152.5
+        },
+        {
+          "s": ".category-products",
+          "x": 424.5,
+          "y": 538.5,
+          "width": 1328,
+          "height": 5002.4375,
+          "top": 538.5,
+          "right": 1752.5,
+          "bottom": 5540.9375,
+          "left": 424.5
+        },
+        {
+          "s": ".category-products__list",
+          "x": 436.5,
+          "y": 597.5,
+          "width": 1304,
+          "height": 4874.4375,
+          "top": 597.5,
+          "right": 1740.5,
+          "bottom": 5471.9375,
+          "left": 436.5
+        },
+        {
+          "s": ".p-item",
+          "x": 436.5,
+          "y": 597.5,
+          "width": 251.1875,
+          "height": 395.203125,
+          "top": 597.5,
+          "right": 687.6875,
+          "bottom": 992.703125,
+          "left": 436.5
+        },
+        {
+          "s": ".paging",
+          "x": 436.5,
+          "y": 5487.9375,
+          "width": 1304,
+          "height": 38,
+          "top": 5487.9375,
+          "right": 1740.5,
+          "bottom": 5525.9375,
+          "left": 436.5
+        },
+        {
+          "s": ".support-featured",
+          "x": 152.5,
+          "y": 5572.9375,
+          "width": 1600,
+          "height": 192.5,
+          "top": 5572.9375,
+          "right": 1752.5,
+          "bottom": 5765.4375,
+          "left": 152.5
+        },
+        {
+          "s": ".support-question",
+          "x": 152.5,
+          "y": 5797.4375,
+          "width": 1600,
+          "height": 456,
+          "top": 5797.4375,
+          "right": 1752.5,
+          "bottom": 6253.4375,
+          "left": 152.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6293.4375,
+          "width": 1905,
+          "height": 300,
+          "top": 6293.4375,
+          "right": 1905,
+          "bottom": 6593.4375,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    },
+    {
+      "width": 1920,
+      "name": "local",
+      "rects": [
+        {
+          "s": ".listing-description",
+          "x": 152.5,
+          "y": 240.5,
+          "width": 1600,
+          "height": 286,
+          "top": 240.5,
+          "right": 1752.5,
+          "bottom": 526.5,
+          "left": 152.5
+        },
+        {
+          "s": ".listing-sidebar",
+          "x": 152.5,
+          "y": 538.5,
+          "width": 260,
+          "height": 1723,
+          "top": 538.5,
+          "right": 412.5,
+          "bottom": 2261.5,
+          "left": 152.5
+        },
+        {
+          "s": ".listing-products",
+          "x": 424.5,
+          "y": 538.5,
+          "width": 1328,
+          "height": 5002.4375,
+          "top": 538.5,
+          "right": 1752.5,
+          "bottom": 5540.9375,
+          "left": 424.5
+        },
+        {
+          "s": ".listing-grid",
+          "x": 436.5,
+          "y": 597.5,
+          "width": 1304,
+          "height": 4874.4375,
+          "top": 597.5,
+          "right": 1740.5,
+          "bottom": 5471.9375,
+          "left": 436.5
+        },
+        {
+          "s": ".listing-card",
+          "x": 436.5,
+          "y": 597.5,
+          "width": 251.1875,
+          "height": 395.203125,
+          "top": 597.5,
+          "right": 687.6875,
+          "bottom": 992.703125,
+          "left": 436.5
+        },
+        {
+          "s": ".listing-pagination",
+          "x": 436.5,
+          "y": 5487.9375,
+          "width": 1304,
+          "height": 38,
+          "top": 5487.9375,
+          "right": 1740.5,
+          "bottom": 5525.9375,
+          "left": 436.5
+        },
+        {
+          "s": ".service-section",
+          "x": 152.5,
+          "y": 5572.9375,
+          "width": 1600,
+          "height": 192.5,
+          "top": 5572.9375,
+          "right": 1752.5,
+          "bottom": 5765.4375,
+          "left": 152.5
+        },
+        {
+          "s": ".commitment-section",
+          "x": 152.5,
+          "y": 5797.4375,
+          "width": 1600,
+          "height": 456,
+          "top": 5797.4375,
+          "right": 1752.5,
+          "bottom": 6253.4375,
+          "left": 152.5
+        },
+        {
+          "s": ".footer-showroom",
+          "x": 0,
+          "y": 6293.4375,
+          "width": 1905,
+          "height": 300,
+          "top": 6293.4375,
+          "right": 1905,
+          "bottom": 6593.4375,
+          "left": 0
+        }
+      ],
+      "broken": 0
+    }
+  ],
+  "mobile": [
+    {
+      "width": 360,
+      "scroll": 345,
+      "columns": "150.5px 150.5px",
+      "button": "<button type=\"button\" data-description-toggle=\"\" aria-expanded=\"false\" aria-controls=\"listing-description-content\">Xem thêm<svg aria-hidden=\"true\" height=\"16\" width=\"16\" viewBox=\"0 -960 960 960\"><path fill=\"#ff5636\" d=\"M480-192 240-432l51-51 189 189 189-189 51 51-240 240Zm0-285L240-717l51-51 189 189 189-189 51 51-240 240Z\"></path></svg></button>",
+      "buttonStyle": "inline-flex",
+      "priceOverflow": 0,
+      "broken": 0
+    },
+    {
+      "width": 390,
+      "scroll": 375,
+      "columns": "165.5px 165.5px",
+      "button": "<button type=\"button\" data-description-toggle=\"\" aria-expanded=\"false\" aria-controls=\"listing-description-content\">Xem thêm<svg aria-hidden=\"true\" height=\"16\" width=\"16\" viewBox=\"0 -960 960 960\"><path fill=\"#ff5636\" d=\"M480-192 240-432l51-51 189 189 189-189 51 51-240 240Zm0-285L240-717l51-51 189 189 189-189 51 51-240 240Z\"></path></svg></button>",
+      "buttonStyle": "inline-flex",
+      "priceOverflow": 0,
+      "broken": 0
+    },
+    {
+      "width": 768,
+      "scroll": 753,
+      "columns": "137.656px 137.672px 137.672px",
+      "button": "<button type=\"button\" data-description-toggle=\"\" aria-expanded=\"false\" aria-controls=\"listing-description-content\">Xem thêm<svg aria-hidden=\"true\" height=\"16\" width=\"16\" viewBox=\"0 -960 960 960\"><path fill=\"#ff5636\" d=\"M480-192 240-432l51-51 189 189 189-189 51 51-240 240Zm0-285L240-717l51-51 189 189 189-189 51 51-240 240Z\"></path></svg></button>",
+      "buttonStyle": "inline-flex",
+      "priceOverflow": 0,
+      "broken": 0
+    },
+    {
+      "width": 1024,
+      "scroll": 1009,
+      "columns": "223px 223px 223px",
+      "button": "<button type=\"button\" data-description-toggle=\"\" aria-expanded=\"false\" aria-controls=\"listing-description-content\">Xem thêm<svg aria-hidden=\"true\" height=\"16\" width=\"16\" viewBox=\"0 -960 960 960\"><path fill=\"#ff5636\" d=\"M480-192 240-432l51-51 189 189 189-189 51 51-240 240Zm0-285L240-717l51-51 189 189 189-189 51 51-240 240Z\"></path></svg></button>",
+      "buttonStyle": "inline-flex",
+      "priceOverflow": 0,
+      "broken": 0
+    }
+  ]
+}

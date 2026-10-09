@@ -1,0 +1,6 @@
+import { esc } from '../../../html.mjs';
+export function buyerInformation({ provinces, labels }) {
+  const field = (id,label,control) => `<tr><td><label for="${id}">${label}</label></td><td>${control}</td></tr>`;
+  const required = label => label+'<span class="cart-required">*</span>';
+  return `<section class="cart-buyer" aria-labelledby="cart-buyer-title"><h2 id="cart-buyer-title" class="cart-column-title">${esc(labels.buyer)}</h2><p class="cart-buyer-hint">${esc(labels.buyerHint)}</p><table class="cart-buyer-fields"><tbody>${field('cart-name',required('Họ tên'),'<input id="cart-name" type="text" autocomplete="off">')}${field('cart-phone',required('SĐT'),'<input id="cart-phone" type="tel" autocomplete="off">')}${field('cart-email',required('Email'),'<input id="cart-email" type="email" autocomplete="off">')}${field('cart-address',required('Địa chỉ'),'<textarea id="cart-address" autocomplete="off"></textarea>')}${field('cart-province',required('Tỉnh/Thành phố'),'<select id="cart-province">'+provinces.map(p=>`<option value="${esc(p.value)}">${esc(p.name)}</option>`).join('')+'</select>')}${field('cart-district',required('Quận/Huyện'),'<select id="cart-district"><option value="0">Chọn Quận/Huyện</option></select>')}${field('cart-note','Ghi chú','<textarea id="cart-note" class="cart-note" autocomplete="off"></textarea>')}</tbody></table></section>`;
+}

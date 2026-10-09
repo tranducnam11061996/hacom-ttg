@@ -1,0 +1,739 @@
+{
+  "source": "https://ttgshop.vn/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+  "collectedAt": "2026-10-08T09:05:18.052Z",
+  "productId": "1072100357",
+  "slug": "pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+  "title": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC",
+  "displayTitle": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC (Cấu hình gốc)",
+  "price": "52.480.000 đ",
+  "market": "55.990.000 đ",
+  "saving": "3.510.000",
+  "warranty": "Bảo hành: 36 Tháng",
+  "gallery": [
+    {
+      "image": "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "thumbnail": "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png"
+    },
+    {
+      "image": "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png",
+      "thumbnail": "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png"
+    },
+    {
+      "image": "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png",
+      "thumbnail": "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png"
+    },
+    {
+      "image": "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png",
+      "thumbnail": "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png"
+    },
+    {
+      "image": "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg",
+      "thumbnail": "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg"
+    },
+    {
+      "image": "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg",
+      "thumbnail": "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg"
+    },
+    {
+      "image": "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg",
+      "thumbnail": "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg"
+    }
+  ],
+  "summary": [
+    "CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)",
+    "Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5",
+    "RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black",
+    "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)",
+    "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze",
+    "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB",
+    "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB",
+    "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK"
+  ],
+  "upgradeGroups": [
+    {
+      "label": "RAM",
+      "options": [
+        "RAM 16GB DDR5",
+        "RAM 32GB DDR5"
+      ],
+      "selectedIndex": 0
+    },
+    {
+      "label": "Ổ cứng SSD",
+      "options": [
+        "SSD 500GB",
+        "SSD 1TB"
+      ],
+      "selectedIndex": 0
+    },
+    {
+      "label": "Tản nhiệt",
+      "options": [
+        "Tản nhiệt khí",
+        "Tản nhiệt nước AIO 360"
+      ],
+      "selectedIndex": 0
+    }
+  ],
+  "comboGroups": [
+    {
+      "title": "Màn hình máy tính",
+      "image": "/media/category/cat_big_1003486567.png"
+    },
+    {
+      "title": "Bàn phím",
+      "image": "/media/category/cat_big_1003353341.png"
+    },
+    {
+      "title": "Chuột",
+      "image": "/media/category/cat_big_1003353370.png"
+    },
+    {
+      "title": "Tai nghe Chơi Game",
+      "image": "/media/category/cat_big_1004013226.jpg"
+    }
+  ],
+  "specificationRows": [
+    [
+      "1",
+      "CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)",
+      "1",
+      "36th"
+    ],
+    [
+      "2",
+      "Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5",
+      "1",
+      "36th"
+    ],
+    [
+      "3",
+      "RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black",
+      "1",
+      "36th"
+    ],
+    [
+      "4",
+      "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)",
+      "1",
+      "36th"
+    ],
+    [
+      "5",
+      "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze",
+      "1",
+      "36th"
+    ],
+    [
+      "6",
+      "Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB",
+      "1",
+      "36th"
+    ],
+    [
+      "7",
+      "Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB",
+      "1",
+      "12th"
+    ],
+    [
+      "8",
+      "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK",
+      "1",
+      "12th"
+    ]
+  ],
+  "similarProducts": [
+    {
+      "name": "PC TTG GAMING i5 14400F - 16GB DDR4 - RTX 5060 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1072089700_pc_ttg_gaming_i5_14400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg",
+      "price": "25.980.000 VNĐ",
+      "market": "",
+      "discount": "",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-gaming-i5-14400f-16gb-ddr4-rtx-5060-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG GAMING i5 12400F - 16GB DDR4 - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1072089536_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg",
+      "price": "25.280.000 VNĐ",
+      "market": "27.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-gaming-i5-12400f-16gb-ddr4-rtx-5060-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 5 5500 - RTX 3050 6GB  (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1071614838_pc_ttg_amd_ryzen_5_5500_rtx_3050_6g__1_.jpg",
+      "price": "14.280.000 VNĐ",
+      "market": "15.990.000 VNĐ",
+      "discount": "-11%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-ryzen-5-5500-rtx-3050-6gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 7 5700X - RTX 3050 8GB  (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1070582333_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_8gb11.png",
+      "price": "18.280.000 VNĐ",
+      "market": "19.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-gaming-ryzen-7-5700x-rtx-3050-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG GAMING i5 12400F - RTX 5050 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1068280629_pc_ttg_gaming_i5_12400f_rtx_5050_8gb14__1_.png",
+      "price": "21.860.000 VNĐ",
+      "market": "24.980.000 VNĐ",
+      "discount": "-12%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-gaming-i5-12400f-rtx-5050-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING PRO Ryzen 7 7800X3D - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1067952500_pc_ttg_amd_gaming_pro_ryzen_7_7800x3d_rtx_5060_ti_8gb1__3_.jpg",
+      "price": "35.980.000 VNĐ",
+      "market": "37.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-gaming-pro-ryzen-7-7800x3d-rtx-5060-ti-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC AMD GAMING TTG PRO Ryzen 5 8400F - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1067388338_pc_amd_gaming_pro_ryzen_5_8400f_rtx_5060_ti_8gb1__3_.jpg",
+      "price": "29.680.000 VNĐ",
+      "market": "31.990.000 VNĐ",
+      "discount": "-7%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-amd-gaming-pro-ryzen-5-8400f-rtx-5060-ti-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 7500F - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1067310443_pc_ttg_amd_gaming_ryzen_5_7500f_rtx_5060_8gb_all_new_bao_hanh_36_thang14__1_.jpeg",
+      "price": "28.680.000 VNĐ",
+      "market": "30.990.000 VNĐ",
+      "discount": "-7%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-gaming-ryzen-5-7500f-rtx-5060-8gb-all-new-bao-hanh-36-thang",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1064329771_pc_amd_gaming_pro_ryzen_7_7800x3d_rtx_5070_12g__2_.png",
+      "price": "48.680.000 VNĐ",
+      "market": "53.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-amd-gaming-pro-ryzen-7-7800x3d-rtx-5070-12gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC AMD GAMING Ryzen 7 9800X3D - RTX 5070 Ti 16GB OC (ALL NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1063688299_pc_amd_gaming_ryzen_7_9800x3d_rtx_5070_ti_16gb_oc_all_new_bao_hanh_36_t__5_.png",
+      "price": "61.980.000 VNĐ",
+      "market": "65.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-amd-gaming-ryzen-7-9800x3d-rtx-5070-ti-16gb-oc-all-new-bao-hanh-36-thang",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 7 5700X  - RTX 3050 6GB (All NEW - Bảo hành 36 tháng)",
+      "image": "/media/product/250_1058176674_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_6g__1_.jpg",
+      "price": "16.860.000 VNĐ",
+      "market": "17.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-gaming-ryzen-7-5700x-rtx-3050-6gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC CHƠI GAME HIỆU SUẤT CAO RTX 3060 12GB - i5 12400F -SL: 12 Slots Order 6 Hà Nội  - HCM 6 slots",
+      "image": "/media/product/250_1049266798_pc_choi_game_hieu_suat_cao_rtx_3060_12gb_12400f_all__2_.jpg",
+      "price": "22.280.000 VNĐ",
+      "market": "23.990.000 VNĐ",
+      "discount": "-7%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-choi-game-hieu-suat-cao-rtx-3060-12gb-12400f-all-new",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 7500X3D - RTX 5060 8GB OC",
+      "image": "/media/product/250_1072100168_pc_ttg_amd_gaming_ryzen_5_7500x3d_rtx_5060_8gb_oc14__1_.jpeg",
+      "price": "32.280.000 VNĐ",
+      "market": "34.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-amd-gaming-ryzen-5-7500x3d-rtx-5060-8gb-oc",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG ULTRA GAMING I5 14400F - RTX 5050 8GB",
+      "image": "/media/product/250_1072100354_pc_ttg_ultra_gaming_i5_14400f_rtx_5050_8gb14__1_.png",
+      "price": "22.680.000 VNĐ",
+      "market": "25.990.000 VNĐ",
+      "discount": "-13%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-ultra-gaming-i5-14400f-rtx-5050-8gb",
+      "overlay": "delta"
+    },
+    {
+      "name": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC",
+      "image": "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "price": "52.480.000 VNĐ",
+      "market": "55.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "sourceUrl": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+      "overlay": "delta"
+    }
+  ],
+  "fragments": {
+    "price": "\n          <div class=\"pd-price flex flex-wrap items-center justify-between gap-[10px] text-[20px] leading-[24px] p-[16px] text-white bg-[linear-gradient(90deg,#FF5033_0%,#FF7301_100%)] rounded-[8px] min-[1620px]:p-[20px]\">\n            <p class=\"pd-price-sale text-[24px] font-bold min-[1620px]:text-[28px]\">52.480.000 <u>đ</u></p>\n            \n            <del class=\"pd-price-market\">\n              55.990.000 đ\n            </del>\n\n            <p class=\"pd-price-discount text-[14px] min-[1620px]:text-[16]\" style=\"visibility: visible;\">\n              Tiết kiệm: <span class=\"\">3.510.000</span>Đ\n            </p>\n          </div> \n\n          <div class=\"flex items-center gap-[10px] mt-[12px]\">\n            <span class=\"pd-wantary inline-block text-[12px] leading-[28px] px-[9px] bg-[#FFC617] rounded-[4px] min-[1620px]:text-[14px]\">\n              Bảo hành: 36 Tháng\n            </span>\n            <a class=\"pd-call-support\" href=\"#\" data-demo=\"\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"20\" viewBox=\"0 -960 960 960\" width=\"20\" fill=\"#ffffff\"><path d=\"M680-80q-50 0-85-35t-35-85q0-6 3-28L282-392q-16 15-37 23.5t-45 8.5q-50 0-85-35t-35-85q0-50 35-85t85-35q24 0 45 8.5t37 23.5l281-164q-2-7-2.5-13.5T560-760q0-50 35-85t85-35q50 0 85 35t35 85q0 50-35 85t-85 35q-24 0-45-8.5T598-672L317-508q2 7 2.5 13.5t.5 14.5q0 8-.5 14.5T317-452l281 164q16-15 37-23.5t45-8.5q50 0 85 35t35 85q0 50-35 85t-85 35Z\"></path></svg>\n              TƯ VẤN NÂNG CẤP\n            </a>\n\n          </div>\n            \n        ",
+    "summary": "\n          <p class=\"leading-[17px] font-bold mb-[8px]\">Mô tả sản phẩm</p>\n\n          <ul class=\"text-[13px] leading-[20px] min-[1620px]:text-[15px] tracking-tight\">\n            \n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB\n</span>\n            </li>\n            <li class=\"flex items-start gap-[4px] mb-[2px]\">\n              <span class=\"pd-icon pd-icon-check\" aria-hidden=\"true\"></span>\n              <span class=\"flex-1\">Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK</span>\n            </li>\n            </ul>\n        ",
+    "promotion": "\n          <p class=\"flex items-center gap-[6px] font-bold text-[#E40000] px-[9px] py-[12px] bg-[#F4F4F4] border-b border-b-[#E4E4E4]\">\n            <span class=\"pd-icon pd-icon-gift\" aria-hidden=\"true\"></span> KHUYẾN MÃI\n          </p>\n\n          <div class=\"px-[10px] pt-[14px] pb-[6px]\">\n            <ul class=\"text-[13px] leading-[20px] min-[1620px]:text-[15px]\">\n              \n              <li class=\"flex items-start gap-[8px] mb-[6px]\">\n                <span class=\"pd-icon pd-icon-gift\" aria-hidden=\"true\"></span>\n                <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></strong></span></p>\n</div>\n              </li>\n              <li class=\"flex items-start gap-[8px] mb-[6px]\">\n                <span class=\"pd-icon pd-icon-gift\" aria-hidden=\"true\"></span>\n                <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n              </li>\n              <li class=\"flex items-start gap-[8px] mb-[6px]\">\n                <span class=\"pd-icon pd-icon-gift\" aria-hidden=\"true\"></span>\n                <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n              </li>\n              </ul>\n          </div>\n        ",
+    "quantity": "\n          <p class=\"font-bold\">Số lượng:</p>\n\n          <div class=\"flex border border-[#E3E3E3] rounded-[4px] overflow-hidden\">\n            <input class=\"w-[50px] h-[50px] text-[16px] text-center leading-[22px] p-[13px_5px] border-r border-r-[#E3E3E3]\" type=\"text\" aria-label=\"Số lượng mua\" value=\"1\" min=\"1\" max=\"999\" readonly=\"\">\n            <div class=\"top-[1px] right-0 bottom-[0] w-[45px]\">\n              <button class=\"flex items-center justify-center w-full h-[24px] hover:[&amp;_svg]:fill-[var(--color-primary)]\" type=\"button\" title=\"Thêm\" aria-label=\"Thêm\" data-demo=\"\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"18px\" viewBox=\"0 -960 960 960\" width=\"18px\" fill=\"#000000\"><path d=\"M444-444H240v-72h204v-204h72v204h204v72H516v204h-72v-204Z\"></path></svg>\n              </button>\n              \n              <div class=\"border-b w-full border-b-[#E3E3E3]\"></div>\n              \n              <button class=\"flex items-center justify-center w-full h-[24px] hover:[&amp;_svg]:fill-[var(--color-primary)]\" type=\"button\" title=\"Giảm\" aria-label=\"Giảm\" data-demo=\"\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"18px\" viewBox=\"0 -960 960 960\" width=\"18px\" fill=\"#000000\"><path d=\"M232-444v-72h496v72H232Z\"></path></svg>\n              </button>\n            </div>\n          </div>\n        ",
+    "purchase": "\n          <button class=\"col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]\" type=\"button\" data-demo=\"\">\n            ĐẶT HÀNG\n          </button>\n          \n          <button class=\"h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white\" type=\"button\" data-demo=\"\">\n            THÊM VÀO GIỎ\n          </button>\n          \n          <button class=\"h-[56px] text-white font-bold bg-[#1877F2] rounded-[4px] hover:bg-[#1169db]\" type=\"button\" data-demo=\"\">\n            <p>TRẢ GÓP QUA HỒ SƠ</p>\n            <p class=\"text-[13px] font-normal\"> Chỉ từ 6.997.334 VNĐ/tháng</p>\n          </button>\n        ",
+    "description": "\n            <p>PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC là một trong những cấu hình máy tính chơi game hiệu năng cao đã được TTGShop tối ưu phần cứng nhằm đem lại sự ổn định , hiệu năng chơi game cực tốt với mức giá ưu đãi nhất giúp game thủ livestream và chiến game mượt mà.</p>\n<h3><strong>1. CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)</strong></h3>\n<p>CPU Intel Core Ultra 7 270K Plus là một trong những mẫu CPU nổi bật của dòng Core Ultra 200 series mới nhất. Điểm nổi bật của CPU này nằm ở cấu trúc 24 nhân hybrid, bao gồm: 8 Performance-cores (P-cores) dành cho các tác vụ nặng như gaming hoặc render và 16 Efficient-cores (E-cores) tối ưu cho đa nhiệm và các tiến trình chạy nền. Không chỉ thế, Ultra 7 270K Plus còn sở hữu xung nhịp Turbo P-core lên tới 5.4GHz, trong khi E-core có thể đạt tối đa khoảng 4.7GHz và bộ nhớ đệm lớn lên tới 30MB Intel Smart Cache. Nhờ đó, CPU này có thể xử lý hiệu quả nhiều loại khối lượng công việc khác nhau, từ chơi game, livestream cho đến chạy các phần mềm đồ họa hay lập trình.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://ttgshop.vn/media/product/1072100284_cpu_intel_core_ultra_7_270k_plus.jpg\" alt=\"CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)\n\"></p>\n<p>&nbsp;</p>\n<h3><strong>2. Mainboard GIGABYTE Z890M AORUS ELITE WIFI DDR5</strong></h3>\n<p>Z890M AORUS ELITE WIFI DDR5 là mẫu bo mạch chủ cao cấp của nhà Gigabyte, được thiết kế để mang lại hiệu năng mạnh mẽ cho các cấu hình PC Gaming và PC đồ họa chuyên nghiệp. Với khả năng hỗ trợ CPU Intel Core Ultra, bộ nhớ DDR5, và công nghệ Wi-Fi 7 mới nhất, sản phẩm này là lựa chọn tối ưu cho những ai tìm kiếm sức mạnh vượt trội trong một kích thước nhỏ gọn.</p>\n<h3><strong>3. RAM APACER NOX 16GB BUS 5200MHZ BLACK</strong></h3>\n<p>RAM APACER NOX DDR5 là mẫu RAM cao cấp hội tụ mọi yếu tố từ thiết kế ấn tượng tới hiệu năng mạnh để trở thành sự lựa chọn hoàn hảo cho những bộ PC Gaming, PC đồ họa hiệu năng cao. Dung lượng lên tới 16GB chuẩn DDR5 Bus 5200Mhz, mang lại khả năng đa nhiệm mượt mà, nhanh chóng cũng như tăng lượng fps trong game của bạn lên đáng kể. Ngoài ra, bộ nhớ này còn hỗ trợ Intel® XMP 3.0, giúp người dùng có thể dễ dàng ép xung hệ thống mà không cần thực hiện bất kỳ điều chỉnh thủ công nào đối với các thông số BIOS. Độ trễ thấp và điện áp hoạt động thấp giúp giảm tiêu thụ điện năng, giữ cho các linh kiện luôn mát và kéo dài tuổi thọ. Chơi game ở độ phân giải cao nhất trong khi vẫn duy trì tốc độ và độ ổn định.</p>\n<p style=\"text-align: center;\"><img src=\"https://ttgshop.vn/media/product/1064480073_ram_apacer_nox_16gb_ddr5_5200mhz_2_eebab9bbd65d4b34a7f6ed9a2c63b0d1.jpg\" alt=\"RAM APACER NOX 16GB DDR5 bus 5200Mhz – Black\"></p>\n<h3><strong>4. Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4)</strong></h3>\n<p>Ổ Cứng SSD SSTC Oceanic Whitetip E130 512GB M.2 2280 PCIe NVMe (Gen 3x4) được thiết kế để mang lại trải nghiệm sử dụng máy tính hoàn toàn mới: tốc độ khởi động tức thì, tải ứng dụng nhanh, và khả năng xử lý đa nhiệm mượt mà. Dung lượng lên tới 512Gb giúp bạn thoải mái cài đặt hệ điều hành, tất cả các phần mềm làm việc, đồ họa, và một thư viện game lớn. Với tốc độ đọc tuần tự lên đến 3.600 MB/s và tốc độ ghi lên đến 2.900 MB/s (tùy thuộc vào cấu hình cụ thể), ổ cứng này giúp bạn khởi động hệ điều hành chỉ trong vài giây và giảm đáng kể thời gian chuyển cảnh, vào trận, giúp trải nghiệm gaming liền mạch.</p>\n<h3><strong>5. Nguồn máy tính Gigabyte P750BS 750W (80 Plus Bronze, GP-P750BS)</strong></h3>\n<p>Với công suất 750W và tích hợp một loạt các tính năng bảo vệ bao gồm OCP, OTP, OVP, OPP, UVP và SCP, Gigabyte P750BS là sự lựa chọn lý tưởng cho các cấu hình PC gaming, PC đồ họa tầm trung đến cao cấp, nhằm đảm bảo hiệu năng ổn định và an toàn tuyệt đối cho các linh kiện. Nguồn máy tính này đạt chuẩn 80 Plus Bronze (230V EU), cho hiệu suất 88% ở mức tải 50%, giúp giảm lãng phí điện năng, giảm sinh nhiệt và giảm thiểu tiếng ồn của quạt. Với thiết kế chuẩn ATX 12V v3.0, nguồn hỗ trợ tốt cho các hệ thống sử dụng các dòng CPU và GPU đời mới, đáp ứng tốt những yêu cầu ngày càng cao về điện năng.</p>\n<h3><strong>6. Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB</strong></h3>\n<p>Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB là mẫu card màn hình nhỏ gọn nhưng không kém phần mạnh mẽ, được trang bị kiến ​​trúc Blackwell tiên tiến của NVIDIA, công nghệ DLSS4 và 6144 lõi CUDA cùng 12GB bộ nhớ GDDR7, đáp ứng tốt hầu hết mọi nhu cầu từ chơi game, livestream cho đến xử lý các công việc thiết kế, Dựng Phim-Edit Video,...</p>\n          ",
+    "specification": "\n            <table dir=\"ltr\" style=\"margin-left: auto; margin-right: auto;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"100\"><col width=\"770\"><col width=\"100\"><col width=\"100\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">STT</td>\n<td style=\"text-align: center;\">Mô tả thiết bị</td>\n<td style=\"text-align: center;\">SL</td>\n<td style=\"text-align: center;\">BH</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>1</td>\n<td>CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>2</td>\n<td>Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>3</td>\n<td>RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>4</td>\n<td>Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>5</td>\n<td>Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>6</td>\n<td>Card màn hình Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB</td>\n<td>1</td>\n<td>36th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>7</td>\n<td>Vỏ Case XIGMATEK AQUA ML BLACK - KÈM 3 FAN ARGB</td>\n<td>1</td>\n<td>12th</td>\n</tr>\n<tr style=\"text-align: center;\">\n<td>8</td>\n<td>Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB BLACK</td>\n<td>1</td>\n<td>12th</td>\n</tr>\n</tbody>\n</table>\n          "
+  },
+  "overlays": {
+    "delta": "/media/lib/26-09-2026/khung-pc-delta-force_pc.png"
+  },
+  "contacts": {
+    "messenger": "/static/assets/default/images/ttgshop-float-icon-1.png",
+    "zalo": "/static/assets/default/images/zalo-icon-15012026-1.png"
+  },
+  "assets": {
+    "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png": {
+      "source": "https://ttgshop.vn/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "path": "image/product-detail/6714b257aed84725.png",
+      "hash": "6714b257aed84725f01b5cdf9ba3f0922bd2177d229f6f23104c3f95fd0356ae",
+      "width": 1200,
+      "height": 812,
+      "bytes": 1004056,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png": {
+      "source": "https://ttgshop.vn/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png",
+      "path": "image/product-detail/734cd1ba2813b4e4.png",
+      "hash": "734cd1ba2813b4e42a0d02a928c8656402ba03ce7ff0f662493c04db15b65c27",
+      "width": 1200,
+      "height": 800,
+      "bytes": 1312613,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___4_.png",
+      "path": "image/product-detail/e3538ce0918149e3.png",
+      "hash": "e3538ce0918149e3f40a46e1064a829d9c0eff08e3012fd3b7ff57f5c67d79ff",
+      "width": 600,
+      "height": 400,
+      "bytes": 399571,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png": {
+      "source": "https://ttgshop.vn/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png",
+      "path": "image/product-detail/1c4ff8e68d18338e.png",
+      "hash": "1c4ff8e68d18338e41ac8afa6631064486a99f24c0d67e3a4e76ec2e2a95979e",
+      "width": 1200,
+      "height": 812,
+      "bytes": 860727,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___3_.png",
+      "path": "image/product-detail/b6aaeaed4e79028d.png",
+      "hash": "b6aaeaed4e79028d31b2612fb112db8162e13ea534fe549e22eb5d793d33e45c",
+      "width": 600,
+      "height": 406,
+      "bytes": 281737,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png": {
+      "source": "https://ttgshop.vn/media/product/1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png",
+      "path": "image/product-detail/246d9983c992e76b.png",
+      "hash": "246d9983c992e76b63d4903cf49b7ec37c0f4194d2e8af1df3b3a1b47ad59b5e",
+      "width": 1200,
+      "height": 800,
+      "bytes": 845308,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___1_.png",
+      "path": "image/product-detail/ec908c645923c640.png",
+      "hash": "ec908c645923c640918a5e1cb6c0b214129114a64e4372cc5fa1ee162f832bf9",
+      "width": 600,
+      "height": 400,
+      "bytes": 280512,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg": {
+      "source": "https://ttgshop.vn/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg",
+      "path": "image/product-detail/7f57063a4543b9ba.jpg",
+      "hash": "7f57063a4543b9ba6e86b4e4e3567b21c0a9a4f78e1a268b8152ea69333df784",
+      "width": 1200,
+      "height": 810,
+      "bytes": 302182,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc.jpg",
+      "path": "image/product-detail/c6b813cd5772d3f2.jpg",
+      "hash": "c6b813cd5772d3f216a3ddc1f206d3f183b1be57c7a71add6abf893559777bf1",
+      "width": 600,
+      "height": 405,
+      "bytes": 91806,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg": {
+      "source": "https://ttgshop.vn/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg",
+      "path": "image/product-detail/f7184817ab6038e9.jpg",
+      "hash": "f7184817ab6038e9a272cc439557262dfad70fb98eafbba93f4e66130f769011",
+      "width": 1200,
+      "height": 800,
+      "bytes": 254592,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc3.jpg",
+      "path": "image/product-detail/2f6addae7c88b5f3.jpg",
+      "hash": "2f6addae7c88b5f3ce6bafd25844af46ad58b4c436a059a537e2b2ae909a456a",
+      "width": 600,
+      "height": 400,
+      "bytes": 80913,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg": {
+      "source": "https://ttgshop.vn/media/product/1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg",
+      "path": "image/product-detail/8204f40b7fd9bce1.jpg",
+      "hash": "8204f40b7fd9bce1878f28567856449fc2d322d98f334047b5f17aa033480d5e",
+      "width": 1200,
+      "height": 797,
+      "bytes": 277938,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_13366_pc_gaming_core_ultra_7_270k_plus_rtx_5070_12gb_oc2.jpg",
+      "path": "image/product-detail/fa778063c55b4302.jpg",
+      "hash": "fa778063c55b4302546243ebf67fcd5978f0a1e68197d93dc951f05a7f2baf16",
+      "width": 600,
+      "height": 399,
+      "bytes": 80071,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/category/cat_big_1003486567.png": {
+      "source": "https://ttgshop.vn/media/category/cat_big_1003486567.png",
+      "path": "image/product-detail/7dab8d859179edf0.png",
+      "hash": "7dab8d859179edf0e141f5d4423988c716e767d86f032b905ebc1b8fbcc5dcbd",
+      "width": 640,
+      "height": 640,
+      "bytes": 446979,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/category/cat_big_1003353341.png": {
+      "source": "https://ttgshop.vn/media/category/cat_big_1003353341.png",
+      "path": "image/product-detail/e2015f748b8a95ec.png",
+      "hash": "e2015f748b8a95ec1b0786b22ffef94c75ce8e57b49466f85e3448b32f5fe8d3",
+      "width": 498,
+      "height": 366,
+      "bytes": 194365,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/category/cat_big_1003353370.png": {
+      "source": "https://ttgshop.vn/media/category/cat_big_1003353370.png",
+      "path": "image/product-detail/bb005f19ff510fec.png",
+      "hash": "bb005f19ff510fecd5f5400ae2ae4e8789955e524d3c1d9d798def8a454edfd6",
+      "width": 400,
+      "height": 400,
+      "bytes": 46688,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/category/cat_big_1004013226.jpg": {
+      "source": "https://ttgshop.vn/media/category/cat_big_1004013226.jpg",
+      "path": "image/product-detail/7dc1580bfc0b2289.jpg",
+      "hash": "7dc1580bfc0b2289809431a1a2fdd39c987384301ee4bf5082f8e7d220f665fd",
+      "width": 850,
+      "height": 850,
+      "bytes": 59107,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072089700_pc_ttg_gaming_i5_14400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg": {
+      "source": "https://ttgshop.vn/media/product/250_1072089700_pc_ttg_gaming_i5_14400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg",
+      "path": "image/product-detail/40084a4218499cff.jpg",
+      "hash": "40084a4218499cff40c0e902d2d1c17c720f5a1d0b4dcbcae092970859c92a96",
+      "width": 600,
+      "height": 400,
+      "bytes": 80025,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072089536_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg": {
+      "source": "https://ttgshop.vn/media/product/250_1072089536_pc_ttg_gaming_i5_12400f_16gb_ddr4_rtx_5060_8gb14__1_.jpeg",
+      "path": "image/product-detail/40084a4218499cff.jpg",
+      "hash": "40084a4218499cff40c0e902d2d1c17c720f5a1d0b4dcbcae092970859c92a96",
+      "width": 600,
+      "height": 400,
+      "bytes": 80025,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1071614838_pc_ttg_amd_ryzen_5_5500_rtx_3050_6g__1_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1071614838_pc_ttg_amd_ryzen_5_5500_rtx_3050_6g__1_.jpg",
+      "path": "image/product-detail/6e3d911e9140f219.jpg",
+      "hash": "6e3d911e9140f2198ba37a71cf96d5a5bd2ce1bf06e9ff36720abe03fd417393",
+      "width": 600,
+      "height": 400,
+      "bytes": 61343,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1070582333_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_8gb11.png": {
+      "source": "https://ttgshop.vn/media/product/250_1070582333_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_8gb11.png",
+      "path": "image/product-detail/3a9341c90009a869.png",
+      "hash": "3a9341c90009a86927095994dba3e7b246ed0f82df187ccc9861def25297aa0d",
+      "width": 600,
+      "height": 400,
+      "bytes": 289824,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1068280629_pc_ttg_gaming_i5_12400f_rtx_5050_8gb14__1_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1068280629_pc_ttg_gaming_i5_12400f_rtx_5050_8gb14__1_.png",
+      "path": "image/product-detail/21dce18072a61022.png",
+      "hash": "21dce18072a61022b601df91614cded7358ea0a38d548fb406dde0180b147748",
+      "width": 600,
+      "height": 400,
+      "bytes": 346809,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1067952500_pc_ttg_amd_gaming_pro_ryzen_7_7800x3d_rtx_5060_ti_8gb1__3_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1067952500_pc_ttg_amd_gaming_pro_ryzen_7_7800x3d_rtx_5060_ti_8gb1__3_.jpg",
+      "path": "image/product-detail/43805c8029747fdc.jpg",
+      "hash": "43805c8029747fdc8ac709360d55640faac7390dfcb8d683745c63314540fb15",
+      "width": 600,
+      "height": 400,
+      "bytes": 61190,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1067388338_pc_amd_gaming_pro_ryzen_5_8400f_rtx_5060_ti_8gb1__3_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1067388338_pc_amd_gaming_pro_ryzen_5_8400f_rtx_5060_ti_8gb1__3_.jpg",
+      "path": "image/product-detail/568e43cb5721004a.jpg",
+      "hash": "568e43cb5721004a877aacbb7d316afa781f7c7ddd0dc34a453c7ceb6a36a82f",
+      "width": 600,
+      "height": 406,
+      "bytes": 61583,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1067310443_pc_ttg_amd_gaming_ryzen_5_7500f_rtx_5060_8gb_all_new_bao_hanh_36_thang14__1_.jpeg": {
+      "source": "https://ttgshop.vn/media/product/250_1067310443_pc_ttg_amd_gaming_ryzen_5_7500f_rtx_5060_8gb_all_new_bao_hanh_36_thang14__1_.jpeg",
+      "path": "image/product-detail/40084a4218499cff.jpg",
+      "hash": "40084a4218499cff40c0e902d2d1c17c720f5a1d0b4dcbcae092970859c92a96",
+      "width": 600,
+      "height": 400,
+      "bytes": 80025,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1064329771_pc_amd_gaming_pro_ryzen_7_7800x3d_rtx_5070_12g__2_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1064329771_pc_amd_gaming_pro_ryzen_7_7800x3d_rtx_5070_12g__2_.png",
+      "path": "image/product-detail/fdb1230a1d4f75eb.png",
+      "hash": "fdb1230a1d4f75eb2f34bdda712839aaf5e44479be3df967081e102feba25858",
+      "width": 600,
+      "height": 406,
+      "bytes": 314928,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1063688299_pc_amd_gaming_ryzen_7_9800x3d_rtx_5070_ti_16gb_oc_all_new_bao_hanh_36_t__5_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1063688299_pc_amd_gaming_ryzen_7_9800x3d_rtx_5070_ti_16gb_oc_all_new_bao_hanh_36_t__5_.png",
+      "path": "image/product-detail/a1ad111a6d364a14.png",
+      "hash": "a1ad111a6d364a147e0fb11ce9a7cb9df233c3d1fd1b9d53b511996a76fe2c41",
+      "width": 600,
+      "height": 406,
+      "bytes": 332172,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1058176674_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_6g__1_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1058176674_pc_ttg_amd_gaming_ryzen_7_5700x_rtx_3050_6g__1_.jpg",
+      "path": "image/product-detail/753c24ed56af4adb.jpg",
+      "hash": "753c24ed56af4adb831b1f954b1dfe69c20be2627e811c9de4ea95d14c3bdbb4",
+      "width": 600,
+      "height": 400,
+      "bytes": 69756,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1049266798_pc_choi_game_hieu_suat_cao_rtx_3060_12gb_12400f_all__2_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1049266798_pc_choi_game_hieu_suat_cao_rtx_3060_12gb_12400f_all__2_.jpg",
+      "path": "image/product-detail/43e5a28f1d6bc0db.jpg",
+      "hash": "43e5a28f1d6bc0db6abd9fc7e4d716b3760f1111fb667b16ed63cd134335b5db",
+      "width": 600,
+      "height": 400,
+      "bytes": 61852,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100168_pc_ttg_amd_gaming_ryzen_5_7500x3d_rtx_5060_8gb_oc14__1_.jpeg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100168_pc_ttg_amd_gaming_ryzen_5_7500x3d_rtx_5060_8gb_oc14__1_.jpeg",
+      "path": "image/product-detail/40084a4218499cff.jpg",
+      "hash": "40084a4218499cff40c0e902d2d1c17c720f5a1d0b4dcbcae092970859c92a96",
+      "width": 600,
+      "height": 400,
+      "bytes": 80025,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100354_pc_ttg_ultra_gaming_i5_14400f_rtx_5050_8gb14__1_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100354_pc_ttg_ultra_gaming_i5_14400f_rtx_5050_8gb14__1_.png",
+      "path": "image/product-detail/21dce18072a61022.png",
+      "hash": "21dce18072a61022b601df91614cded7358ea0a38d548fb406dde0180b147748",
+      "width": 600,
+      "height": 400,
+      "bytes": 346809,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "path": "image/product-detail/fdb1230a1d4f75eb.png",
+      "hash": "fdb1230a1d4f75eb2f34bdda712839aaf5e44479be3df967081e102feba25858",
+      "width": 600,
+      "height": 406,
+      "bytes": 314928,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "https://ttgshop.vn/media/product/1072100284_cpu_intel_core_ultra_7_270k_plus.jpg": {
+      "source": "https://ttgshop.vn/media/product/1072100284_cpu_intel_core_ultra_7_270k_plus.jpg",
+      "path": "image/product-detail/7353e6521b09f405.jpg",
+      "hash": "7353e6521b09f405f4f77bf4f268888e854be102fab5b63ffa406deee1d48bda",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 87396,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "https://ttgshop.vn/media/product/1064480073_ram_apacer_nox_16gb_ddr5_5200mhz_2_eebab9bbd65d4b34a7f6ed9a2c63b0d1.jpg": {
+      "source": "https://ttgshop.vn/media/product/1064480073_ram_apacer_nox_16gb_ddr5_5200mhz_2_eebab9bbd65d4b34a7f6ed9a2c63b0d1.jpg",
+      "path": "image/product-detail/ec3eb133dd53a827.jpg",
+      "hash": "ec3eb133dd53a8272c7f66e9e2bff9294149155ca72786b08fa5a0bcdf89fc69",
+      "width": 600,
+      "height": 600,
+      "bytes": 40707,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/media/lib/26-09-2026/khung-pc-delta-force_pc.png": {
+      "source": "https://ttgshop.vn/media/lib/26-09-2026/khung-pc-delta-force_pc.png",
+      "path": "image/category/pc-eb03eb72ae35.png",
+      "hash": "eb03eb72ae35800e3b12db2a8d38d5d270a498a5c1fa085238b8727c7d9ad7b7",
+      "width": 1000,
+      "height": 285,
+      "bytes": 390074,
+      "status": "local",
+      "used": true,
+      "group": "category"
+    },
+    "/static/assets/default/images/ttgshop-float-icon-1.png": {
+      "source": "https://ttgshop.vn/static/assets/default/images/ttgshop-float-icon-1.png",
+      "path": "image/product-detail/88574564c7a09e1e.png",
+      "hash": "88574564c7a09e1ea17f73466e11a2bc97057423f35e2bf74bd85688e67e1b14",
+      "width": 240,
+      "height": 240,
+      "bytes": 12252,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    },
+    "/static/assets/default/images/zalo-icon-15012026-1.png": {
+      "source": "https://ttgshop.vn/static/assets/default/images/zalo-icon-15012026-1.png",
+      "path": "image/product-detail/5e2d408707ddcf4a.png",
+      "hash": "5e2d408707ddcf4aca6cec15334e7604c2bb68a6c44a567da6e9541c77baa8cc",
+      "width": 323,
+      "height": 323,
+      "bytes": 9080,
+      "status": "local",
+      "used": true,
+      "group": "product-detail"
+    }
+  },
+  "comboCartSvg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\" width=\"24\" height=\"24\" fill=\"#e30019\"><path d=\"M0 72C0 58.7 10.7 48 24 48L69.3 48C96.4 48 119.6 67.4 124.4 94L124.8 96L537.5 96C557.5 96 572.6 114.2 568.9 133.9L537.8 299.8C532.1 330.1 505.7 352 474.9 352L171.3 352L176.4 380.3C178.5 391.7 188.4 400 200 400L456 400C469.3 400 480 410.7 480 424C480 437.3 469.3 448 456 448L200.1 448C165.3 448 135.5 423.1 129.3 388.9L77.2 102.6C76.5 98.8 73.2 96 69.3 96L24 96C10.7 96 0 85.3 0 72zM160 528C160 501.5 181.5 480 208 480C234.5 480 256 501.5 256 528C256 554.5 234.5 576 208 576C181.5 576 160 554.5 160 528zM384 528C384 501.5 405.5 480 432 480C458.5 480 480 501.5 480 528C480 554.5 458.5 576 432 576C405.5 576 384 554.5 384 528zM336 142.4C322.7 142.4 312 153.1 312 166.4L312 200L278.4 200C265.1 200 254.4 210.7 254.4 224C254.4 237.3 265.1 248 278.4 248L312 248L312 281.6C312 294.9 322.7 305.6 336 305.6C349.3 305.6 360 294.9 360 281.6L360 248L393.6 248C406.9 248 417.6 237.3 417.6 224C417.6 210.7 406.9 200 393.6 200L360 200L360 166.4C360 153.1 349.3 142.4 336 142.4z\"></path></svg>"
+}

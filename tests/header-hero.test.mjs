@@ -15,7 +15,7 @@ test('Header snapshot hierarchy, banners, brands and demo links survive generati
   assert.deepEqual(panel.find('.ttg-mega-child').toArray().map(e=>$(e).text()),c.groups.flatMap(g=>g.children));
   assert.equal(panel.find('.ttg-brands a').length,c.brands.length);
  });
- $('.ttg-header a,.ttg-hero-section a').each((_,e)=>assert.equal($(e).attr('href'),'#'));
+ $('.ttg-header a,.ttg-hero-section a').each((_,e)=>assert.ok(['#','index.html','pc/index.html','cart/index.html','buildpc/index.html'].includes($(e).attr('href'))));
  assert.equal($('.ttg-slide').length,9);assert.equal($('.ttg-secondary-banners>a').length,3);
  assert.equal($('[data-hero-prev],[data-hero-next]').length,0);
  assert.equal($('.ttg-slide img[fetchpriority="high"]').length,1);

@@ -1,67 +1,66 @@
-# TTG — HTML + Tailwind CSS
+# TTG SHOP — Next.js demo
 
-Website tĩnh giữ nội dung cửa hàng từ bản HTML đã lưu, gồm **171 vị trí thẻ sản phẩm**, 7 nhóm sản phẩm và 6 nhóm khuyến mãi. Cửa hàng là demo. YouTube hoạt động thật với 4 playlist và 82 tập công khai đã lấy ngày 07/10/2026.
+Một dự án giao diện dùng Next.js App Router, React, TypeScript và Tailwind CSS 4. Giữ các màn hình và dữ liệu mẫu của bản TTG hiện tại.
 
-## Chạy bản đã build
+## Chạy dự án
+
+Yêu cầu Node.js 22 trở lên và npm.
 
 ```powershell
 npm ci
-npm run serve
+npm run dev
 ```
 
-Mở http://127.0.0.1:4173. Server preview chỉ phục vụ file public, có gzip cho HTML/CSS/JS. Có thể dùng Laragon, Apache hoặc hosting tĩnh; không cần PHP, MySQL, API key. Chạy qua HTTP để module JavaScript và YouTube nhận đúng origin/referrer. Không mở bằng file://.
-
-## Chỉnh sửa và build
+Mở http://localhost:3000. Để chạy bản production:
 
 ```powershell
 npm run build
-npm run dev:css
-npm run build:videos
-npm run check
-npm test
+npm start
 ```
 
-- Nội dung cửa hàng: `data/store.snapshot.json`; điều phối build: `scripts/build-store.mjs`; template trang chủ: `scripts/templates/pages/home/`.
-- Layout cửa hàng: `scripts/templates/layouts/store.mjs`; các component dùng chung (header, menu, footer, thẻ sản phẩm, dịch vụ, cam kết, playlist): `scripts/templates/components/`. Snapshot header giữ 16 danh mục, 7 panel, banner, thương hiệu và nội dung hỗ trợ trong `data/header.snapshot.json`.
-- Dữ liệu playlist: `data/youtube.snapshot.json`; template: `scripts/build-videos.mjs`.
-- CSS entry: `css/tailwind.input.css`; nguồn chia thành base, font, header, menu, footer, product-card, carousel, support và home. CSS chạy thật vẫn là một file `css/site.min.css`.
-- Tương tác chung: `js/ui.js`, các bộ khởi tạo trong `js/modules/`; trang chủ: `js/home.js`; player giữ nguyên trong `js/video.js`, `js/video-state.js`. Khi phát hành phải tải toàn bộ thư mục `js/`, bao gồm `js/modules/`.
-- `npm run build` xuất lại HTML từ snapshot rồi build CSS. Sửa trực tiếp HTML sẽ bị ghi đè bởi lệnh build đầy đủ; nếu sửa HTML trực tiếp, dùng `npm run build:css`.
-- Tailwind CLI 4.3.0 khóa trong lockfile; override watcher 2.6.0 loại dependency braces có cảnh báo bảo mật. Không dùng Tailwind CDN runtime.
+Kiểm tra mã nguồn bằng `npm run lint` và `npm run typecheck`.
 
-Build không thu thập lại YouTube, không gọi mạng và không chạy `prepare-assets.mjs`. Script đó chỉ dành cho lần di chuyển ban đầu khi còn bản HTML gốc và include. Snapshot phải được cập nhật thủ công từ đúng playlist công khai nếu muốn thay dữ liệu.
+## Cấu trúc
 
-`node scripts/collect-header.mjs` là công cụ thu thập header **chạy riêng khi muốn cập nhật nguồn**. Nó cần Internet, đọc trang TTG và bảy endpoint thương hiệu công khai, lưu ảnh local theo hash và cập nhật snapshot/assets-map. Lệnh build thông thường hoàn toàn không gọi công cụ này. Khi cập nhật snapshot, chạy lại `npm run build` và kiểm tra giao diện.
+| Thư mục | Trách nhiệm |
+| --- | --- |
+| `src/app` | Route, layout cửa hàng/video và trang 404; các `page.tsx` ghép màn hình |
+| `src/features` | Giao diện và hành vi riêng của home, catalog, product-detail, cart, build-pc, videos |
+| `src/components` | Layout, UI, thẻ sản phẩm và phần hỗ trợ dùng chung |
+| `src/data` | Dữ liệu mẫu JSON; ảnh dùng đường dẫn `/images/...` trực tiếp |
+| `src/hooks` | Vòng đời carousel dùng chung, gồm autoplay, kéo/vuốt và cleanup |
+| `src/lib` | Đường dẫn route và định dạng tiền |
+| `src/styles` | Tailwind entry, token, font và quy tắc cơ bản |
+| `public` | Ảnh và font local |
 
-Header desktop thu gọn sau 500 px, giữ placeholder đo từ header đầy đủ. Menu mở bằng hover/focus, Escape trả focus về nút; mobile dùng accordion. Hero giữ 9 banner chính và 3 banner phụ, không có mũi tên/chấm, chuyển sau 3,5 giây trong 1 giây. Có thể kéo/vuốt hoặc dùng phím trái/phải; nút dừng xuất hiện khi focus bằng bàn phím. Autoplay dừng khi tương tác, ngoài viewport, tab ẩn hoặc giảm chuyển động.
+CSS đặc thù nằm cạnh feature hoặc nhóm component sở hữu: CSS nền ở root layout, CSS cửa hàng ở store layout, CSS riêng ở route tương ứng. Các component có tương tác dùng React state/hook; nội dung tĩnh dùng Server Component khi có thể.
 
-Xem `docs/header-implementation-report.md`, các bảng đo JSON và ảnh trong `docs/screenshots/` cho phần header/mega menu/hero.
+## Các màn hình
 
-## Phát hành
+- `/`: trang chủ.
+- `/pc`: danh mục PC GAMING.
+- `/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc`: chi tiết sản phẩm mẫu.
+- `/cart`: giỏ mẫu 3 sản phẩm, tổng 134.940.000 VNĐ.
+- `/buildpc`: cấu hình mẫu 9 linh kiện, tổng 46.660.000 đ; 9 nhóm chọn linh kiện, mỗi nhóm 20 sản phẩm mẫu.
+- `/videos`: danh sách 4 playlist.
+- `/videos/playlist/sieu-trung-thuc`, `/videos/playlist/vlog`, `/videos/playlist/aba-reaction`, `/videos/playlist/daily-moment`: trình phát và danh sách tập.
 
-Chỉ tải `index.html`, `videos/`, `image/`, `fonts/`, `js/` và `css/site.min.css` lên hosting. Bảo toàn cấu trúc đường dẫn. Không phát hành node_modules, .cache, scripts, tests, snapshot hoặc bản backup. Hosting phải gửi MIME đúng cho `.js`, `.css`, `.woff2`, `.webp`; nên bật gzip/Brotli và giữ referrer cho YouTube. Không áp dụng Referrer-Policy: no-referrer.
+URL HTML cũ chuyển hướng sang route tương ứng; query `?video=...` được giữ lại. Slug playlist không tồn tại trả về trang 404.
 
-Ảnh YouTube và trình phát cần Internet. Homepage không tạo iframe hay tải IFrame API. Player chỉ được tạo khi bấm Phát video; luôn có liên kết xem trên YouTube khi nhúng bị chặn. ID trong URL chỉ chọn được tập thuộc snapshot hiện tại. Tập ngoài snapshot được chọn từ player đầy đủ hiển thị nhãn chung, không gán sai tiêu đề.
+Mỗi route có title và description riêng. Ảnh/tên sản phẩm dẫn đến màn chi tiết mẫu chung; danh mục bán hàng dẫn đến `/pc`. Playlist render danh sách tập từ server và chỉ tải player khi bấm phát. Font production được cache một giờ; khi thay file font cùng tên cần tải lại bỏ qua cache.
 
-## Hạn chế và phục hồi
+Báo cáo triển khai SEO, hiệu năng, bằng chứng và các phần chưa đạt nghiệm thu đầy đủ: [báo cáo ngày 09/10/2026](docs/reports/2026-10-09-seo-performance/README.md).
 
-- Vlog: playlist ghi 23 video, DOM công khai chỉ cung cấp 20 khi đã cuộn cuối trang; không bổ sung tập giả.
-- Daily Moment: chi tiết playlist ghi 2.443; trang danh sách kênh ghi 2.444. Dùng số trang chi tiết và lấy 30 tập đầu.
-- Đã kiểm tra responsive và tương tác bằng Browser trong Codex. Chưa đo Lighthouse/Core Web Vitals; không coi ngưỡng Performance/CLS trong spec là kết quả đã đạt.
-- Liên kết cửa hàng, tài khoản, mua hàng và tìm kiếm chỉ thông báo demo; không gửi request hoặc cập nhật giỏ.
-- Backup nguyên trạng: `D:\hacom-ttg-original-2026-10-07.zip`, nằm ngoài thư mục phát hành.
-- Thư mục include cũ được chuyển nguyên trạng sang `D:\hacom-ttg-original-assets-2026-10-07`; không còn nằm trong website. Kiểm soát tự động chặn xóa đệ quy nên giữ thư mục ngoài root để phục hồi.
+## Chỉnh sửa
 
-Xem `docs/implementation-report.md`, `docs/assets-report.md`, `docs/validation.json` và `data/assets-map.json` để đối chiếu.
+Sửa nội dung ở `src/data`: `store.json` cho trang chủ, `header.json`/`footer.json` cho layout, `catalog.json`, `product.json`, `cart.json`, `build-pc.json` và `youtube.json` cho từng màn hình. Sửa bố cục và tương tác ở feature/component tương ứng. Khi thêm hoặc đổi ảnh, đặt file trong `public/images` và cập nhật đường dẫn cùng kích thước trong dữ liệu.
 
-## Section danh mục
+HTML trong dữ liệu chỉ phục vụ nội dung biên tập đã làm sạch: mô tả, thông số, khuyến mãi, tooltip và FAQ. Không dùng `Content` để dựng cả trang hoặc nhận HTML chưa kiểm soát từ người dùng.
 
-Bảy section danh mục dùng template `scripts/templates/pages/home/categories.mjs` và component `scripts/templates/components/product-card.mjs`; CSS nằm trong `css/home.input.css`, `css/product-card.input.css`, `css/carousel.input.css`; bộ điều khiển trong `js/modules/carousel.js`. Dữ liệu sản phẩm giữ từ snapshot; PC GAMING có năm danh mục con. Carousel chuyển từng thẻ, tự chạy sau 3,5 giây, chuyển động 1 giây; dừng khi hover, focus, thao tác cuộn, ngoài viewport hoặc tab bị ẩn. Chế độ giảm chuyển động tắt autoplay. Bố cục hiển thị 2/3/5/6 thẻ theo breakpoint 768/1280/1620 px.
+## Giới hạn demo
 
-Chạy `npm run build`, `npm run check`, `npm test` để dựng và kiểm tra lại. Báo cáo đối chiếu: `docs/category-report.md`; ảnh kiểm tra: `docs/screenshots/`.
+Tìm kiếm, lọc, sắp xếp, phân trang, tài khoản, mua hàng, xuất file, đổi số lượng và chọn linh kiện chỉ thông báo demo. Biểu mẫu nhập thử nhưng không gửi hoặc lưu dữ liệu; cấu hình và tổng tiền mẫu giữ cố định. Menu, carousel, FAQ, bộ lọc mobile và popup vẫn có tương tác trình diễn.
 
-## Tái sử dụng giao diện cho các màn mới
+Video giữ 82 tập từ dữ liệu đã lưu. Ảnh YouTube và phát video cần Internet. IFrame API chỉ tải khi bấm phát; chọn tập bằng query chỉ nhận ID thuộc playlist mẫu. Luôn có liên kết xem trên YouTube khi trình phát bị chặn.
 
-Xem `docs/shared-ui-guide.md` để gọi layout/component, xử lý đường dẫn trang con và đăng ký trang đầu ra. `npm run build:store` nay xuất trang chủ đầy đủ cả playlist; `npm run build:videos` chỉ xuất video và không sửa trang chủ. `npm run check:http` kiểm tra file public, MIME, gzip và chặn file nguồn khi preview đang chạy.
-
-Báo cáo đợt tách nguồn: `docs/shared-ui-report.md`; kế hoạch đã chốt: `docs/superpowers/plans/2026-10-07-shared-ui.md`. Các màn sản phẩm/tin tức chưa được dựng trong đợt này; cửa hàng vẫn là giao diện demo, video giữ chức năng hiện có.
+Build dùng dữ liệu local, không thu thập lại nguồn. Dự án không cần database, API key hoặc backend nghiệp vụ. Mã Next.js không phụ thuộc vào source HTML, kiểm thử, công cụ thu thập/so ảnh và báo cáo lịch sử cũ. Các thư mục cũ hiện vẫn còn do thao tác xóa bị chính sách thực thi chặn.

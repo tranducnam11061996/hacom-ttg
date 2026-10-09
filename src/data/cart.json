@@ -1,0 +1,310 @@
+{
+  "items": [
+    {
+      "id": "1072100401",
+      "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+      "image": {
+        "src": "/images/products/shared-e1bb80f87528aef3.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": 44480000,
+      "quantity": 1,
+      "warranty": "36 Tháng",
+      "href": "#"
+    },
+    {
+      "id": "1072100485",
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+      "image": {
+        "src": "/images/products/shared-43805c8029747fdc.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": 37980000,
+      "quantity": 1,
+      "warranty": "36 Tháng",
+      "href": "#"
+    },
+    {
+      "id": "1072100357",
+      "name": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC",
+      "image": {
+        "src": "/images/products/shared-fdb1230a1d4f75eb.webp",
+        "width": 600,
+        "height": 406
+      },
+      "price": 52480000,
+      "quantity": 1,
+      "warranty": "36 Tháng",
+      "href": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc"
+    }
+  ],
+  "provinces": [
+    {
+      "value": "0",
+      "name": "Chọn Tỉnh/Thành phố"
+    },
+    {
+      "value": "1",
+      "name": "Hà Nội"
+    },
+    {
+      "value": "2",
+      "name": "TP HCM"
+    },
+    {
+      "value": "3",
+      "name": "Cần Thơ"
+    },
+    {
+      "value": "4",
+      "name": "Đà Nẵng"
+    },
+    {
+      "value": "5",
+      "name": "Hải Phòng"
+    },
+    {
+      "value": "6",
+      "name": "An Giang"
+    },
+    {
+      "value": "7",
+      "name": "Bà Rịa - Vũng Tàu"
+    },
+    {
+      "value": "8",
+      "name": "Bạc Liêu"
+    },
+    {
+      "value": "9",
+      "name": "Bắc Kạn"
+    },
+    {
+      "value": "10",
+      "name": "Bắc Giang"
+    },
+    {
+      "value": "11",
+      "name": "Bắc Ninh"
+    },
+    {
+      "value": "12",
+      "name": "Bến Tre"
+    },
+    {
+      "value": "13",
+      "name": "Bình Dương"
+    },
+    {
+      "value": "14",
+      "name": "Bình Định"
+    },
+    {
+      "value": "15",
+      "name": "Bình Phước"
+    },
+    {
+      "value": "16",
+      "name": "Bình Thuận"
+    },
+    {
+      "value": "17",
+      "name": "Cà Mau"
+    },
+    {
+      "value": "18",
+      "name": "Cao Bằng"
+    },
+    {
+      "value": "19",
+      "name": "Đắk Lắk"
+    },
+    {
+      "value": "20",
+      "name": "Đắk Nông"
+    },
+    {
+      "value": "21",
+      "name": "Điện Biên"
+    },
+    {
+      "value": "22",
+      "name": "Đồng Nai"
+    },
+    {
+      "value": "23",
+      "name": "Đồng Tháp"
+    },
+    {
+      "value": "24",
+      "name": "Gia Lai"
+    },
+    {
+      "value": "25",
+      "name": "Hà Giang"
+    },
+    {
+      "value": "26",
+      "name": "Hà Nam"
+    },
+    {
+      "value": "27",
+      "name": "Hà Tĩnh"
+    },
+    {
+      "value": "28",
+      "name": "Hải Dương"
+    },
+    {
+      "value": "29",
+      "name": "Hậu Giang"
+    },
+    {
+      "value": "30",
+      "name": "Hòa Bình"
+    },
+    {
+      "value": "31",
+      "name": "Hưng Yên"
+    },
+    {
+      "value": "32",
+      "name": "Khánh Hòa"
+    },
+    {
+      "value": "33",
+      "name": "Kiên Giang"
+    },
+    {
+      "value": "34",
+      "name": "Kon Tum"
+    },
+    {
+      "value": "35",
+      "name": "Lai Châu"
+    },
+    {
+      "value": "36",
+      "name": "Lâm Đồng"
+    },
+    {
+      "value": "37",
+      "name": "Lạng Sơn"
+    },
+    {
+      "value": "38",
+      "name": "Lào Cai"
+    },
+    {
+      "value": "39",
+      "name": "Long An"
+    },
+    {
+      "value": "40",
+      "name": "Nam Định"
+    },
+    {
+      "value": "41",
+      "name": "Nghệ An"
+    },
+    {
+      "value": "42",
+      "name": "Ninh Bình"
+    },
+    {
+      "value": "43",
+      "name": "Ninh Thuận"
+    },
+    {
+      "value": "44",
+      "name": "Phú Thọ"
+    },
+    {
+      "value": "45",
+      "name": "Phú Yên"
+    },
+    {
+      "value": "46",
+      "name": "Quảng Bình"
+    },
+    {
+      "value": "47",
+      "name": "Quảng Nam"
+    },
+    {
+      "value": "48",
+      "name": "Quảng Ngãi"
+    },
+    {
+      "value": "49",
+      "name": "Quảng Ninh"
+    },
+    {
+      "value": "50",
+      "name": "Quảng Trị"
+    },
+    {
+      "value": "51",
+      "name": "Sóc Trăng"
+    },
+    {
+      "value": "52",
+      "name": "Sơn La"
+    },
+    {
+      "value": "53",
+      "name": "Tây Ninh"
+    },
+    {
+      "value": "54",
+      "name": "Thái Bình"
+    },
+    {
+      "value": "55",
+      "name": "Thái Nguyên"
+    },
+    {
+      "value": "56",
+      "name": "Thanh Hóa"
+    },
+    {
+      "value": "57",
+      "name": "Thừa Thiên Huế"
+    },
+    {
+      "value": "58",
+      "name": "Tiền Giang"
+    },
+    {
+      "value": "59",
+      "name": "Trà Vinh"
+    },
+    {
+      "value": "60",
+      "name": "Tuyên Quang"
+    },
+    {
+      "value": "61",
+      "name": "Vĩnh Long"
+    },
+    {
+      "value": "62",
+      "name": "Vĩnh Phúc"
+    },
+    {
+      "value": "63",
+      "name": "Yên Bái"
+    }
+  ],
+  "installmentMonthly": 17992000,
+  "labels": {
+    "title": "Giỏ hàng",
+    "breadcrumb": "Thông tin giỏ hàng",
+    "clear": "Xóa toàn bộ giỏ hàng",
+    "buyer": "THÔNG TIN NGƯỜI MUA",
+    "summary": "TỔNG TIỀN",
+    "buyerHint": "Để tiếp tục đặt hàng, quý khách xin vui lòng nhập thông tin bên dưới"
+  }
+}

@@ -7,8 +7,13 @@
 @import "./menu.input.css";
 @import "./product-card.input.css";
 @import "./carousel.input.css";
+@import "./category.input.css";
+@import "./product-detail.input.css";
+@import "./cart.input.css";
+@import "./buildpc.input.css";
 @import "./base.input.css";
 @source "../scripts/templates/**/*.mjs";
+@source "../scripts/templates/pages/product/snapshot-classes.txt";
 @source "../scripts/build-videos.mjs";
 @source "../index.html";
 @source "../videos/**/*.html";

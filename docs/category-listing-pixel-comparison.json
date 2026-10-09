@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1280,
+    "height": 7376,
+    "changedPixelsAbove30": 371673,
+    "changedPercent": 3.983
+  },
+  {
+    "width": 1440,
+    "height": 7376,
+    "changedPixelsAbove30": 371689,
+    "changedPercent": 3.536
+  },
+  {
+    "width": 1620,
+    "height": 6961,
+    "changedPixelsAbove30": 525484,
+    "changedPercent": 4.683
+  },
+  {
+    "width": 1920,
+    "height": 6997,
+    "changedPixelsAbove30": 525719,
+    "changedPercent": 3.944
+  }
+]

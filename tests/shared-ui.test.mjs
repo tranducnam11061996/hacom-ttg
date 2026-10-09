@@ -66,7 +66,7 @@ test('Homepage is rendered completely and changing shared data reaches all layou
 
 test('Public manifest includes transitive JS modules and excludes sources', async () => {
   const publicSet = new Set(await publicFiles());
-  assert.equal(generatedPages.length, 6);
+  assert.equal(generatedPages.length, 10);
   for (const module of await scriptGraph('js/home.js')) assert.ok(publicSet.has(module), module);
   assert.ok((await scriptGraph('js/home.js')).includes('js/modules/motion.js'));
   assert.deepEqual(await scriptGraph('js/video.js'), ['js/video.js', 'js/video-state.js']);

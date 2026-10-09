@@ -1,0 +1,335 @@
+{
+  "source": "https://ttgshop.vn/cart",
+  "collectedAt": "2026-10-08T10:05:34.685Z",
+  "items": [
+    {
+      "id": "1072100401",
+      "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+      "sourceUrl": "/pc-ttg-gaming-i5-14600kf-16gb-ddr4-rtx-5070-12gb-oc",
+      "image": "/media/product/250_1072100401_pc_aqua_ml_rtx_5070ti_zotac_5.jpg",
+      "price": 44480000,
+      "quantity": 1,
+      "warranty": "36 Tháng"
+    },
+    {
+      "id": "1072100485",
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+      "sourceUrl": "/pc-ttg-gaming-core-ultra-5-250k-plus-rtx-5060-ti-8gb",
+      "image": "/media/product/250_1072100485_pc_ttg_gaming_core_ultra_5_250k_plus_rtx_5060_ti_8gb1__3_.jpg",
+      "price": 37980000,
+      "quantity": 1,
+      "warranty": "36 Tháng"
+    },
+    {
+      "id": "1072100357",
+      "name": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC",
+      "sourceUrl": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+      "image": "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "price": 52480000,
+      "quantity": 1,
+      "warranty": "36 Tháng"
+    }
+  ],
+  "assets": {
+    "/media/product/250_1072100401_pc_aqua_ml_rtx_5070ti_zotac_5.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100401_pc_aqua_ml_rtx_5070ti_zotac_5.jpg",
+      "path": "image/cart/e1bb80f87528aef3.jpg",
+      "hash": "e1bb80f87528aef3db7b72c26fd14a12d3c637919f65bfc615a7d17f9755fc29",
+      "width": 600,
+      "height": 400,
+      "bytes": 62522,
+      "status": "local",
+      "used": true,
+      "group": "cart"
+    },
+    "/media/product/250_1072100485_pc_ttg_gaming_core_ultra_5_250k_plus_rtx_5060_ti_8gb1__3_.jpg": {
+      "source": "https://ttgshop.vn/media/product/250_1072100485_pc_ttg_gaming_core_ultra_5_250k_plus_rtx_5060_ti_8gb1__3_.jpg",
+      "path": "image/cart/43805c8029747fdc.jpg",
+      "hash": "43805c8029747fdc8ac709360d55640faac7390dfcb8d683745c63314540fb15",
+      "width": 600,
+      "height": 400,
+      "bytes": 61190,
+      "status": "local",
+      "used": true,
+      "group": "cart"
+    },
+    "/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png": {
+      "source": "https://ttgshop.vn/media/product/250_1072100357_pc_ttg_gaming_core_ultra_7_270k_plus_rtx_5070_12gb___2_.png",
+      "path": "image/cart/fdb1230a1d4f75eb.png",
+      "hash": "fdb1230a1d4f75eb2f34bdda712839aaf5e44479be3df967081e102feba25858",
+      "width": 600,
+      "height": 406,
+      "bytes": 314928,
+      "status": "local",
+      "used": true,
+      "group": "cart"
+    }
+  },
+  "provinces": [
+    {
+      "value": "0",
+      "name": "Chọn Tỉnh/Thành phố"
+    },
+    {
+      "value": "1",
+      "name": "Hà Nội"
+    },
+    {
+      "value": "2",
+      "name": "TP HCM"
+    },
+    {
+      "value": "3",
+      "name": "Cần Thơ"
+    },
+    {
+      "value": "4",
+      "name": "Đà Nẵng"
+    },
+    {
+      "value": "5",
+      "name": "Hải Phòng"
+    },
+    {
+      "value": "6",
+      "name": "An Giang"
+    },
+    {
+      "value": "7",
+      "name": "Bà Rịa - Vũng Tàu"
+    },
+    {
+      "value": "8",
+      "name": "Bạc Liêu"
+    },
+    {
+      "value": "9",
+      "name": "Bắc Kạn"
+    },
+    {
+      "value": "10",
+      "name": "Bắc Giang"
+    },
+    {
+      "value": "11",
+      "name": "Bắc Ninh"
+    },
+    {
+      "value": "12",
+      "name": "Bến Tre"
+    },
+    {
+      "value": "13",
+      "name": "Bình Dương"
+    },
+    {
+      "value": "14",
+      "name": "Bình Định"
+    },
+    {
+      "value": "15",
+      "name": "Bình Phước"
+    },
+    {
+      "value": "16",
+      "name": "Bình Thuận"
+    },
+    {
+      "value": "17",
+      "name": "Cà Mau"
+    },
+    {
+      "value": "18",
+      "name": "Cao Bằng"
+    },
+    {
+      "value": "19",
+      "name": "Đắk Lắk"
+    },
+    {
+      "value": "20",
+      "name": "Đắk Nông"
+    },
+    {
+      "value": "21",
+      "name": "Điện Biên"
+    },
+    {
+      "value": "22",
+      "name": "Đồng Nai"
+    },
+    {
+      "value": "23",
+      "name": "Đồng Tháp"
+    },
+    {
+      "value": "24",
+      "name": "Gia Lai"
+    },
+    {
+      "value": "25",
+      "name": "Hà Giang"
+    },
+    {
+      "value": "26",
+      "name": "Hà Nam"
+    },
+    {
+      "value": "27",
+      "name": "Hà Tĩnh"
+    },
+    {
+      "value": "28",
+      "name": "Hải Dương"
+    },
+    {
+      "value": "29",
+      "name": "Hậu Giang"
+    },
+    {
+      "value": "30",
+      "name": "Hòa Bình"
+    },
+    {
+      "value": "31",
+      "name": "Hưng Yên"
+    },
+    {
+      "value": "32",
+      "name": "Khánh Hòa"
+    },
+    {
+      "value": "33",
+      "name": "Kiên Giang"
+    },
+    {
+      "value": "34",
+      "name": "Kon Tum"
+    },
+    {
+      "value": "35",
+      "name": "Lai Châu"
+    },
+    {
+      "value": "36",
+      "name": "Lâm Đồng"
+    },
+    {
+      "value": "37",
+      "name": "Lạng Sơn"
+    },
+    {
+      "value": "38",
+      "name": "Lào Cai"
+    },
+    {
+      "value": "39",
+      "name": "Long An"
+    },
+    {
+      "value": "40",
+      "name": "Nam Định"
+    },
+    {
+      "value": "41",
+      "name": "Nghệ An"
+    },
+    {
+      "value": "42",
+      "name": "Ninh Bình"
+    },
+    {
+      "value": "43",
+      "name": "Ninh Thuận"
+    },
+    {
+      "value": "44",
+      "name": "Phú Thọ"
+    },
+    {
+      "value": "45",
+      "name": "Phú Yên"
+    },
+    {
+      "value": "46",
+      "name": "Quảng Bình"
+    },
+    {
+      "value": "47",
+      "name": "Quảng Nam"
+    },
+    {
+      "value": "48",
+      "name": "Quảng Ngãi"
+    },
+    {
+      "value": "49",
+      "name": "Quảng Ninh"
+    },
+    {
+      "value": "50",
+      "name": "Quảng Trị"
+    },
+    {
+      "value": "51",
+      "name": "Sóc Trăng"
+    },
+    {
+      "value": "52",
+      "name": "Sơn La"
+    },
+    {
+      "value": "53",
+      "name": "Tây Ninh"
+    },
+    {
+      "value": "54",
+      "name": "Thái Bình"
+    },
+    {
+      "value": "55",
+      "name": "Thái Nguyên"
+    },
+    {
+      "value": "56",
+      "name": "Thanh Hóa"
+    },
+    {
+      "value": "57",
+      "name": "Thừa Thiên Huế"
+    },
+    {
+      "value": "58",
+      "name": "Tiền Giang"
+    },
+    {
+      "value": "59",
+      "name": "Trà Vinh"
+    },
+    {
+      "value": "60",
+      "name": "Tuyên Quang"
+    },
+    {
+      "value": "61",
+      "name": "Vĩnh Long"
+    },
+    {
+      "value": "62",
+      "name": "Vĩnh Phúc"
+    },
+    {
+      "value": "63",
+      "name": "Yên Bái"
+    }
+  ],
+  "installmentMonthly": 17992000,
+  "labels": {
+    "title": "Giỏ hàng",
+    "breadcrumb": "Thông tin giỏ hàng",
+    "clear": "Xóa toàn bộ giỏ hàng",
+    "buyer": "THÔNG TIN NGƯỜI MUA",
+    "summary": "TỔNG TIỀN",
+    "buyerHint": "Để tiếp tục đặt hàng, quý khách xin vui lòng nhập thông tin bên dưới"
+  }
+}

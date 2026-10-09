@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {load} from 'cheerio';
+import {productHref} from '../scripts/templates/utils/paths.mjs';
 test('Sale keeps six local collections, all fields, demo links and title',async()=>{
  const d=JSON.parse(await fs.readFile('data/store.snapshot.json','utf8'));
  const $=load(await fs.readFile('index.html','utf8'));const sale=$('[data-sale]');
@@ -11,5 +12,6 @@ test('Sale keeps six local collections, all fields, demo links and title',async(
  assert.equal(sale.find('.sale-title').attr('src'),d.assets['./include/ttgshop-collection-title-1.png'].path);
  d.collections.forEach(c=>{const cards=sale.find('#collection-'+c.id+' [data-product]');assert.equal(cards.length,c.products.length);
  cards.each((i,e)=>{const card=$(e),p=c.products[i];for(const [selector,field] of [['h3','name'],['.category-price','price'],['del','market'],['.category-stock','status'],['.category-discount','discount']])assert.equal(card.find(selector).text(),p[field]||'');assert.equal(card.find('img').first().attr('src'),d.assets[p.image].path);assert.equal(card.find('[data-demo]').text().trim(),p.buy);});});
- sale.find('a').each((_,e)=>assert.equal($(e).attr('href'),'#'));assert.equal(sale.find('[data-rail]').length,0);
+ d.collections.forEach(c=>sale.find('#collection-'+c.id+' [data-product]').each((i,e)=>$(e).find('a').each((_,a)=>assert.equal($(a).attr('href'),productHref(c.products[i])))));
+ assert.equal(sale.find('[data-rail]').length,0);
 });

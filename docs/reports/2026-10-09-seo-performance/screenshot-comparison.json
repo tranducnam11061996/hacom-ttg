@@ -1,0 +1,562 @@
+[
+  {
+    "route": 0,
+    "width": 390,
+    "heightBefore": 6439,
+    "heightAfter": 6439,
+    "changedPercent": 0.44154013403896925,
+    "meanChannelDifference": 0.15899042028875854
+  },
+  {
+    "route": 1,
+    "width": 390,
+    "heightBefore": 12716,
+    "heightAfter": 12716,
+    "changedPercent": 0.24223469725199828,
+    "meanChannelDifference": 0.0994989151563546
+  },
+  {
+    "route": 2,
+    "width": 390,
+    "heightBefore": 6145,
+    "heightAfter": 6145,
+    "changedPercent": 0.6965429471531994,
+    "meanChannelDifference": 0.333903319354906
+  },
+  {
+    "route": 3,
+    "width": 390,
+    "heightBefore": 4240,
+    "heightAfter": 4240,
+    "changedPercent": 0.8862481857764877,
+    "meanChannelDifference": 0.3460062893081761
+  },
+  {
+    "route": 4,
+    "width": 390,
+    "heightBefore": 5278,
+    "heightAfter": 5278,
+    "changedPercent": 0.7304145898310355,
+    "meanChannelDifference": 0.30219909768981384
+  },
+  {
+    "route": 5,
+    "width": 390,
+    "heightBefore": 1483,
+    "heightAfter": 1483,
+    "changedPercent": 0.20661514255580338,
+    "meanChannelDifference": 0.09117462293456899
+  },
+  {
+    "route": 6,
+    "width": 390,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 390,
+    "heightBefore": 1447,
+    "heightAfter": 1447,
+    "changedPercent": 0,
+    "meanChannelDifference": 0.00036857866850956
+  },
+  {
+    "route": 8,
+    "width": 390,
+    "heightBefore": 1426,
+    "heightAfter": 1426,
+    "changedPercent": 0,
+    "meanChannelDifference": 0.0019071936322988215
+  },
+  {
+    "route": 9,
+    "width": 390,
+    "heightBefore": 1458,
+    "heightAfter": 1458,
+    "changedPercent": 0.1749850515282614,
+    "meanChannelDifference": 0.11362890272355293
+  },
+  {
+    "route": 0,
+    "width": 768,
+    "heightBefore": 6768,
+    "heightAfter": 6768,
+    "changedPercent": 0.41265058347165634,
+    "meanChannelDifference": 0.17823222653957715
+  },
+  {
+    "route": 1,
+    "width": 768,
+    "heightBefore": 8997,
+    "heightAfter": 8997,
+    "changedPercent": 0.3481952613045956,
+    "meanChannelDifference": 0.17327106474419762
+  },
+  {
+    "route": 2,
+    "width": 768,
+    "heightBefore": 5803,
+    "heightAfter": 5803,
+    "changedPercent": 0.6420468503085345,
+    "meanChannelDifference": 0.3159630687477619
+  },
+  {
+    "route": 3,
+    "width": 768,
+    "heightBefore": 3451,
+    "heightAfter": 3451,
+    "changedPercent": 0.8345946595806334,
+    "meanChannelDifference": 0.37975861657942706
+  },
+  {
+    "route": 4,
+    "width": 768,
+    "heightBefore": 4037,
+    "heightAfter": 4037,
+    "changedPercent": 0.7445095631367299,
+    "meanChannelDifference": 0.3475348592891639
+  },
+  {
+    "route": 5,
+    "width": 768,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.24309895833333334,
+    "meanChannelDifference": 0.10555772569444444
+  },
+  {
+    "route": 6,
+    "width": 768,
+    "heightBefore": 1008,
+    "heightAfter": 1008,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 768,
+    "heightBefore": 1601,
+    "heightAfter": 1601,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 8,
+    "width": 768,
+    "heightBefore": 1580,
+    "heightAfter": 1580,
+    "changedPercent": 0,
+    "meanChannelDifference": 0.00001571056647813987
+  },
+  {
+    "route": 9,
+    "width": 768,
+    "heightBefore": 1580,
+    "heightAfter": 1580,
+    "changedPercent": 0.18288782655534608,
+    "meanChannelDifference": 0.11907543316276147
+  },
+  {
+    "route": 0,
+    "width": 1024,
+    "heightBefore": 7550,
+    "heightAfter": 7550,
+    "changedPercent": 0.2277409860191317,
+    "meanChannelDifference": 0.10965017169487368
+  },
+  {
+    "route": 1,
+    "width": 1024,
+    "heightBefore": 9846,
+    "heightAfter": 9846,
+    "changedPercent": 0.2107555562004069,
+    "meanChannelDifference": 0.10157792437398369
+  },
+  {
+    "route": 2,
+    "width": 1024,
+    "heightBefore": 5904,
+    "heightAfter": 5904,
+    "changedPercent": 0.5233034101174345,
+    "meanChannelDifference": 0.27605746171549017
+  },
+  {
+    "route": 3,
+    "width": 1024,
+    "heightBefore": 3261,
+    "heightAfter": 3261,
+    "changedPercent": 0.6760695180658383,
+    "meanChannelDifference": 0.2965535655469725
+  },
+  {
+    "route": 4,
+    "width": 1024,
+    "heightBefore": 3804,
+    "heightAfter": 3804,
+    "changedPercent": 0.558752900038389,
+    "meanChannelDifference": 0.2623994896766979
+  },
+  {
+    "route": 5,
+    "width": 1024,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.18232421875,
+    "meanChannelDifference": 0.079169921875
+  },
+  {
+    "route": 6,
+    "width": 1024,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 1024,
+    "heightBefore": 1003,
+    "heightAfter": 1003,
+    "changedPercent": 0,
+    "meanChannelDifference": 6.593974689687551e-7
+  },
+  {
+    "route": 8,
+    "width": 1024,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 9,
+    "width": 1024,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.05673828125,
+    "meanChannelDifference": 0.03493619791666667
+  },
+  {
+    "route": 0,
+    "width": 1280,
+    "heightBefore": 6301,
+    "heightAfter": 6301,
+    "changedPercent": 0.4366144413484699,
+    "meanChannelDifference": 0.30711658687891613
+  },
+  {
+    "route": 1,
+    "width": 1280,
+    "heightBefore": 7375,
+    "heightAfter": 7375,
+    "changedPercent": 0.4133447757991847,
+    "meanChannelDifference": 0.24624215118358006
+  },
+  {
+    "route": 2,
+    "width": 1280,
+    "heightBefore": 3817,
+    "heightAfter": 3817,
+    "changedPercent": 0.7736458813502551,
+    "meanChannelDifference": 0.4365073969549948
+  },
+  {
+    "route": 3,
+    "width": 1280,
+    "heightBefore": 2448,
+    "heightAfter": 2448,
+    "changedPercent": 1.0871701001075535,
+    "meanChannelDifference": 0.6425149437412095
+  },
+  {
+    "route": 4,
+    "width": 1280,
+    "heightBefore": 3052,
+    "heightAfter": 3052,
+    "changedPercent": 0.9408128307646366,
+    "meanChannelDifference": 0.5431630569426702
+  },
+  {
+    "route": 5,
+    "width": 1280,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.145859375,
+    "meanChannelDifference": 0.06333463541666666
+  },
+  {
+    "route": 6,
+    "width": 1280,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 1280,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0.0000010416666666666667
+  },
+  {
+    "route": 8,
+    "width": 1280,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 9,
+    "width": 1280,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.015703125,
+    "meanChannelDifference": 0.0107765625
+  },
+  {
+    "route": 0,
+    "width": 1440,
+    "heightBefore": 6301,
+    "heightAfter": 6301,
+    "changedPercent": 0.38147146252868724,
+    "meanChannelDifference": 0.22446287730322814
+  },
+  {
+    "route": 1,
+    "width": 1440,
+    "heightBefore": 7375,
+    "heightAfter": 7375,
+    "changedPercent": 0.37579508665016187,
+    "meanChannelDifference": 0.22143886878689772
+  },
+  {
+    "route": 2,
+    "width": 1440,
+    "heightBefore": 3817,
+    "heightAfter": 3817,
+    "changedPercent": 0.6621949998969718,
+    "meanChannelDifference": 0.3745788724599883
+  },
+  {
+    "route": 3,
+    "width": 1440,
+    "heightBefore": 2448,
+    "heightAfter": 2448,
+    "changedPercent": 1.0420969651905707,
+    "meanChannelDifference": 0.5859928650767423
+  },
+  {
+    "route": 4,
+    "width": 1440,
+    "heightBefore": 3052,
+    "heightAfter": 3052,
+    "changedPercent": 0.8022000677397029,
+    "meanChannelDifference": 0.4749968247014299
+  },
+  {
+    "route": 5,
+    "width": 1440,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.12965277777777778,
+    "meanChannelDifference": 0.056297453703703704
+  },
+  {
+    "route": 6,
+    "width": 1440,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 1440,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 8,
+    "width": 1440,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 9,
+    "width": 1440,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.013958333333333333,
+    "meanChannelDifference": 0.011933796296296297
+  },
+  {
+    "route": 0,
+    "width": 1620,
+    "heightBefore": 7007,
+    "heightAfter": 7007,
+    "changedPercent": 0.23750620170329492,
+    "meanChannelDifference": 0.11170847939724225
+  },
+  {
+    "route": 1,
+    "width": 1620,
+    "heightBefore": 6959,
+    "heightAfter": 6959,
+    "changedPercent": 0.30414761825466924,
+    "meanChannelDifference": 0.16195084383529146
+  },
+  {
+    "route": 2,
+    "width": 1620,
+    "heightBefore": 4035,
+    "heightAfter": 4035,
+    "changedPercent": 0.5959786155085961,
+    "meanChannelDifference": 0.32673586383660436
+  },
+  {
+    "route": 3,
+    "width": 1620,
+    "heightBefore": 2588,
+    "heightAfter": 2588,
+    "changedPercent": 0.6267713938352618,
+    "meanChannelDifference": 0.30936214800638695
+  },
+  {
+    "route": 4,
+    "width": 1620,
+    "heightBefore": 3100,
+    "heightAfter": 3100,
+    "changedPercent": 0.59163131353558,
+    "meanChannelDifference": 0.2806546999653139
+  },
+  {
+    "route": 5,
+    "width": 1620,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.11524691358024691,
+    "meanChannelDifference": 0.050302263374485595
+  },
+  {
+    "route": 6,
+    "width": 1620,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 7,
+    "width": 1620,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 8,
+    "width": 1620,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 9,
+    "width": 1620,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.15709876543209877,
+    "meanChannelDifference": 0.15224588477366255
+  },
+  {
+    "route": 0,
+    "width": 1920,
+    "heightBefore": 7038,
+    "heightAfter": 7038,
+    "changedPercent": 0.18737567490764423,
+    "meanChannelDifference": 0.09102355420713326
+  },
+  {
+    "route": 1,
+    "width": 1920,
+    "heightBefore": 6995,
+    "heightAfter": 6995,
+    "changedPercent": 0.2518981144995525,
+    "meanChannelDifference": 0.13632429025934892
+  },
+  {
+    "route": 2,
+    "width": 1920,
+    "heightBefore": 4044,
+    "heightAfter": 4044,
+    "changedPercent": 0.5002872810845407,
+    "meanChannelDifference": 0.27295430412521093
+  },
+  {
+    "route": 3,
+    "width": 1920,
+    "heightBefore": 2588,
+    "heightAfter": 2588,
+    "changedPercent": 0.5971525008767031,
+    "meanChannelDifference": 0.27881944895423394
+  },
+  {
+    "route": 4,
+    "width": 1920,
+    "heightBefore": 3100,
+    "heightAfter": 3100,
+    "changedPercent": 0.44366698292220114,
+    "meanChannelDifference": 0.2275896810337038
+  },
+  {
+    "route": 5,
+    "width": 1920,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.09723958333333334,
+    "meanChannelDifference": 0.04222309027777778
+  },
+  {
+    "route": 6,
+    "width": 1920,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 6.944444444444445e-7
+  },
+  {
+    "route": 7,
+    "width": 1920,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 8,
+    "width": 1920,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0,
+    "meanChannelDifference": 0
+  },
+  {
+    "route": 9,
+    "width": 1920,
+    "heightBefore": 1000,
+    "heightAfter": 1000,
+    "changedPercent": 0.13151041666666666,
+    "meanChannelDifference": 0.13000069444444445
+  }
+]

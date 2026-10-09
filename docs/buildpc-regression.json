@@ -1,0 +1,42 @@
+[
+  {
+    "url": "/",
+    "header": 1,
+    "footer": 1,
+    "buildLink": "buildpc/index.html",
+    "cartLink": "cart/index.html",
+    "cartCount": "hidden",
+    "heading": "TTGShop | PC Cao Cấp | PC Đẹp hiệu năng cao",
+    "hasDemoStatus": true
+  },
+  {
+    "url": "/pc",
+    "header": 1,
+    "footer": 1,
+    "buildLink": "../buildpc/index.html",
+    "cartLink": "../cart/index.html",
+    "cartCount": "hidden",
+    "heading": "PC GAMING",
+    "hasDemoStatus": true
+  },
+  {
+    "url": "/cart",
+    "header": 1,
+    "footer": 1,
+    "buildLink": "../buildpc/index.html",
+    "cartLink": "../cart/index.html",
+    "cartCount": "3",
+    "heading": "Giỏ hàng",
+    "hasDemoStatus": true
+  },
+  {
+    "url": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "header": 1,
+    "footer": 1,
+    "buildLink": "../buildpc/index.html",
+    "cartLink": "../cart/index.html",
+    "cartCount": "hidden",
+    "heading": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC (Cấu hình gốc)",
+    "hasDemoStatus": true
+  }
+]

@@ -1,0 +1,788 @@
+{
+  "categories": [
+    {
+      "name": "PC GAMING",
+      "groups": [
+        {
+          "name": "PC GAMING GIÁ RẺ",
+          "children": []
+        },
+        {
+          "name": "PC STREAM GAME",
+          "children": []
+        },
+        {
+          "name": "PC GAMING PREMIUM",
+          "children": []
+        },
+        {
+          "name": "PC Core Ultra",
+          "children": []
+        },
+        {
+          "name": "PC GAMING CAO CẤP",
+          "children": []
+        },
+        {
+          "name": "PC ĐẸP",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "ASUS",
+          "image": {
+            "src": "/images/brand/header-1b9a6e1f0ae7.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Khác",
+          "image": null
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-a2618820d52a.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "PC WORKSTATION 2D 3D",
+      "groups": [
+        {
+          "name": "PC VIDEO EDITING",
+          "children": []
+        },
+        {
+          "name": "PC PHOTO EDITING",
+          "children": []
+        },
+        {
+          "name": "PC 3D DESIGN - Animation",
+          "children": []
+        },
+        {
+          "name": "PC RENDERING",
+          "children": []
+        },
+        {
+          "name": "PC Architecture - CAD",
+          "children": []
+        },
+        {
+          "name": "PC Machine Learning / AI",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "Khác",
+          "image": null
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-7f79fb36cba2.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "PC AMD GAMING",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "PC MINI",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "PC VĂN PHÒNG",
+      "groups": [
+        {
+          "name": "PC DOANH NGHIỆP WINDOWS BẢN QUYỀN",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "Khác",
+          "image": null
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-4a96b5821452.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "PC AI - TRÍ TUỆ NHÂN TẠO",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "Linh kiện máy tính",
+      "groups": [
+        {
+          "name": "CPU",
+          "children": ["CPU INTEL", "CPU AMD"]
+        },
+        {
+          "name": "Mainboard - Bo Mạch Chủ",
+          "children": ["Mainboard cho CPU INTEL", "Mainboard cho CPU AMD"]
+        },
+        {
+          "name": "RAM",
+          "children": []
+        },
+        {
+          "name": "VGA - Card Màn Hình",
+          "children": ["VGA NVIDIA", "VGA AMD", "VGA Nvidia RTX 5000 Series"]
+        },
+        {
+          "name": "GIÁ TREO MÀN HÌNH",
+          "children": []
+        },
+        {
+          "name": "Ổ Cứng (SSD, HDD)",
+          "children": ["Ổ cứng SSD", "Ổ cứng HDD"]
+        },
+        {
+          "name": "Tản nhiệt",
+          "children": ["Tản nhiệt khí", "Tản nhiệt nước AIO", "Quạt tản nhiệt"]
+        },
+        {
+          "name": "Vỏ Case",
+          "children": []
+        },
+        {
+          "name": "Nguồn (PSU)",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "COLORFUL",
+          "image": {
+            "src": "/images/brand/header-60a8ec18b608.png",
+            "width": 800,
+            "height": 250
+          }
+        },
+        {
+          "name": "Corsair",
+          "image": {
+            "src": "/images/brand/header-b2c17bfe506c.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Adata",
+          "image": {
+            "src": "/images/brand/header-c7ca2bc93a65.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "AIGO",
+          "image": null
+        },
+        {
+          "name": "AMD",
+          "image": {
+            "src": "/images/brand/header-055c23e9c9fd.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Antec",
+          "image": {
+            "src": "/images/brand/header-d2453d303b8f.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "APACER",
+          "image": {
+            "src": "/images/brand/header-a1a3142f42ba.png",
+            "width": 400,
+            "height": 190
+          }
+        },
+        {
+          "name": "ASL",
+          "image": null
+        },
+        {
+          "name": "ASROCK",
+          "image": {
+            "src": "/images/brand/header-380f7f09d15c.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "ASUS",
+          "image": {
+            "src": "/images/brand/header-1b9a6e1f0ae7.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Centaur",
+          "image": null
+        },
+        {
+          "name": "César",
+          "image": null
+        },
+        {
+          "name": "Cooler Master",
+          "image": {
+            "src": "/images/brand/header-7e1c68cd60f8.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Crucial",
+          "image": null
+        },
+        {
+          "name": "Darkflash",
+          "image": {
+            "src": "/images/brand/header-4b12ab01c38d.png",
+            "width": 500,
+            "height": 81
+          }
+        },
+        {
+          "name": "DEEPCOOL",
+          "image": {
+            "src": "/images/brand/header-d7386055fd0c.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "EINAREX",
+          "image": null
+        },
+        {
+          "name": "FSP",
+          "image": null
+        },
+        {
+          "name": "GAINWARD",
+          "image": null
+        },
+        {
+          "name": "GALAX",
+          "image": {
+            "src": "/images/brand/header-6b95d0b8e08e.png",
+            "width": 225,
+            "height": 225
+          }
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-aa9e2899ed6a.webp",
+        "width": 346,
+        "height": 956
+      }
+    },
+    {
+      "name": "Màn hình máy tính",
+      "groups": [
+        {
+          "name": "Màn Hình Theo Nhu Cầu",
+          "children": [
+            "MÀN HÌNH GAMING",
+            "Màn Hình Đồ Họa",
+            "Màn Hình Văn Phòng",
+            "Màn Hình Cong"
+          ]
+        },
+        {
+          "name": "Màn Hình Theo Hãng",
+          "children": [
+            "Màn Hình ASUS",
+            "Màn Hình MSI",
+            "Màn Hình Viewsonic",
+            "Màn Hình LG",
+            "Màn Hình Samsung",
+            "Màn Hình Dell",
+            "Màn Hình Gigabyte",
+            "Màn Hình BenQ",
+            "Màn Hình AOC",
+            "Màn Hình EDRA",
+            "Màn Hình Dark Flash",
+            "Màn Hình Acer"
+          ]
+        },
+        {
+          "name": "Độ Phân Giải Màn Hình",
+          "children": []
+        },
+        {
+          "name": "Tần Số Quét Màn Hình",
+          "children": []
+        },
+        {
+          "name": "Màn Hình Theo Kích Thước",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "ACER",
+          "image": {
+            "src": "/images/brand/header-9874c576f81f.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "AOC",
+          "image": {
+            "src": "/images/brand/header-45e661f38dca.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "ASUS",
+          "image": {
+            "src": "/images/brand/header-1b9a6e1f0ae7.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "BenQ",
+          "image": {
+            "src": "/images/brand/header-066e792ef59e.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Dell",
+          "image": {
+            "src": "/images/brand/header-0219bae7d9bb.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "DUAN",
+          "image": null
+        },
+        {
+          "name": "Edra",
+          "image": {
+            "src": "/images/brand/header-30b392fabb3e.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Gigabyte",
+          "image": {
+            "src": "/images/brand/header-fac2d6ed8116.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Khác",
+          "image": null
+        },
+        {
+          "name": "Lenovo",
+          "image": null
+        },
+        {
+          "name": "LG",
+          "image": {
+            "src": "/images/brand/header-738b9ed1aed3.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "MSI",
+          "image": {
+            "src": "/images/brand/header-91b3fff1a948.webp",
+            "width": 240,
+            "height": 80
+          }
+        },
+        {
+          "name": "Samsung",
+          "image": {
+            "src": "/images/brand/header-5e06d7be41ea.png",
+            "width": 276,
+            "height": 60
+          }
+        },
+        {
+          "name": "SSTC",
+          "image": null
+        },
+        {
+          "name": "Viewsonic",
+          "image": null
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-4a96b5821452.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "Gaming Gear",
+      "groups": [
+        {
+          "name": "Thiết Bị Stream",
+          "children": []
+        },
+        {
+          "name": "Bàn phím",
+          "children": []
+        },
+        {
+          "name": "Chuột",
+          "children": []
+        },
+        {
+          "name": "Tai nghe Chơi Game",
+          "children": []
+        },
+        {
+          "name": "Tay cầm chơi game",
+          "children": []
+        },
+        {
+          "name": "GHẾ GAMING",
+          "children": []
+        },
+        {
+          "name": "Micro",
+          "children": []
+        },
+        {
+          "name": "Phụ Kiện",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "AndaSeat",
+          "image": null
+        },
+        {
+          "name": "ASUS",
+          "image": {
+            "src": "/images/brand/header-1b9a6e1f0ae7.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "AULA",
+          "image": null
+        },
+        {
+          "name": "DareU",
+          "image": {
+            "src": "/images/brand/header-c58bbf114603.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Edra",
+          "image": {
+            "src": "/images/brand/header-30b392fabb3e.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Elgato",
+          "image": null
+        },
+        {
+          "name": "HyperX",
+          "image": null
+        },
+        {
+          "name": "Khác",
+          "image": null
+        },
+        {
+          "name": "Logitech",
+          "image": {
+            "src": "/images/brand/header-f3088cf92265.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Razer",
+          "image": null
+        },
+        {
+          "name": "Steelseries",
+          "image": null
+        },
+        {
+          "name": "VOICSKY",
+          "image": null
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-4a96b5821452.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "Full Bộ PC Kèm Màn Hình",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "Loa máy tính",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "OnSale",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "PC GIẢ LẬP ẢO HÓA",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "CARD MẠNG KHÔNG DÂY",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    },
+    {
+      "name": "LAPTOP",
+      "groups": [
+        {
+          "name": "LAPTOP THEO HÃNG",
+          "children": [
+            "LAPTOP DELL",
+            "LAPTOP ASUS",
+            "LAPTOP HP",
+            "LAPTOP MSI",
+            "LAPTOP ACER",
+            "LAPTOP LENOVO",
+            "LAPTOP GIGABYTE"
+          ]
+        },
+        {
+          "name": "LAPTOP GAMING",
+          "children": []
+        },
+        {
+          "name": "LAPTOP ĐỒ HỌA",
+          "children": []
+        },
+        {
+          "name": "LAPTOP VĂN PHÒNG",
+          "children": []
+        }
+      ],
+      "brands": [
+        {
+          "name": "ACER",
+          "image": {
+            "src": "/images/brand/header-9874c576f81f.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "ASUS",
+          "image": {
+            "src": "/images/brand/header-1b9a6e1f0ae7.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Dell",
+          "image": {
+            "src": "/images/brand/header-0219bae7d9bb.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Gigabyte",
+          "image": {
+            "src": "/images/brand/header-fac2d6ed8116.webp",
+            "width": 240,
+            "height": 60
+          }
+        },
+        {
+          "name": "Lenovo",
+          "image": null
+        },
+        {
+          "name": "MSI",
+          "image": {
+            "src": "/images/brand/header-91b3fff1a948.webp",
+            "width": 240,
+            "height": 80
+          }
+        }
+      ],
+      "banner": {
+        "src": "/images/banners/header-4a96b5821452.webp",
+        "width": 346,
+        "height": 1028
+      }
+    },
+    {
+      "name": "Phần mềm",
+      "groups": [],
+      "brands": [],
+      "banner": null
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "PC GAMING",
+      "image": {
+        "src": "/images/icons/header-d38494c65eef.png",
+        "width": 50,
+        "height": 38
+      }
+    },
+    {
+      "name": "PC WORKSTATION 2D 3D",
+      "image": {
+        "src": "/images/icons/header-d2cab0358637.png",
+        "width": 50,
+        "height": 38
+      }
+    },
+    {
+      "name": "PC AMD GAMING",
+      "image": {
+        "src": "/images/icons/header-d38494c65eef.png",
+        "width": 50,
+        "height": 38
+      }
+    },
+    {
+      "name": "PC MINI",
+      "image": {
+        "src": "/images/icons/header-7c7e3c834f2e.png",
+        "width": 50,
+        "height": 50
+      }
+    },
+    {
+      "name": "PC VĂN PHÒNG",
+      "image": {
+        "src": "/images/icons/header-c030be292572.png",
+        "width": 50,
+        "height": 50
+      }
+    },
+    {
+      "name": "PC AI - TRÍ TUỆ NHÂN TẠO",
+      "image": {
+        "src": "/images/icons/header-42ee228a1621.jpg",
+        "width": 38,
+        "height": 38
+      }
+    }
+  ],
+  "support": [
+    {
+      "name": "Hệ thống showroom",
+      "sections": [
+        {
+          "title": "01 CHI NHÁNH ĐỐNG ĐA - HÀ NỘI",
+          "lines": [
+            "83-85 Thái Hà,Trung Liệt, Đống Đa, Hà Nội",
+            "Xem bản đồ đường đi",
+            "Tel: 036.625.8142",
+            "Thời gian mở cửa: Từ 8h30-20h00 hàng ngày"
+          ]
+        },
+        {
+          "title": "02 CHI NHÁNH QUẬN 10 - Hồ Chí Minh",
+          "lines": [
+            "83A Cửu Long, Phường 15, Quận 10, TP Hồ Chí Minh",
+            "Xem bản đồ đường đi",
+            "Tel: 098.668.0497",
+            "Thời gian mở cửa: Từ 8h30-20h00 hàng ngày"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bán hàng trực tuyến",
+      "sections": [
+        {
+          "title": "01 BÁN HÀNG ONLINE",
+          "lines": [
+            "Zalo 036.625.8142 - Mr.Đình Lâm",
+            "Zalo 0348.635.217 - Mr.Thành",
+            "Zalo 088.697.6868 - Mr.Lộc",
+            "Zalo 0941.553.086 - Mr.Kiên",
+            "Zalo 0814.700.384 - Mr.Linh",
+            "Zalo 0392.913.168 - Mr.Trung Anh",
+            "Zalo 0367.799.146 - Mr.Đức",
+            "Zalo 098.668.0497 - Mr.Đông"
+          ]
+        },
+        {
+          "title": "02 HỖ TRỢ BẢO HÀNH",
+          "lines": [
+            "Zalo CHI NHÁNH HN: 032.6694.168 - Mr.Tuấn",
+            "Zalo CHI NHÁNH HCM: 088.697.6868 - Mr.Lộc"
+          ]
+        },
+        {
+          "title": "03 HỖ TRỢ KĨ THUẬT",
+          "lines": ["Zalo HỖ TRỢ KĨ THUẬT ONLINE: 032.6694.168 - Mr.Tuấn"]
+        },
+        {
+          "title": "04 ĐƯỜNG DÂY PHẢN ÁNH DỊCH VỤ",
+          "lines": ["Zalo 088.697.6868 - Mr.Lộc"]
+        }
+      ]
+    }
+  ]
+}

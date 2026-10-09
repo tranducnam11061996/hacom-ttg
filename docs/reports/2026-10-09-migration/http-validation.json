@@ -1,0 +1,89 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/pc",
+      "status": 200
+    },
+    {
+      "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+      "status": 200
+    },
+    {
+      "route": "/cart",
+      "status": 200
+    },
+    {
+      "route": "/buildpc",
+      "status": 200
+    },
+    {
+      "route": "/videos",
+      "status": 200
+    },
+    {
+      "route": "/videos/playlist/sieu-trung-thuc",
+      "status": 200
+    },
+    {
+      "route": "/videos/playlist/vlog",
+      "status": 200
+    },
+    {
+      "route": "/videos/playlist/aba-reaction",
+      "status": 200
+    },
+    {
+      "route": "/videos/playlist/daily-moment",
+      "status": 200
+    },
+    {
+      "route": "/index.html",
+      "status": 308,
+      "target": "/"
+    },
+    {
+      "route": "/pc/index.html",
+      "status": 308,
+      "target": "/pc"
+    },
+    {
+      "route": "/cart/index.html",
+      "status": 308,
+      "target": "/cart"
+    },
+    {
+      "route": "/buildpc/index.html",
+      "status": 308,
+      "target": "/buildpc"
+    },
+    {
+      "route": "/videos/index.html",
+      "status": 308,
+      "target": "/videos"
+    },
+    {
+      "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc/index.html",
+      "status": 308,
+      "target": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc"
+    },
+    {
+      "route": "/videos/playlist/vlog.html?video=abc",
+      "status": 308,
+      "target": "/videos/playlist/vlog?video=abc"
+    },
+    {
+      "route": "/videos/playlist/unknown",
+      "status": 404
+    },
+    {
+      "route": "/not-a-page",
+      "status": 404
+    }
+  ],
+  "assets": 388,
+  "passed": true
+}

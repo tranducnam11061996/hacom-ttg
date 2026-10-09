@@ -1,0 +1,31 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import { load } from 'cheerio';
+import { pagination } from '../scripts/templates/components/pagination.mjs';
+import { categorySidebar } from '../scripts/templates/components/category-sidebar.mjs';
+const data=JSON.parse(await fs.readFile('data/category-pc.snapshot.json','utf8'));
+test('Listing preserves the source order, optional prices, filters and shared layout',async()=>{
+ const $=load(await fs.readFile('pc/index.html','utf8'));
+ assert.equal($('.listing-card').length,60);
+ assert.deepEqual($('.listing-card .category-name').toArray().map(e=>$(e).text()),data.products.map(p=>p.name));
+ assert.deepEqual($('.listing-card .category-price').toArray().map(e=>$(e).text()),data.products.map(p=>p.price));
+ assert.equal($('.category-market').length,data.products.filter(p=>p.market).length);
+ assert.equal($('.listing-filter-group').length,6);
+ assert.equal($('.listing-category-links li').length,6);
+ assert.equal($('.listing-page').length,7);
+ assert.equal($('.listing-page[aria-current=page]').text(),'1');
+ assert.equal($('.listing-page[data-demo]').length,6);
+ for(const s of ['main','[data-header]','.ttg-footer','.service-section','.commitment-section']) assert.equal($(s).length,1,s);
+ assert.equal($('.listing-tooltip').length,60);
+ const ids=$('[id]').toArray().map(e=>$(e).attr('id'));assert.equal(new Set(ids).size,ids.length);
+ assert.equal($('[onclick]').length,0);
+ assert.ok($('img').toArray().every(e=>!/^https?:/.test($(e).attr('src'))));
+ assert.equal($('[data-menu-item="0"] > a').attr('href'),'../pc/index.html');
+});
+test('Pagination and sidebar accept other categories and do not own business behavior',()=>{
+ const $=load(pagination({currentPage:2,totalPages:3,getPageHref:p=>`?page=${p}`}));
+ assert.equal($('[aria-current=page]').text(),'2');assert.equal($('a').last().attr('href'),'?page=3');
+ const sidebar=load(categorySidebar({categoryTitle:'Màn hình',categoryLinks:[],filterGroups:[{title:'Tần số',items:[{label:'144 Hz',checkbox:true}]}]}));
+ assert.ok(sidebar.text().includes('Màn hình'));assert.equal(sidebar('input').length,1);assert.ok(!sidebar.text().includes('PC GAMING'));
+});

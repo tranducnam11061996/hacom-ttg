@@ -1,0 +1,40 @@
+@layer components {
+  .category-track::-webkit-scrollbar {
+    display: none;
+  }
+  .category-carousel {
+    @apply relative min-w-0;
+  }
+  .category-track {
+    @apply grid grid-flow-col auto-cols-[calc((100%-10px)/2)] gap-[10px] overflow-x-auto snap-x snap-mandatory;
+    scrollbar-width: none;
+  }
+  .category-arrow {
+    @apply absolute top-[calc(50%-22px)] z-10 flex h-[50px] w-[25px] items-center justify-center bg-white/50 text-black hover:bg-white/90 hover:shadow-[0_1px_3px_#0000004d];
+  }
+  .category-arrow svg {
+    @apply h-[20px] w-[14px];
+    stroke-width: 2;
+  }
+  .category-prev {
+    @apply left-0 rounded-r-[30px] pr-[7px];
+  }
+  .category-next {
+    @apply right-0 rounded-l-[30px] pl-[7px];
+  }
+  @media (min-width: 48rem) {
+    .category-track {
+      grid-auto-columns: calc((100% - 20px) / 3);
+    }
+  }
+  @media (min-width: 80rem) {
+    .category-track {
+      grid-auto-columns: calc((100% - 40px) / 5);
+    }
+  }
+  @media (min-width: 101.25rem) {
+    .category-track {
+      grid-auto-columns: calc((100% - 50px) / 6);
+    }
+  }
+}

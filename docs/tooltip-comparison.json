@@ -1,0 +1,3504 @@
+{
+  "testedAt": "2026-10-08T07:54:28.256Z",
+  "samples": 108,
+  "maxGeometryDelta": 0,
+  "runs": [
+    {
+      "width": 1280,
+      "height": 600,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 336,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 346,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 346,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 433,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 443,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 443,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 529,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 539,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 539,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 565,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 575,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 575,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 662,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 672,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 672,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 758,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 768,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 768,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 794,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 804,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 804,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 891,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 901,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 901,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 987,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 600,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 600,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1023,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 636,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 636,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1120,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 733,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 733,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1216,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 829,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 829,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "height": 900,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 336,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 346,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 346,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 433,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 443,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 443,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 529,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 539,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 539,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 565,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 575,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 575,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 662,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 672,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 672,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 758,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 768,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 768,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 794,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 804,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 804,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 891,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 901,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 901,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 987,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 600,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 600,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1023,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 636,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 636,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1120,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 733,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 733,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1216,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 829,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 829,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 600,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 416,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 426,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 426,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 513,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 523,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 523,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 609,
+          "y": 285,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 619,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 619,
+            "top": 0,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 645,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 655,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 655,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 742,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 752,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 752,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 838,
+          "y": 285,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 848,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 848,
+            "top": 0,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 874,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 884,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 884,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 971,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 981,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 981,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1067,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 680,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 680,
+            "top": 0,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1103,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 716,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 716,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1200,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 813,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 813,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1296,
+          "y": 285,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 909,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 909,
+            "top": 0,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 416,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 426,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 426,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 513,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 523,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 523,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 609,
+          "y": 685,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 619,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "local": {
+            "left": 619,
+            "top": 68,
+            "width": 377,
+            "height": 617
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 645,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 655,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 655,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 742,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 752,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 752,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 838,
+          "y": 685,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 848,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "local": {
+            "left": 848,
+            "top": 3,
+            "width": 377,
+            "height": 682
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 874,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 884,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 884,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 971,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 981,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 981,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1067,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 680,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "local": {
+            "left": 680,
+            "top": 28,
+            "width": 377,
+            "height": 657
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1103,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 716,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 716,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1200,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 813,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 813,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1296,
+          "y": 685,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 909,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "local": {
+            "left": 909,
+            "top": 48,
+            "width": 377,
+            "height": 637
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1620,
+      "height": 600,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 306,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 316,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 316,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 420,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 430,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 430,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 533,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 543,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 543,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 569,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 579,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 579,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 683,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 693,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 693,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 796,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 806,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 806,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 832,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 842,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 842,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 946,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 956,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 956,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1060,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1070,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1070,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1096,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1106,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1106,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1209,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 779,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 779,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1323,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 893,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 893,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 0,
+          "x": 1359,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 929,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 929,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 1,
+          "x": 1472,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1042,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1042,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 2,
+          "x": 1586,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1156,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1156,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1620,
+      "height": 900,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 306,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 316,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 316,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 420,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 430,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 430,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 533,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 543,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 543,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 569,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 579,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 579,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 683,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 693,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 693,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 796,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 806,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 806,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 832,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 842,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 842,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 946,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 956,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 956,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1060,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1070,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1070,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1096,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1106,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1106,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1209,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 779,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 779,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1323,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 893,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 893,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 0,
+          "x": 1359,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 929,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 929,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 1,
+          "x": 1472,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1042,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1042,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 2,
+          "x": 1586,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1156,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1156,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 600,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 456,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 466,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 466,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 570,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 580,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 580,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 683,
+          "y": 323,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 693,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 693,
+            "top": 0,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 719,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 729,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 729,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 833,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 843,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 843,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 946,
+          "y": 323,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 956,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 956,
+            "top": 0,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 982,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 992,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 992,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 1096,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1106,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1106,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1210,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1220,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1220,
+            "top": 0,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1246,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1256,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1256,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1359,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1369,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1369,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1473,
+          "y": 323,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1483,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1483,
+            "top": 0,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 0,
+          "x": 1509,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1079,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1079,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 1,
+          "x": 1622,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1192,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1192,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 2,
+          "x": 1736,
+          "y": 323,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1306,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1306,
+            "top": 0,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 900,
+      "comparisons": [
+        {
+          "index": 0,
+          "sample": 0,
+          "x": 456,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 466,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 466,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 1,
+          "x": 570,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 580,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 580,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 0,
+          "sample": 2,
+          "x": 683,
+          "y": 723,
+          "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 693,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "local": {
+            "left": 693,
+            "top": 74,
+            "width": 420,
+            "height": 649
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 0,
+          "x": 719,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 729,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 729,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 1,
+          "x": 833,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 843,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 843,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 1,
+          "sample": 2,
+          "x": 946,
+          "y": 723,
+          "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+          "sameProduct": true,
+          "source": {
+            "left": 956,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "local": {
+            "left": 956,
+            "top": 15,
+            "width": 420,
+            "height": 708
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 0,
+          "x": 982,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 992,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 992,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 1,
+          "x": 1096,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1106,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1106,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 2,
+          "sample": 2,
+          "x": 1210,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1220,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "local": {
+            "left": 1220,
+            "top": 28,
+            "width": 420,
+            "height": 695
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 0,
+          "x": 1246,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1256,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1256,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 1,
+          "x": 1359,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1369,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1369,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 3,
+          "sample": 2,
+          "x": 1473,
+          "y": 723,
+          "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1483,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "local": {
+            "left": 1483,
+            "top": 48,
+            "width": 420,
+            "height": 675
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "right",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 0,
+          "x": 1509,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1079,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1079,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 1,
+          "x": 1622,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1192,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1192,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        },
+        {
+          "index": 4,
+          "sample": 2,
+          "x": 1736,
+          "y": 723,
+          "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+          "sameProduct": true,
+          "source": {
+            "left": 1306,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "local": {
+            "left": 1306,
+            "top": 59,
+            "width": 420,
+            "height": 664
+          },
+          "delta": {
+            "left": 0,
+            "top": 0,
+            "width": 0,
+            "height": 0
+          },
+          "side": "left",
+          "sideMatches": true,
+          "visibleCount": 1,
+          "overflow": "hidden"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "key": "long-1440",
+      "width": 1440,
+      "height": 900,
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+      "source": {
+        "x": 752,
+        "y": 3,
+        "width": 377,
+        "height": 682,
+        "top": 3,
+        "right": 1129,
+        "bottom": 685,
+        "left": 752
+      },
+      "local": {
+        "x": 752,
+        "y": 3,
+        "width": 377,
+        "height": 682,
+        "top": 3,
+        "right": 1129,
+        "bottom": 685,
+        "left": 752
+      },
+      "localMaxHeight": "none",
+      "localOverflow": "hidden",
+      "sourceFile": "docs/screenshots/tooltip-long-1440-source.png",
+      "localFile": "docs/screenshots/tooltip-long-1440-local.png"
+    },
+    {
+      "key": "clipped-1620",
+      "width": 1620,
+      "height": 600,
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+      "source": {
+        "x": 693,
+        "y": 0,
+        "width": 420,
+        "height": 708,
+        "top": 0,
+        "right": 1113,
+        "bottom": 708,
+        "left": 693
+      },
+      "local": {
+        "x": 693,
+        "y": 0,
+        "width": 420,
+        "height": 708,
+        "top": 0,
+        "right": 1113,
+        "bottom": 708,
+        "left": 693
+      },
+      "localMaxHeight": "none",
+      "localOverflow": "hidden",
+      "sourceFile": "docs/screenshots/tooltip-clipped-1620-source.png",
+      "localFile": "docs/screenshots/tooltip-clipped-1620-local.png"
+    },
+    {
+      "key": "short-1620",
+      "width": 1620,
+      "height": 900,
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3060 12GB",
+      "source": {
+        "x": 430,
+        "y": 188,
+        "width": 420,
+        "height": 462,
+        "top": 188,
+        "right": 850,
+        "bottom": 650,
+        "left": 430
+      },
+      "local": {
+        "x": 430,
+        "y": 188,
+        "width": 420,
+        "height": 462,
+        "top": 188,
+        "right": 850,
+        "bottom": 650,
+        "left": 430
+      },
+      "localMaxHeight": "none",
+      "localOverflow": "hidden",
+      "sourceFile": "docs/screenshots/tooltip-short-1620-source.png",
+      "localFile": "docs/screenshots/tooltip-short-1620-local.png"
+    },
+    {
+      "key": "right-1920",
+      "width": 1920,
+      "height": 900,
+      "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+      "source": {
+        "x": 1369,
+        "y": 30,
+        "width": 420,
+        "height": 675,
+        "top": 30,
+        "right": 1789,
+        "bottom": 705,
+        "left": 1369
+      },
+      "local": {
+        "x": 1369,
+        "y": 30,
+        "width": 420,
+        "height": 675,
+        "top": 30,
+        "right": 1789,
+        "bottom": 705,
+        "left": 1369
+      },
+      "localMaxHeight": "none",
+      "localOverflow": "hidden",
+      "sourceFile": "docs/screenshots/tooltip-right-1920-source.png",
+      "localFile": "docs/screenshots/tooltip-right-1920-local.png"
+    }
+  ],
+  "pixelComparison": [
+    {
+      "key": "long-1440",
+      "meanAbsoluteChannelDifference": 0.6147363944916782,
+      "pixelsDifferentOver30": 1429,
+      "pixelCount": 257114,
+      "differentPercentOver30": 0.5557845936043934,
+      "diffFile": "docs/screenshots/tooltip-long-1440-diff.png"
+    },
+    {
+      "key": "clipped-1620",
+      "meanAbsoluteChannelDifference": 0.6270436507936508,
+      "pixelsDifferentOver30": 1428,
+      "pixelCount": 252000,
+      "differentPercentOver30": 0.5666666666666667,
+      "diffFile": "docs/screenshots/tooltip-clipped-1620-diff.png"
+    },
+    {
+      "key": "short-1620",
+      "meanAbsoluteChannelDifference": 0.11943585515014087,
+      "pixelsDifferentOver30": 421,
+      "pixelCount": 194040,
+      "differentPercentOver30": 0.21696557410843123,
+      "diffFile": "docs/screenshots/tooltip-short-1620-diff.png"
+    },
+    {
+      "key": "right-1920",
+      "meanAbsoluteChannelDifference": 0.00044444444444444447,
+      "pixelsDifferentOver30": 0,
+      "pixelCount": 283500,
+      "differentPercentOver30": 0,
+      "diffFile": "docs/screenshots/tooltip-right-1920-diff.png"
+    }
+  ],
+  "finalVerifiedAt": "2026-10-08T08:03:59.792Z",
+  "behaviorChecks": {
+    "focus": true,
+    "blur": true,
+    "escapeSuppression": true,
+    "immediateLeave": true,
+    "cancelQueuedFrame": true,
+    "rapidSwitch": true,
+    "scroll": true,
+    "reinitialize": true,
+    "resizeBreakpoint": true,
+    "mobileDisabled": true
+  },
+  "validation": {
+    "build": "PASS",
+    "tests": {
+      "passed": 36,
+      "failed": 0,
+      "tooltipTests": 6
+    },
+    "localReferenceErrors": 0,
+    "httpFiles": 220,
+    "httpErrors": 0,
+    "realHover": true,
+    "realEscape": true,
+    "consoleErrors": 0,
+    "regression": {
+      "home": true,
+      "videos": true
+    },
+    "responsive": [
+      {
+        "width": 360,
+        "scrollWidth": 360,
+        "pass": true
+      },
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "pass": true
+      },
+      {
+        "width": 768,
+        "scrollWidth": 768,
+        "pass": true
+      },
+      {
+        "width": 1024,
+        "scrollWidth": 1024,
+        "pass": true
+      }
+    ]
+  }
+}

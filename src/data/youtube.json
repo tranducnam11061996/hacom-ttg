@@ -1,0 +1,623 @@
+{
+  "channel": {
+    "name": "Thầy Giáo Ba",
+    "id": "UC5CkGZuzbB5xiKkiBT5WeMA",
+    "url": "https://www.youtube.com/@thaygiaoba2602"
+  },
+  "capturedAt": "2026-10-07",
+  "captureMethod": "Public playlist DOM via Codex in-app Browser; no API key",
+  "limit": 30,
+  "playlists": [
+    {
+      "slug": "sieu-trung-thuc",
+      "id": "PLdL9djvJhOK4RgKBAnJRAD8U10BEUp--q",
+      "title": "Siêu Trung Thực",
+      "total": 2,
+      "videos": [
+        {
+          "id": "ElbVpstoVd8",
+          "title": "SIÊU TRUNG THỰC #2 | REVIEW NƯỚC HOA MINH BÉO VÀ THỬ THÁCH 200K ĐOÁN ĐÚNG MÙI NƯỚC HOA CÙNG THẦY BA",
+          "duration": "1 giờ, 20 phút",
+          "position": 1,
+          "thumbnail": "https://i.ytimg.com/vi/ElbVpstoVd8/hqdefault.jpg"
+        },
+        {
+          "id": "n5wXYfx31nc",
+          "title": "SIÊU TRUNG THỰC #1 | THẦY BA REVIEW CƠM QUÊ DƯỢNG BẦU VÀ MAY MẮN GẶP ĐƯỢC NHỮNG NGƯỜI ANH EM XA QUÊ",
+          "duration": "1 giờ, 10 phút",
+          "position": 2,
+          "thumbnail": "https://i.ytimg.com/vi/n5wXYfx31nc/hqdefault.jpg"
+        }
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ElbVpstoVd8/hqdefault.jpg"
+    },
+    {
+      "slug": "vlog",
+      "id": "PLdL9djvJhOK7OXa_lrNZPbh6NYJtH_7jo",
+      "title": "Vlog",
+      "total": 23,
+      "note": "Trang playlist ghi 23 video nhưng chỉ cung cấp 20 tập khi đã cuộn tới cuối trang tại thời điểm thu thập.",
+      "videos": [
+        {
+          "id": "qDXlgK2Tpxc",
+          "title": "SINH NHẬT TUỔI 37 CỦA THẦY BA CÙNG NHIỀU LỜI CHÚC VÀ TRÀN NGẬP MÓN QUÀ ĐẦY Ý NGHĨA",
+          "duration": "34 phút",
+          "position": 1,
+          "thumbnail": "https://i.ytimg.com/vi/qDXlgK2Tpxc/hqdefault.jpg"
+        },
+        {
+          "id": "MkX9gImG3lw",
+          "title": "CÙNG BÒ VIÊN UNBOX HỘP MÙ BLOX FRUITS DIAMOND BÙNG NỔ CẢM XÚC",
+          "duration": "7 phút, 39 giây",
+          "position": 2,
+          "thumbnail": "https://i.ytimg.com/vi/MkX9gImG3lw/hqdefault.jpg"
+        },
+        {
+          "id": "Z3H3yCsCBWQ",
+          "title": "Thầy Ba Vlog #29 | 1 NGÀY BUỒN CỦA THẦY BA KHI CÓ QUÁ NHIỀU SỰ CHIA LY VỚI NHỮNG ĐỨA CON TINH THẦN",
+          "duration": "17 phút",
+          "position": 3,
+          "thumbnail": "https://i.ytimg.com/vi/Z3H3yCsCBWQ/hqdefault.jpg"
+        },
+        {
+          "id": "CxQ2gJ1256U",
+          "title": "Thầy Ba Vlog #30 | CHÂN DUNG \"KIỆN TƯỚNG THỂ THAO CỦA NGÀY XƯA\" ĐƯỢC THẦY BA TÁI HIỆN NHƯ THẾ NÀO",
+          "duration": "46 phút",
+          "position": 4,
+          "thumbnail": "https://i.ytimg.com/vi/CxQ2gJ1256U/hqdefault.jpg"
+        },
+        {
+          "id": "IDksx1vrz20",
+          "title": "Thầy Ba Vlog #31 | ÔN THI TIẾNG TRUNG CÙNG THẦY BA VÀ BÒ VIÊN LIÊN TỤC TRONG 40 PHÚT VÀ CÁI KẾT",
+          "duration": "39 phút",
+          "position": 5,
+          "thumbnail": "https://i.ytimg.com/vi/IDksx1vrz20/hqdefault.jpg"
+        },
+        {
+          "id": "6epeCL1Jx9U",
+          "title": "THẦY BA VLOG #32 | LẦN ĐẦU THẦY BA TRẢI NGHIỆM SỰ KIỆN COSPLAY LỚN NHẤT VIỆT NAM",
+          "duration": "55 phút",
+          "position": 6,
+          "thumbnail": "https://i.ytimg.com/vi/6epeCL1Jx9U/hqdefault.jpg"
+        },
+        {
+          "id": "bp9OEOjX9cE",
+          "title": "TRUNG VLOG #33 | THẦY BA CÙNG ANH EM SBTC TÌM ĐẾN LỚP HỌC BÓNG RỔ NHẰM NÂNG CAO TRÌNH ĐỘ VÀ KỸ NĂNG",
+          "duration": "37 phút",
+          "position": 7,
+          "thumbnail": "https://i.ytimg.com/vi/bp9OEOjX9cE/hqdefault.jpg"
+        },
+        {
+          "id": "AvinPtm2bdI",
+          "title": "THẦY BA VLOG #34 |  TRẢI NGHIỆM ẨM THỰC HÀ NỘI TRƯỚC NGÀY GIAO HỮU TEAM REFUND CỦA BẠN ĐỘ MIXI",
+          "duration": "1 giờ, 23 phút",
+          "position": 8,
+          "thumbnail": "https://i.ytimg.com/vi/AvinPtm2bdI/hqdefault.jpg"
+        },
+        {
+          "id": "m9nLKntbBHs",
+          "title": "THẦY BA VLOG #35 | ĐỘT NHẬP VĂN PHÒNG BẠN ĐỘ VỚI NHỮNG BỘ MÔN LẠ VÀ MÀN TRÌNH DIỄN SBTC CÙNG REFUND",
+          "duration": "1 giờ, 33 phút",
+          "position": 9,
+          "thumbnail": "https://i.ytimg.com/vi/m9nLKntbBHs/hqdefault.jpg"
+        },
+        {
+          "id": "OF_gQD5_UUQ",
+          "title": "THẦY BA VLOG #36 | BUỔI CAMPING ĐẦY CẢM XÚC VÀ NHIỀU KỶ NIỆM CỦA ANH EM SBTC CÙNG TEAM REFUND",
+          "duration": "27 phút",
+          "position": 10,
+          "thumbnail": "https://i.ytimg.com/vi/OF_gQD5_UUQ/hqdefault.jpg"
+        },
+        {
+          "id": "x1VGbaghSQ8",
+          "title": "THẦY BA VLOG #37| 3 NGÀY HIỀN THỌI HÁO HỨC KHI ĐƯỢC HÍT CHUNG BẦU KHÔNG KHÍ CUỒNG NHIỆT CÙNG T1",
+          "duration": "1 giờ, 37 phút",
+          "position": 11,
+          "thumbnail": "https://i.ytimg.com/vi/x1VGbaghSQ8/hqdefault.jpg"
+        },
+        {
+          "id": "-95BlMMV8ek",
+          "title": "THẦY BA VLOG #38 | LẦN ĐẦU ĐẾN ĐÀ NẴNG CÙNG GIA ĐÌNH VÀ ANH EM SBTC",
+          "duration": "1 giờ, 35 phút",
+          "position": 12,
+          "thumbnail": "https://i.ytimg.com/vi/-95BlMMV8ek/hqdefault.jpg"
+        },
+        {
+          "id": "2kuDAhvRlX4",
+          "title": "THẦY BA VLOG #39 | CHÁY HẾT MÌNH CÙNG NGÀY VUI CỦA ANH MICE",
+          "duration": "1 giờ, 2 phút",
+          "position": 13,
+          "thumbnail": "https://i.ytimg.com/vi/2kuDAhvRlX4/hqdefault.jpg"
+        },
+        {
+          "id": "b6HzAY3act0",
+          "title": "THẦY BA VLOG #40 | LẦN ĐẦU GHÉ THĂM NHÀ ANH HOÀNG VIRUSS VÀ THẦY BA CHUẨN BỊ DEBUT LÀM CA SĨ",
+          "duration": "1 giờ, 33 phút",
+          "position": 14,
+          "thumbnail": "https://i.ytimg.com/vi/b6HzAY3act0/hqdefault.jpg"
+        },
+        {
+          "id": "3lV-2aHhyfM",
+          "title": "THẦY BA VLOG #41 | 3 NGÀY CHÁY HẾT MÌNH TẠI TỨ HÙNG TÁI CHIẾN",
+          "duration": "1 giờ, 52 phút",
+          "position": 15,
+          "thumbnail": "https://i.ytimg.com/vi/3lV-2aHhyfM/hqdefault.jpg"
+        },
+        {
+          "id": "lc_0yHTxLpg",
+          "title": "THẦY BA VLOG #42 | GẶP GỠ XAVI, PUYOL, MAKELELE, SALGADO VÀ TRẢI NGHIỆM MAID CAFE CÙNG BẠN ĐỘ MIXI",
+          "duration": "29 phút",
+          "position": 16,
+          "thumbnail": "https://i.ytimg.com/vi/lc_0yHTxLpg/hqdefault.jpg"
+        },
+        {
+          "id": "x7WfgCN_aF0",
+          "title": "HỌC NGHỀ CÙNG ANH BA #1 | LIL WUYN HƯỚNG DẪN LÀM RAPPER",
+          "duration": "43 phút",
+          "position": 17,
+          "thumbnail": "https://i.ytimg.com/vi/x7WfgCN_aF0/hqdefault.jpg"
+        },
+        {
+          "id": "d2SQKqkNFrw",
+          "title": "Học Nghề Cùng Anh Ba #2 | Môi Giới Bất Động Sản - Chia Sẻ Kinh Nghiệm 10 năm Trong Nghề BĐS",
+          "duration": "41 phút",
+          "position": 18,
+          "thumbnail": "https://i.ytimg.com/vi/d2SQKqkNFrw/hqdefault.jpg"
+        },
+        {
+          "id": "q85rNSgfhFE",
+          "title": "Thầy Ba Vlogs #43 | THẦY BA CHƠI LỚN ĐẬP GARAGE XÂY DỰNG STORE TCG",
+          "duration": "11 phút, 50 giây",
+          "position": 19,
+          "thumbnail": "https://i.ytimg.com/vi/q85rNSgfhFE/hqdefault.jpg"
+        },
+        {
+          "id": "K5OmtCN3EK0",
+          "title": "Thầy Ba Vlog #45 | THẦY BA, LIL WUYN CÙNG ANH EM SBTC ĐẾN THĂM LÀNG THIẾU NIÊN THỦ ĐỨC",
+          "duration": "39 phút",
+          "position": 20,
+          "thumbnail": "https://i.ytimg.com/vi/K5OmtCN3EK0/hqdefault.jpg"
+        }
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qDXlgK2Tpxc/hqdefault.jpg"
+    },
+    {
+      "slug": "aba-reaction",
+      "id": "PLdL9djvJhOK7ym_6xujwjQ3KplQUZIHHT",
+      "title": "Aba Reaction",
+      "total": 163,
+      "videos": [
+        {
+          "id": "wzcDyZr3Ssk",
+          "title": "TRUNG REACTION | THẦY BA TÂM SỰ KHI BẠN ĐỘ MIXI NÓI XẤU TGB STORE, GIỜ ANH EM TIN AI?",
+          "duration": "31 phút",
+          "position": 1,
+          "thumbnail": "https://i.ytimg.com/vi/wzcDyZr3Ssk/hqdefault.jpg"
+        },
+        {
+          "id": "yshximL4vOs",
+          "title": "TRUNG REACTION | Mình chính thức bỏ PUBG!",
+          "duration": "19 phút",
+          "position": 2,
+          "thumbnail": "https://i.ytimg.com/vi/yshximL4vOs/hqdefault.jpg"
+        },
+        {
+          "id": "FJrBsHdBiy8",
+          "title": "TRUNG REACTION | Thất Bại Không Phải Thứ Đáng Sợ Nhất",
+          "duration": "16 phút",
+          "position": 3,
+          "thumbnail": "https://i.ytimg.com/vi/FJrBsHdBiy8/hqdefault.jpg"
+        },
+        {
+          "id": "ehlveYkXfck",
+          "title": "TRUNG REACTION | VINH DANH GIÁO ÁN SUSAN 0175 CỔ ĐIỂN TÔN TRỌNG TỪ RIOTGAME",
+          "duration": "9 phút, 46 giây",
+          "position": 4,
+          "thumbnail": "https://i.ytimg.com/vi/ehlveYkXfck/hqdefault.jpg"
+        },
+        {
+          "id": "pS_Bn0qXxGg",
+          "title": "TRUNG REACTION | PUN ĐÃ KHÓC.... | BTS EP.2 | MSI 2026",
+          "duration": "30 phút",
+          "position": 5,
+          "thumbnail": "https://i.ytimg.com/vi/pS_Bn0qXxGg/hqdefault.jpg"
+        },
+        {
+          "id": "gjG030pR8Fs",
+          "title": "TRUNG REACTION | THẦY BA XEM BẠN ĐỘ SET UP LẠI GÓC STREAM MỚI SAU 5 NĂM CHUYỂN NHÀ",
+          "duration": "49 phút",
+          "position": 6,
+          "thumbnail": "https://i.ytimg.com/vi/gjG030pR8Fs/hqdefault.jpg"
+        },
+        {
+          "id": "GSz-J2SURIg",
+          "title": "TRUNG REACTION | BÁO THỦ VỀ QUÊ VÀ TRẢI NGHIỆM TỐC ĐỘ VỎ LÃI BAY TRÊN MẶT NƯỚC",
+          "duration": "50 phút",
+          "position": 7,
+          "thumbnail": "https://i.ytimg.com/vi/GSz-J2SURIg/hqdefault.jpg"
+        },
+        {
+          "id": "Ixma7rEb84M",
+          "title": "TRUNG REACTION | NHỮNG PHÚT GIÂY MESSBA TỎA SÁNG TẠI LEGENDS MATCH [08.11.2025] FC PRO FESTIVAL 2025",
+          "duration": "24 phút",
+          "position": 8,
+          "thumbnail": "https://i.ytimg.com/vi/Ixma7rEb84M/hqdefault.jpg"
+        },
+        {
+          "id": "39EMywMWwRA",
+          "title": "TRUNG REACTION | DÀNH NHIỀU LỜI KHEN CHO DORAN, CẢM XÚC THẦY BA CỨ NHƯ T1 VỪA VÔ ĐỊCH NGAY LÚC NÀY",
+          "duration": "40 phút",
+          "position": 9,
+          "thumbnail": "https://i.ytimg.com/vi/39EMywMWwRA/hqdefault.jpg"
+        },
+        {
+          "id": "YbotCJu1Mfs",
+          "title": "TRUNG REACTION | Kỳ Lân Xuất Thế | TES vs T1 | Bán Kết 2 CKTG 2025",
+          "duration": "8 phút, 5 giây",
+          "position": 10,
+          "thumbnail": "https://i.ytimg.com/vi/YbotCJu1Mfs/hqdefault.jpg"
+        },
+        {
+          "id": "JFdWej6qlA0",
+          "title": "TRUNG REACTION | SINH VIÊN CLEAR LỪA ĐẢO VIEWER NGÀY SINH NHẬT VÀ LẦN ĐẦU BÉ NA RA MẮT CÔ CHÚ",
+          "duration": "1 giờ, 4 phút",
+          "position": 11,
+          "thumbnail": "https://i.ytimg.com/vi/JFdWej6qlA0/hqdefault.jpg"
+        },
+        {
+          "id": "Sa_RvqOOdyw",
+          "title": "TRUNG REACTION | VẠCH TRẦN TOÀN BỘ SỰ GIẢ TẠO CỦA POKIMANE \"NỮ HOÀNG STREAMER\" TRONG 12 PHÚT",
+          "duration": "17 phút",
+          "position": 12,
+          "thumbnail": "https://i.ytimg.com/vi/Sa_RvqOOdyw/hqdefault.jpg"
+        },
+        {
+          "id": "eK1IiEH49yU",
+          "title": "TRUNG REACTION | VLOG CỦA BẠN ĐỘ Ở THƯỢNG HẢI TRONG 4 NGÀY VÀ LẦN ĐẦU TIÊN THỬ ĐI TRỰC THĂNG",
+          "duration": "1 giờ, 30 phút",
+          "position": 13,
+          "thumbnail": "https://i.ytimg.com/vi/eK1IiEH49yU/hqdefault.jpg"
+        },
+        {
+          "id": "q-Dgqcs4jco",
+          "title": "TRUNG REACTION | THẦY BA NHẬN LỜI THÁCH THỨC TỪ EM DEV BÓNG RỔ",
+          "duration": "37 phút",
+          "position": 14,
+          "thumbnail": "https://i.ytimg.com/vi/q-Dgqcs4jco/hqdefault.jpg"
+        },
+        {
+          "id": "XTSlK8Vq9Go",
+          "title": "TRUNG REACTION | Thầy Ba dằn mặt Khoa Pug đãi toàn Món Ngon Độc Lạ vì bị Khứa Tóc Dài khịa Liên Tục",
+          "duration": "1 giờ, 19 phút",
+          "position": 15,
+          "thumbnail": "https://i.ytimg.com/vi/XTSlK8Vq9Go/hqdefault.jpg"
+        },
+        {
+          "id": "PMHHuDTSnn8",
+          "title": "TRUNG REACTION | VƯỢT QUA 16 CÂU HỎI, CHỨNG MINH THẦY BA LÀ MỘT FAN KỀN KỀN CHÂN CHÍNH VÀ CÁI KẾT",
+          "duration": "12 phút, 4 giây",
+          "position": 16,
+          "thumbnail": "https://i.ytimg.com/vi/PMHHuDTSnn8/hqdefault.jpg"
+        },
+        {
+          "id": "meVFS6Z35VQ",
+          "title": "TRUNG REACTION | [HIGHLIGHT] T1 vs GEN | MSI 2025 - Chung Kết Tổng",
+          "duration": "52 phút",
+          "position": 17,
+          "thumbnail": "https://i.ytimg.com/vi/meVFS6Z35VQ/hqdefault.jpg"
+        },
+        {
+          "id": "MY2jDzM37mo",
+          "title": "TRUNG REACTION | CƠ HỘI VẪN CÒN ĐÓ CHO NHÀ T1 [HIGHLIGHT] T1 vs GEN | MSI 2025 - Vòng Phân Nhánh",
+          "duration": "51 phút",
+          "position": 18,
+          "thumbnail": "https://i.ytimg.com/vi/MY2jDzM37mo/hqdefault.jpg"
+        },
+        {
+          "id": "OoJx1N-AqpM",
+          "title": "TRUNG REACTION T1 VS HLE | RESPECT CÁC CHÀNG TRAI NHÀ CAM HLE",
+          "duration": "44 phút",
+          "position": 19,
+          "thumbnail": "https://i.ytimg.com/vi/OoJx1N-AqpM/hqdefault.jpg"
+        },
+        {
+          "id": "dCiyUc-yGTc",
+          "title": "TRUNG REACTION | 18 Câu Đố Vui Về Ca Sĩ Jack Chỉ 2% Fan Cứng Thật Sự Của J97 Mới Vượt Qua",
+          "duration": "8 phút, 1 giây",
+          "position": 20,
+          "thumbnail": "https://i.ytimg.com/vi/dCiyUc-yGTc/hqdefault.jpg"
+        },
+        {
+          "id": "dCDT4ktN9Gk",
+          "title": "TRUNG REACTION FAHOKA | CHỌN SHOW GÌ XỨNG ĐÁNG KHI DU LỊCH TỚI TRUNG QUỐC?",
+          "duration": "44 phút",
+          "position": 21,
+          "thumbnail": "https://i.ytimg.com/vi/dCDT4ktN9Gk/hqdefault.jpg"
+        },
+        {
+          "id": "TAlsxMqOt-4",
+          "title": "TRUNG REACTION | THẦY BA CẢM XÚC KHI XEM LẠI TRẬN GIAO HỮU REFUND VS SBTC",
+          "duration": "1 giờ, 39 phút",
+          "position": 22,
+          "thumbnail": "https://i.ytimg.com/vi/TAlsxMqOt-4/hqdefault.jpg"
+        },
+        {
+          "id": "1Xb_NrdSweY",
+          "title": "TRUNG REACTION | Tham quan phòng truyền thống của Manchester United và đi dạo quanh sân Old Trafford",
+          "duration": "29 phút",
+          "position": 23,
+          "thumbnail": "https://i.ytimg.com/vi/1Xb_NrdSweY/hqdefault.jpg"
+        },
+        {
+          "id": "Hfh3fOX6fAE",
+          "title": "TRUNG REACTION | BARCA LÀM KỀN KỀN CHÂN CHÍNH PHÂN TÂM KHI XEM TRỰC TIẾP C1 REAL MADRID VS ARSENAL",
+          "duration": "53 phút",
+          "position": 24,
+          "thumbnail": "https://i.ytimg.com/vi/Hfh3fOX6fAE/hqdefault.jpg"
+        },
+        {
+          "id": "IC3FbVLW5Yw",
+          "title": "TRUNG REACTION |  EM BÔ TỚI ĐỂ GẶP ANH BA VÀ THĂM BIỆT PHỦ 50 TỶ CỦA ANH LỚN SA ĐÉC",
+          "duration": "1 giờ, 15 phút",
+          "position": 25,
+          "thumbnail": "https://i.ytimg.com/vi/IC3FbVLW5Yw/hqdefault.jpg"
+        },
+        {
+          "id": "BRAY5ung55Q",
+          "title": "TRUNG REACTION | CHUYẾN ĐI ĐÀ NẴNG ĐÁNG NHỚ CÙNG NHIỀU KỈ NIỆM TUYỆT VỜI CỦA ANH THẬP TÔN",
+          "duration": "26 phút",
+          "position": 26,
+          "thumbnail": "https://i.ytimg.com/vi/BRAY5ung55Q/hqdefault.jpg"
+        },
+        {
+          "id": "LB6eM7vXEBw",
+          "title": "TRUNG REACTION | TÂM SỰ CHUYỆN YÊU CÙNG EMMY VÀ THẦY BA HÉ LỘ NHIỀU BÍ MẬT THẦM KÍN CỦA CLEAR",
+          "duration": "36 phút",
+          "position": 27,
+          "thumbnail": "https://i.ytimg.com/vi/LB6eM7vXEBw/hqdefault.jpg"
+        },
+        {
+          "id": "kWqZZBFr2Q4",
+          "title": "TRUNG REACTION | Ngày đầu tiên đến Anh, thăm tháp đồng hồ Big Ben và phơi nắng giữa sông Thames.",
+          "duration": "32 phút",
+          "position": 28,
+          "thumbnail": "https://i.ytimg.com/vi/kWqZZBFr2Q4/hqdefault.jpg"
+        },
+        {
+          "id": "_qT81K0omHI",
+          "title": "TRUNG REACTION FAHOKA | ĐỘC ĐÁO VĂN HÓA PHẬT GIÁO TÂY TẠNG | Khám phá LHASA | MEKONG Thượng Nguồn",
+          "duration": "36 phút",
+          "position": 29,
+          "thumbnail": "https://i.ytimg.com/vi/_qT81K0omHI/hqdefault.jpg"
+        },
+        {
+          "id": "tEzJtG1Uvyo",
+          "title": "TRUNG REACTION | CÔNG TY MIXIGAMING CỦA BẠN ĐỘ TO HƠN GẤP MẤY LẦN NGÔI NHÀ NHỎ BÉ CỦA ANH TRUNG",
+          "duration": "41 phút",
+          "position": 30,
+          "thumbnail": "https://i.ytimg.com/vi/tEzJtG1Uvyo/hqdefault.jpg"
+        }
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wzcDyZr3Ssk/hqdefault.jpg"
+    },
+    {
+      "slug": "daily-moment",
+      "id": "PLdL9djvJhOK4wFej8oMX6IRuRjn9jDyc4",
+      "title": "Daily Moment Thầy Giáo Ba Stream",
+      "total": 2443,
+      "videos": [
+        {
+          "id": "b_sE6mmOdHg",
+          "title": "ANIMALY BAR: NO HUMANITY! | CÁCH THẦY BA GIAO TIẾP VỚI ĐỘNG VẬT THẬT CHUYÊN NGHIỆP",
+          "duration": "1 giờ, 55 phút",
+          "position": 1,
+          "thumbnail": "https://i.ytimg.com/vi/b_sE6mmOdHg/hqdefault.jpg"
+        },
+        {
+          "id": "QpTLNrqUaIY",
+          "title": "Phiên live bán hàng chất lượng đầu tiên TGB Store - 30th Anniversary Pokemon",
+          "duration": "56 phút",
+          "position": 2,
+          "thumbnail": "https://i.ytimg.com/vi/QpTLNrqUaIY/hqdefault.jpg"
+        },
+        {
+          "id": "9KRphWGZhn8",
+          "title": "LÀM CHỦ META CÙNG THẦY BA | TOP 7 CHỈ LÀ TAI NẠN VÀ SAU ĐÓ TẤT CẢ PHẢI XIN LỖI THẦY BA",
+          "duration": "35 phút",
+          "position": 3,
+          "thumbnail": "https://i.ytimg.com/vi/9KRphWGZhn8/hqdefault.jpg"
+        },
+        {
+          "id": "N1NfiFTJqG4",
+          "title": "LÀM CHỦ META CÙNG THẦY BA | THẦY BA SÁNG TẠO 1 BÀI ĐẤU CỰC KỲ FLEX, CHƯA AI TỪNG BUILD",
+          "duration": "28 phút",
+          "position": 4,
+          "thumbnail": "https://i.ytimg.com/vi/N1NfiFTJqG4/hqdefault.jpg"
+        },
+        {
+          "id": "grp7ubaLphU",
+          "title": "TRUNG YUNARA | TRỞ LẠI LMHT SAU 1 THÁNG, THẦY BA VẪN ĐẲNG CẤP NHƯ THẾ",
+          "duration": "8 phút, 53 giây",
+          "position": 5,
+          "thumbnail": "https://i.ytimg.com/vi/grp7ubaLphU/hqdefault.jpg"
+        },
+        {
+          "id": "Ju-dzPClEwE",
+          "title": "ONIMUSHA | THẦY BA QUYẾT TÂM PHÁ ĐẢO CÙNG SHIZUKA VÀ CÁI KẾT #4",
+          "duration": "3 giờ, 26 phút",
+          "position": 6,
+          "thumbnail": "https://i.ytimg.com/vi/Ju-dzPClEwE/hqdefault.jpg"
+        },
+        {
+          "id": "3p5oxdlDrno",
+          "title": "THẦY BA GIẢI ĐÁP THẮC MẮC VÀ CHIA SẺ ĐẦY CẢM XÚC CHO CÁC ANH CHỊ TRÊN THREADS CITY",
+          "duration": "35 phút",
+          "position": 7,
+          "thumbnail": "https://i.ytimg.com/vi/3p5oxdlDrno/hqdefault.jpg"
+        },
+        {
+          "id": "GWFNq0vf8w8",
+          "title": "SBTC VS REFUND | VÔ ĐỊCH MOI XOANG LẦN 2 ĐẦY CẢM XÚC",
+          "duration": "3 giờ, 2 phút",
+          "position": 8,
+          "thumbnail": "https://i.ytimg.com/vi/GWFNq0vf8w8/hqdefault.jpg"
+        },
+        {
+          "id": "Xdg_AC0B1q0",
+          "title": "SBTC DINO | THẦY BA THAM GIA GIẢI AO LÀNG T-REX 2VS2 CÙNG TEAM REFUND",
+          "duration": "1 giờ, 20 phút",
+          "position": 9,
+          "thumbnail": "https://i.ytimg.com/vi/Xdg_AC0B1q0/hqdefault.jpg"
+        },
+        {
+          "id": "2WzTd8vlDLs",
+          "title": "SBTC DINO | CHÚA TỂ T-REX TRỞ LẠI SAU SHOWMATCH VÀ XUẤT HIỆN QUÁ NHIỀU TICKET",
+          "duration": "1 giờ, 11 phút",
+          "position": 10,
+          "thumbnail": "https://i.ytimg.com/vi/2WzTd8vlDLs/hqdefault.jpg"
+        },
+        {
+          "id": "0D5mcIZ5Ch0",
+          "title": "LÀM CHỦ META CÙNG THẦY BA | LỐI CHƠI LỘI NGƯỢC DÒNG ĐẦY CẢM XÚC TOP 1 THẾ GIỚI",
+          "duration": "39 phút",
+          "position": 11,
+          "thumbnail": "https://i.ytimg.com/vi/0D5mcIZ5Ch0/hqdefault.jpg"
+        },
+        {
+          "id": "IWA6mnW62Zc",
+          "title": "LÀM CHỦ META CÙNG THẦY BA | TOP 1 MÃN NHÃN VỚI TEMPO CỰC CĂNG CỦA TUYỂN THỦ BAROIBEO",
+          "duration": "38 phút",
+          "position": 12,
+          "thumbnail": "https://i.ytimg.com/vi/IWA6mnW62Zc/hqdefault.jpg"
+        },
+        {
+          "id": "1qVbY84rKBU",
+          "title": "ONIMUSHA | LẦN ĐẦU TIÊN NỂM MÙI THẤT BẠI TRƯỚC GANRYU #3",
+          "duration": "2 giờ, 31 phút",
+          "position": 13,
+          "thumbnail": "https://i.ytimg.com/vi/1qVbY84rKBU/hqdefault.jpg"
+        },
+        {
+          "id": "-ebvuuTMT1E",
+          "title": "GOOSE GOOSE DUCK | GẦN NHƯ MỌI THỨ ĐỀU CHỐNG LẠI MÌNH, THẦY BA VỪA CAY VỪA BẤT LỰC",
+          "duration": "53 phút",
+          "position": 14,
+          "thumbnail": "https://i.ytimg.com/vi/-ebvuuTMT1E/hqdefault.jpg"
+        },
+        {
+          "id": "yzV_l2AzOhA",
+          "title": "SBTC DINO | SHOWMATCH SBTC VS REFUND (20VS20) VÀ CHUẨN BỊ CHO KẾ HOẠCH MOI XOANG SẮP TỚI",
+          "duration": "1 giờ, 31 phút",
+          "position": 15,
+          "thumbnail": "https://i.ytimg.com/vi/yzV_l2AzOhA/hqdefault.jpg"
+        },
+        {
+          "id": "58TAbr46avw",
+          "title": "SBTC DINO | LUYỆN TẬP CĂNG TAY CHUẨN BỊ CHO ĐẠI CHIẾN KHỦNG LONG 20VS20",
+          "duration": "1 giờ, 15 phút",
+          "position": 16,
+          "thumbnail": "https://i.ytimg.com/vi/58TAbr46avw/hqdefault.jpg"
+        },
+        {
+          "id": "I66SC_gniZc",
+          "title": "ONIMUSHA | THEO CHÂN SAMUBA TIẾP TỤC CUỘC HÀNH TRÌNH BẤT ỔN #2",
+          "duration": "3 giờ, 41 phút",
+          "position": 17,
+          "thumbnail": "https://i.ytimg.com/vi/I66SC_gniZc/hqdefault.jpg"
+        },
+        {
+          "id": "xHm5kRpvEYM",
+          "title": "ONIMUSHA | CHƠI THỬ SIÊU PHẨM 2026 SAMUBA FARM BÁ KHÍ QUÁ DỄ DÀNG #1",
+          "duration": "2 giờ, 52 phút",
+          "position": 18,
+          "thumbnail": "https://i.ytimg.com/vi/xHm5kRpvEYM/hqdefault.jpg"
+        },
+        {
+          "id": "oo8PjdH1b4k",
+          "title": "SBTC DINO | ĐÊM BÙNG NỔ VỚI CHIẾN TÍCH HUY HOÀNG 16 TRICE + 4 STEGO CỦA THẦY BA, CHIẾN THẦN T-REX",
+          "duration": "3 giờ, 27 phút",
+          "position": 19,
+          "thumbnail": "https://i.ytimg.com/vi/oo8PjdH1b4k/hqdefault.jpg"
+        },
+        {
+          "id": "abLpVK8c82A",
+          "title": "SBTC DINO | CHÚA TỂ RỪNG XANH TRỞ LẠI, MANG TRONG MÌNH DÒNG MÁU KHỦNG LONG NỔI LOẠN",
+          "duration": "2 giờ, 42 phút",
+          "position": 20,
+          "thumbnail": "https://i.ytimg.com/vi/abLpVK8c82A/hqdefault.jpg"
+        },
+        {
+          "id": "9mSVAu6lS3o",
+          "title": "FC ONLINE | 3 VÒNG SỰ KIỆN ĐẦY KỊCH TÍNH VÀ MÀN ĐẬP THẺ BẤT NGỜ CỦA THẦY BA",
+          "duration": "22 phút",
+          "position": 21,
+          "thumbnail": "https://i.ytimg.com/vi/9mSVAu6lS3o/hqdefault.jpg"
+        },
+        {
+          "id": "gJtbz4ngotY",
+          "title": "THƯỞNG THỨC TỰA GAME FANMADE QGV CINEMA VÀ DỰ ÁN CON GAME THẦN L... TRONG TƯƠNG LAI",
+          "duration": "1 giờ, 11 phút",
+          "position": 22,
+          "thumbnail": "https://i.ytimg.com/vi/gJtbz4ngotY/hqdefault.jpg"
+        },
+        {
+          "id": "hoGfkMBziYA",
+          "title": "SBTC DINO | QUÁ NHIỀU BẤT NGỜ TẠI GIẢI ĐẤU KHỦNG LONG NGÀY 2, AI SẼ LÊN NGÔI VÔ ĐỊCH?",
+          "duration": "2 giờ, 31 phút",
+          "position": 23,
+          "thumbnail": "https://i.ytimg.com/vi/hoGfkMBziYA/hqdefault.jpg"
+        },
+        {
+          "id": "PZ_ij2kQWwE",
+          "title": "SBTC DINO | GIẢI ĐẤU ĐẦU TIÊN TẠI ĐẢO KHỦNG LONG, TEAM SBTC CHẠM TRÁN TEAM REFUND [NGÀY 1]",
+          "duration": "2 giờ, 22 phút",
+          "position": 24,
+          "thumbnail": "https://i.ytimg.com/vi/PZ_ij2kQWwE/hqdefault.jpg"
+        },
+        {
+          "id": "-WThmnT9UY8",
+          "title": "SBTC DINO | LẦN ĐẦU TRẢI NGHIỆM CẢM GIÁC LÀM MẸ VÀ CUỘC CHIẾN BẢO VỆ CÁC CON YÊU #3",
+          "duration": "3 giờ, 13 phút",
+          "position": 25,
+          "thumbnail": "https://i.ytimg.com/vi/-WThmnT9UY8/hqdefault.jpg"
+        },
+        {
+          "id": "s_IqgRylHQQ",
+          "title": "LÀM CHỦ META CÙNG THẦY BA | KHỞI ĐỘNG MÙA MỚI ĐẦY HY VỌNG",
+          "duration": "35 phút",
+          "position": 26,
+          "thumbnail": "https://i.ytimg.com/vi/s_IqgRylHQQ/hqdefault.jpg"
+        },
+        {
+          "id": "kffmfsgt7KQ",
+          "title": "SBTC DINO | VƯỢT QUA NGHỊCH CẢNH ĐỂ SINH TỒN #2",
+          "duration": "2 giờ, 27 phút",
+          "position": 27,
+          "thumbnail": "https://i.ytimg.com/vi/kffmfsgt7KQ/hqdefault.jpg"
+        },
+        {
+          "id": "mue9zlSpTq8",
+          "title": "THẦY BA THỬ VẬN MAY CÙNG 120 TỜ VÉ SỐ CỨU CÁNH PHÚT 90 VÀ CÁI KẾT",
+          "duration": "10 phút, 32 giây",
+          "position": 28,
+          "thumbnail": "https://i.ytimg.com/vi/mue9zlSpTq8/hqdefault.jpg"
+        },
+        {
+          "id": "d1SAYWkvsc0",
+          "title": "SBTC DINO | QUÁ NHIỀU CUỘC CHIẾN TRONG 1 ĐÊM VÀ HÀNH TRÌNH VƯƠN MÌNH TIẾN HÓA T - REX PRIME SẮP ĐẾN",
+          "duration": "3 giờ, 13 phút",
+          "position": 29,
+          "thumbnail": "https://i.ytimg.com/vi/d1SAYWkvsc0/hqdefault.jpg"
+        },
+        {
+          "id": "z5D2smZ5Lbo",
+          "title": "CỔ ĐIỂN TÔN TRỌNG | SBTC VS NCGT [24.08.2026]",
+          "duration": "34 phút",
+          "position": 30,
+          "thumbnail": "https://i.ytimg.com/vi/z5D2smZ5Lbo/hqdefault.jpg"
+        }
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/b_sE6mmOdHg/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,24 +1,29 @@
 {
-  "name": "ttg-static-demo",
+  "name": "ttg-next-demo",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "npm run build:store && npm run build:videos && npm run build:css",
-    "build:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/site.min.css --minify",
-    "dev:css": "tailwindcss -i ./css/tailwind.input.css -o ./css/site.min.css --watch",
-    "build:videos": "node scripts/build-videos.mjs",
-    "serve": "node scripts/serve.mjs",
-    "check": "node scripts/check.mjs",
-    "test": "node --experimental-vm-modules --test tests/*.test.mjs",
-    "build:store": "node scripts/build-store.mjs",
-    "check:http": "node scripts/check-http.mjs"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
   },
   "devDependencies": {
-    "@tailwindcss/cli": "4.3.0",
-    "cheerio": "1.2.0",
-    "sharp": "0.35.5",
-    "tailwindcss": "4.3.0"
+    "@tailwindcss/postcss": "4.3.0",
+    "tailwindcss": "4.3.0",
+    "typescript": "^5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.4.0"
   },
   "overrides": {
     "@parcel/watcher": "2.6.0"

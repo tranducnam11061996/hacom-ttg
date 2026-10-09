@@ -1,0 +1,1227 @@
+{
+  "title": "PC GAMING",
+  "totalProducts": 446,
+  "totalPages": 7,
+  "descriptionHtml": "\n        <p><img src=\"/images/category/pc-745c67d5640d.png\" alt=\"🌟\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> TTGShop I THÔNG BÁO CHÍNH THỨC KINH DOANH PC I</p>\n<p>Chào toàn thể các anh em, sau một thời gian dài ấp ủ và lên kế hoạch thì cuối cùng TTG Team cũng có cơ hội thông báo tới tất cả các anh em rằng kể từ ngày 26/12/2022 TTG sẽ chính thức kinh doanh các sản phẩm về công nghệ điện tử, cụ thể là PC Gaming - PC Workstation - Hi-end Gaming gear <img src=\"/images/category/pc-b1a818019747.png\" alt=\"🥇\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> Vậy nên..</p>\n<p><img src=\"/images/category/pc-fec2a2387e7c.png\" alt=\"👉\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> Muốn Tìm PC Tối Ưu Về Giá - Đảm Bảo Hiệu Năng - Tiết Kiệm Thời Gian Làm Việc thì nhắn ngay <img src=\"/images/category/pc-d847c6f714c2.png\" alt=\"📩\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> TTG cân cả GIÁ &amp; CHẤT cho anh em&nbsp; <img src=\"/images/category/pc-1db57ac7d392.png\" alt=\"💪\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"></p>\n<p><img src=\"/images/category/pc-fec2a2387e7c.png\" alt=\"👉\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> Sự ủng hộ của anh em dành cho team TTG đã đang và sẽ luôn là nguồn động lực lớn giúp team hiện thực hóa các dự định của mình. Rất mong anh em sẽ ủng hộ team TTG thật nhiều trong vai trò mới này <img src=\"/images/category/pc-fcdf4e190e2b.png\" alt=\"🤜\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"><img src=\"/images/category/pc-865602e717db.png\" alt=\"🤛\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"></p>\n<p><img src=\"/images/category/pc-fec2a2387e7c.png\" alt=\"👉\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> Và cũng như thay lời tri ân tới tất cả anh em, thì chúng mình sẽ dành 10 suất áo Bomber sớm nhất cho 10 anh em BUILD máy tại TTG Shop.</p>\n<p>Mời anh em tham gia khảo sát nhu cầu build PC tại <a tabindex=\"0\" role=\"link\" href=\"#\">https://forms.gle/o36mPt1zuXikA8qL9</a> để TTGShop có sự chuẩn bị tốt nhất về sản phẩm gửi tới anh em.</p>\n<p><img src=\"/images/category/pc-fec2a2387e7c.png\" alt=\"👉\" width=\"16\" height=\"16\" loading=\"lazy\" decoding=\"async\"> Còn chần chờ gì mà không nổ inbox ngay để nhận được tư vấn tận tình và chuyên nghiệp từ các KTV dày dặn kinh nghiệm của TTG nào !!!</p>\n<p>----------------------------------------</p>\n<p>Địa chỉ TTG Shop:&nbsp;</p>\n<ul class=\"leading-[24px] min-[1620px]:leading-[30px]\">\n<li>&nbsp;<a href=\"#\">CS1: 83 - 85 Thái Hà - Đống Đa - HN</a></li>\n<li>&nbsp;<a href=\"#\">CS2: 83A Cửu Long -Phường 15 - Q10 - TP.HCM</a></li>\n</ul>\n<p>Hotline:098.655.2233</p>\n<p>Website: TTGshop.vn</p>\n      ",
+  "categoryLinks": [
+    {
+      "label": "PC GAMING GIÁ RẺ"
+    },
+    {
+      "label": "PC STREAM GAME"
+    },
+    {
+      "label": "PC GAMING PREMIUM"
+    },
+    {
+      "label": "PC Core Ultra"
+    },
+    {
+      "label": "PC GAMING CAO CẤP"
+    },
+    {
+      "label": "PC ĐẸP"
+    }
+  ],
+  "filterGroups": [
+    {
+      "title": "KHOẢNG GIÁ",
+      "items": [
+        {
+          "label": "10 triệu - 15 triệu (9)",
+          "checkbox": true
+        },
+        {
+          "label": "15 triệu - 20 triệu (36)",
+          "checkbox": true
+        },
+        {
+          "label": "20 triệu - 25 triệu (46)",
+          "checkbox": true
+        },
+        {
+          "label": "25 triệu - 35 triệu (114)",
+          "checkbox": true
+        },
+        {
+          "label": "35 triệu - 45 triệu (83)",
+          "checkbox": true
+        },
+        {
+          "label": "45 triệu - 60 triệu (81)",
+          "checkbox": true
+        },
+        {
+          "label": "60 triệu - 80 triệu (56)",
+          "checkbox": true
+        },
+        {
+          "label": "80 triệu - 100 triệu (13)",
+          "checkbox": true
+        },
+        {
+          "label": "100 triệu - 150 triệu (2)",
+          "checkbox": true
+        },
+        {
+          "label": "150 triệu - 200 triệu (2)",
+          "checkbox": true
+        },
+        {
+          "label": "Trên 200 triệu (1)",
+          "checkbox": true
+        }
+      ]
+    },
+    {
+      "title": "THƯƠNG HIỆU",
+      "items": [
+        {
+          "label": "ASUS (2)",
+          "checkbox": true
+        },
+        {
+          "label": "Khác (263)",
+          "checkbox": true
+        }
+      ]
+    },
+    {
+      "title": "Dòng CPU",
+      "items": [
+        {
+          "label": "AMD Ryzen 7 (86)",
+          "checkbox": true
+        },
+        {
+          "label": "AMD Ryzen 9 (26)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core I3 (2)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core I5 (149)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core I7 (59)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core I9 (6)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core Ultra 5 (19)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core Ultra 7 (31)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core Ultra 9 (7)",
+          "checkbox": true
+        },
+        {
+          "label": "Intel Core 5 (2)",
+          "checkbox": true
+        },
+        {
+          "label": "AMD Ryzen 5 (56)",
+          "checkbox": true
+        }
+      ]
+    },
+    {
+      "title": "Dung Lượng RAM",
+      "items": [
+        {
+          "label": "8GB (15)",
+          "checkbox": true
+        },
+        {
+          "label": "16GB (327)",
+          "checkbox": true
+        },
+        {
+          "label": "32GB (2x16GB) (97)",
+          "checkbox": true
+        },
+        {
+          "label": "64GB (4)",
+          "checkbox": true
+        },
+        {
+          "label": "128GB (1)",
+          "checkbox": true
+        }
+      ]
+    },
+    {
+      "title": "GPU",
+      "items": [
+        {
+          "label": "AMD RX 9070 XT 16GB (22)",
+          "checkbox": true
+        },
+        {
+          "label": "AMD RX 9060 XT 16GB (14)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5060 Ti 16GB (47)",
+          "checkbox": true
+        },
+        {
+          "label": "AMD RX 7600 8GB (20)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5090 32GB (5)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5080 16GB (19)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5070 Ti 16GB (38)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5070 12GB (66)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5060 Ti 8GB (46)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA GTX 1660 Super (4)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 3050 6GB (30)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 3050 8GB (21)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 3060 12GB (28)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5050 8GB (28)",
+          "checkbox": true
+        },
+        {
+          "label": "NVIDIA RTX 5060 8GB (54)",
+          "checkbox": true
+        }
+      ]
+    },
+    {
+      "title": "Ổ cứng",
+      "items": [
+        {
+          "label": "SSD (444)",
+          "checkbox": true
+        }
+      ]
+    }
+  ],
+  "sortOptions": [
+    "Sắp xếp theo",
+    "Mới nhất",
+    "Giá tăng dần",
+    "Giá giảm dần",
+    "Lượt xem",
+    "Trao đổi",
+    "Đánh giá",
+    "Tên A->Z"
+  ],
+  "products": [
+    {
+      "name": "PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "19.680.000 VNĐ",
+      "market": "24.990.000 VNĐ",
+      "discount": "-21%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD Ryzen 5 5500 - RTX 5050 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              19.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CP CPU AMD Ryzen 5 5500 (AMD AM4 - 6 Core - 12 Thread - Base 3.6Ghz - Turbo 4.2Ghz - Cache 19MB - No iGPU) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI A520M-A PRO DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000;\">hoặc</span></span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG SHOP đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB",
+      "image": {
+        "src": "/images/products/shared-43805c8029747fdc.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "38.480.000 VNĐ",
+      "market": "39.990.000 VNĐ",
+      "discount": "-4%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING CORE ULTRA 5 250K PLUS - RTX 5060 Ti 8GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              38.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core Ultra 5 250K Plus (Intel LGA1851 - 18 Core - 18 Thread - Base 3.3Ghz - Turbo 5.3Ghz - Cache 30MB) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Asus PRIME Z890M-PLUS WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUS 5200MHZ BLACK \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition<br>&nbsp;<span style=\"color: #000000;\">thêm </span>500.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC",
+      "image": {
+        "src": "/images/products/shared-40084a4218499cff.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "25.480.000 VNĐ",
+      "market": "27.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5060 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              25.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 5700X (3.4GHz Boost 4.6GHz / 8 nhân 16 luồng / 32MB / AM4)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI PRO A520M-S DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard ASROCK B550M PRO4</span>&nbsp;thêm <span style=\"color: #e03e2d;\">1.490.000đ</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span>&nbsp;Máy ráp sẵn tại PCM đã bao gồm&nbsp;<span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "21.480.000 VNĐ",
+      "market": "25.990.000 VNĐ",
+      "discount": "-17%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING PRO Ryzen 7 5700X - RTX 5050 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              21.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 5700X (3.4GHz Boost 4.6GHz / 8 nhân 16 luồng / 32MB / AM4)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI PRO A520M-S DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard ASROCK B550M PRO4</span>&nbsp;thêm <span style=\"color: #e03e2d;\">1.490.000đ</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span>&nbsp;Máy ráp sẵn tại PCM đã bao gồm&nbsp;<span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC",
+      "image": {
+        "src": "/images/products/shared-e1bb80f87528aef3.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "44.480.000 VNĐ",
+      "market": "48.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING i5 14600KF - 16GB DDR4 - RTX 5070 12GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              44.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B760M-PLUS WIFI V21 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC",
+      "image": {
+        "src": "/images/products/shared-fdb1230a1d4f75eb.webp",
+        "width": 600,
+        "height": 406
+      },
+      "price": "52.480.000 VNĐ",
+      "market": "55.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING CORE ULTRA 7 270K PLUS - RTX 5070 12GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              52.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core Ultra 7 270K Plus (24 Nhân 24 Luồng , Up 5.5GHz)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc"
+    },
+    {
+      "name": "PC TTG ULTRA GAMING I5 14400F - RTX 5050 8GB",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "22.680.000 VNĐ",
+      "market": "25.990.000 VNĐ",
+      "discount": "-13%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ULTRA GAMING I5 14400F - RTX 5050 8GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              22.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Asus PRIME B760M-F DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 7500X3D - RTX 5060 8GB OC",
+      "image": {
+        "src": "/images/products/shared-40084a4218499cff.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "32.280.000 VNĐ",
+      "market": "34.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 7500X3D - RTX 5060 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500X3D TRAY (AMD AM5 - 6 Core - 12 Thread - Base 4.0Ghz - Turbo 4.5Ghz - Cache 102MB)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI A620M-E PRO DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUSS 5200Mhz DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên</span> VGA Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB (Màu trắng) <span style=\"color: #000000;\">thêm</span> 2.000K</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING i5 14400F - 16GB DDR4 - RTX 5060 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-40084a4218499cff.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "25.980.000 VNĐ",
+      "market": "",
+      "discount": "",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING i5 14400F - 16GB DDR4 - RTX 5060 8GB (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              25.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;Asus B760M-AYW WIFI DDR4&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;690K</span></span></span></span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên</span> VGA Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB (Màu trắng) <span style=\"color: #000000;\">thêm</span> 2.000K</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING i5 12400F - 16GB DDR4 - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-40084a4218499cff.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "25.280.000 VNĐ",
+      "market": "27.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING i5 12400F - 16GB DDR4 - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              25.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 12400F (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;Asus B760M-AYW WIFI DDR4&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;690K</span></span></span></span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên</span> VGA Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB (Màu trắng) <span style=\"color: #000000;\">thêm</span> 2.000K</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 5 5500 - RTX 3050 6GB  (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-6e3d911e9140f219.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "14.280.000 VNĐ",
+      "market": "15.990.000 VNĐ",
+      "discount": "-11%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING Ryzen 5 5500 - RTX 3050 6GB  (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              14.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 5500 (AMD AM4 - 6 Core - 12 Thread - Base 3.6Ghz - Turbo 4.2Ghz - Cache 19MB - No iGPU) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI PRO A520M-S DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM VSP 16GB BUS 3200Mhz DDR4 - TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> SSD VSP 256GB (ĐỌC 560MB/S GHI 470MB/S) SATA III 2.5 INCH (VSP-256GB-860G)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc </span>Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard ASROCK B550M PRO4</span>&nbsp;thêm <span style=\"color: #e03e2d;\">1.490.000đ</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span>&nbsp;Máy ráp sẵn tại PCM đã bao gồm&nbsp;<span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 7 5700X - RTX 3050 8GB  (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-3a9341c90009a869.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "18.280.000 VNĐ",
+      "market": "19.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING Ryzen 7 5700X - RTX 3050 8GB  (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              18.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 5700X (3.4GHz Boost 4.6GHz / 8 nhân 16 luồng / 32MB / AM4)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI PRO A520M-S DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard ASROCK B550M PRO4</span>&nbsp;thêm <span style=\"color: #e03e2d;\">1.490.000đ</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span>&nbsp;Máy ráp sẵn tại PCM đã bao gồm&nbsp;<span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING i5 12400F - RTX 5050 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "21.860.000 VNĐ",
+      "market": "24.980.000 VNĐ",
+      "discount": "-12%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING i5 12400F - RTX 5050 8GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              21.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 12400F (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Asus PRIME B760M-F DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000;\">hoặc</span></span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;Asus B760M-AYW WIFI DDR4&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;690K</span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING PRO Ryzen 7 7800X3D - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-43805c8029747fdc.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "36.680.000 VNĐ",
+      "market": "37.990.000 VNĐ",
+      "discount": "-3%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING PRO Ryzen 7 7800X3D - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              36.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUS 5200MHZ BLACK \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition<br>&nbsp;<span style=\"color: #000000;\">thêm </span>500.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC AMD GAMING TTG PRO Ryzen 5 8400F - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-568e43cb5721004a.jpg",
+        "width": 600,
+        "height": 406
+      },
+      "price": "29.980.000 VNĐ",
+      "market": "31.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC AMD GAMING TTG PRO Ryzen 5 8400F - RTX 5060 Ti 8GB (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              29.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 8400F (4.2 GHz Upto 4.7GHz / 22MB / 6 Cores, 12 Threads) ( Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI A620M-E PRO DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUS 5200MHZ BLACK \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #000000;\">hoặc</span></span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Card màn hình ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition<br>&nbsp;<span style=\"color: #000000;\">thêm </span>500.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 7500F - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-40084a4218499cff.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "28.680.000 VNĐ",
+      "market": "30.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 7500F - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              28.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI Pro A620AM-B EVO AM5 DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUSS 5200Mhz DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15</span>&nbsp;thêm <span style=\"color: #e03e2d;\">890K</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">Card màn hình ASUS Dual RTX 5060 8GB GDDR7</span> thêm <span style=\"color: #e03e2d;\">500K</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-fdb1230a1d4f75eb.webp",
+        "width": 600,
+        "height": 406
+      },
+      "price": "48.680.000 VNĐ",
+      "market": "53.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC AMD GAMING PRO RYZEN 7 7800X3D - RTX 5070 12GB (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              48.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB DDR5 Bus 5200Mhz – Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC AMD GAMING Ryzen 7 9800X3D - RTX 5070 Ti 16GB OC (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-a1ad111a6d364a14.webp",
+        "width": 600,
+        "height": 406
+      },
+      "price": "61.980.000 VNĐ",
+      "market": "65.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC AMD GAMING Ryzen 7 9800X3D - RTX 5070 Ti 16GB OC (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              61.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 9800X3D (AMD AM5 - 8 Core - 16 Thread - Base 4.7Ghz - Turbo 5.2Ghz - Cache 104MB) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B650M-E TUF GAMING DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUSS 5200MHZ DDR5 BLACK\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M.2 2280 PCIe 3.0x4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Darkflash PMT850 850W ( ATX3.1 &amp; PCIe 5.1, 80 Plus Gold, Full Modular )\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\"><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</span></span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING Ryzen 7 5700X  - RTX 3050 6GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-753c24ed56af4adb.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "16.860.000 VNĐ",
+      "market": "17.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING Ryzen 7 5700X  - RTX 3050 6GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              16.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 5700X (3.4GHz Boost 4.6GHz / 8 nhân 16 luồng / 32MB / AM4)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI PRO A520M-S DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W PLUS \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">Mainboard ASROCK B550M PRO4</span>&nbsp;thêm <span style=\"color: #e03e2d;\">1.490.000đ</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>***&nbsp;<span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span>&nbsp;Máy ráp sẵn tại PCM đã bao gồm&nbsp;<span style=\"color: #000000;\">Windows 10/11</span>&nbsp;bản dùng thử trong&nbsp;<span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC CHƠI GAME HIỆU SUẤT CAO RTX 3060 12GB - i5 12400F -SL: 12 Slots Order 6 Hà Nội  - HCM 6 slots",
+      "image": {
+        "src": "/images/products/shared-43e5a28f1d6bc0db.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "22.680.000 VNĐ",
+      "market": "23.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC CHƠI GAME HIỆU SUẤT CAO RTX 3060 12GB - i5 12400F -SL: 12 Slots Order 6 Hà Nội  - HCM 6 slots\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              22.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td> 36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 12400F (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d;\"><strong>Quà tặng : Chuột Gaming ASUS TUF M3 GEN II <span style=\"color: #000000;\">hoặc</span> Chuột gaming Logitech G102 Gen II</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong><span style=\"color: #e03e2d;\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;Asus B760M-AYW WIFI DDR4&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;690K</span></span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC PREMIUM GAMING TTG AMD Ryzen 5 7500F | 16GB DDR5 | RTX 5060 Ti 8GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-18d6dcf22d2e.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "35.280.000 VNĐ",
+      "market": "36.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC PREMIUM GAMING TTG AMD Ryzen 5 7500F | 16GB DDR5 | RTX 5060 Ti 8GB OC WHITE\n\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              35.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard COLORFUL COLORFIRE B850M-MEOW WIFI7 V14        \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn MSI MAG A750BN PCIE5 750W – 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC GAMING TTG PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti OC 16GB WHITE",
+      "image": {
+        "src": "/images/category/pc-f567b40abecf.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "37.280.000 VNĐ",
+      "market": "38.990.000 VNĐ",
+      "discount": "-4%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC GAMING TTG PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti OC 16GB WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              37.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard AUSS B760M AYW WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC AMD GAMING TTG PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5070 12GB",
+      "image": {
+        "src": "/images/category/pc-7710586deaf9.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "49.480.000 VNĐ",
+      "market": "50.990.000 VNĐ",
+      "discount": "-3%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC AMD GAMING TTG PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5070 12GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              49.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B650M-E TUF GAMING DDR5 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn MSI MAG A750BN PCIE5 750W – 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC GAMING TTG PRO i5 14600KF | 16GB DDR4 | RTX 5070 12GB OC",
+      "image": {
+        "src": "/images/category/pc-7710586deaf9.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "44.680.000 VNĐ",
+      "market": "46.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC GAMING TTG PRO i5 14600KF | 16GB DDR4 | RTX 5070 12GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              44.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI B760M GAMING PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A750BN PCIE5 III (750W/ 80 Plus Bronze/ ATX/ Đen)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC GAMING TTG PRO i5 14600KF | 16GB DDR4 | RTX 5060 Ti 8GB OC",
+      "image": {
+        "src": "/images/category/pc-da735ab9272d.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "32.860.000 VNĐ",
+      "market": "34.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC GAMING TTG PRO i5 14600KF | 16GB DDR4 | RTX 5060 Ti 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI B760M GAMING PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A650BNL - 650W - 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC GAMING TTG PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB OC",
+      "image": {
+        "src": "/images/category/pc-3cf40a27dc52.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "28.680.000 VNĐ",
+      "market": "28.990.000 VNĐ",
+      "discount": "-1%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC GAMING TTG PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              28.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A650BNL - 650W - 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;<span style=\"color: #e03e2d;\">Asus B760M-AYW WIFI DDR4</span>&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;<span style=\"color: #e03e2d;\">690K</span></strong></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC GAMING TTG PRO i5 12400F | 16GB DDR4 | RTX 5050 8GB OC",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "24.280.000 VNĐ",
+      "market": "24.990.000 VNĐ",
+      "discount": "-3%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC GAMING TTG PRO i5 12400F | 16GB DDR4 | RTX 5050 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              24.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 12400F (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A550BNL - 550W PLUS BRONZE\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #000000;\">Upgrade lên Mainboard</span>&nbsp;<span style=\"color: #e03e2d;\">Asus B760M-AYW WIFI DDR4</span>&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;<span style=\"color: #e03e2d;\">690K</span></strong></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 7500F - RTX 5050 8GB (ALL NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/products/shared-21dce18072a61022.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "25.280.000 VNĐ",
+      "market": "28.990.000 VNĐ",
+      "discount": "-13%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 7500F - RTX 5050 8GB (ALL NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              25.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS A620M-E PRIME DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB DDR5 bus 5200Mhz – Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC WD 650 650W 80 Plus White\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #000000;\">Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong>Upgrade lên <span style=\"color: #e03e2d;\">Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15</span>&nbsp;thêm <span style=\"color: #e03e2d;\">890K</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 7 7800X3D - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/category/pc-6ccf548f40ce.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "34.280.000 VNĐ",
+      "market": "37.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 7 7800X3D - RTX 5060 8GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              34.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUSS 5200Mhz DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên</span> VGA Colorful iGame GeForce RTX 5060 Ultra W DUO OC 8GB (Màu trắng) <span style=\"color: #000000;\">thêm</span> 2.000K</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 7 7800X3D - RTX 5060 Ti 16GB (All NEW - Bảo hành 36 tháng)",
+      "image": {
+        "src": "/images/category/pc-c9be3d5fdf2e.jpg",
+        "width": 600,
+        "height": 424
+      },
+      "price": "43.480.000 VNĐ",
+      "market": "45.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 7 7800X3D - RTX 5060 Ti 16GB (All NEW - Bảo hành 36 tháng)\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              43.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUS 5200MHZ BLACK \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"color: #e03e2d;\"><span style=\"color: #000000;\">Upgrade lên </span>Ram 16GB bus 6000Mhz DDR5 <span style=\"color: #000000;\">thêm </span>700.000đ</span></strong></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #000000;\"><strong>Upgrade lên <span style=\"color: #e03e2d;\">SSD 512GB NVME GEN4</span> thêm <span style=\"color: #e03e2d;\">1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"font-size: 12pt;\"><strong><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên</span>&nbsp;Card màn hình ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC</span></strong><strong><span style=\"color: #ff0000;\">&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;500.000đ</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong><span style=\"color: #000000;\">***</span> <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại TTG đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong 30 ngày. </strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt;\"><strong> Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG VISION GAMING LUXURY RYZEN 7 7800X3D - RTX 5070 12GB OC BLACK",
+      "image": {
+        "src": "/images/category/pc-ea66d4030356.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "75.980.000 VNĐ",
+      "market": "79.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG VISION GAMING LUXURY RYZEN 7 7800X3D - RTX 5070 12GB OC BLACK\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              75.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 7800X3D / 4.2GHz Boost 5.0GHz / 8 nhân 16 luồng / 104MB / AM5 (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> MAINBOARD GIGABYTE B850M AORUS ELITE WIFI 6E\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM GSKILL TRIDENT Z5 RGB 32GB (16GBX2) 6000MHZ DDR5 (F5-6000J3636F16GX2-TZ5RK)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD Kingston NV3 1TB PCIe 4.0 x4 M.2 NVMe (SNV3S/1000G)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Cooler Master Elite Gold 850W | Full Modular, 80 Plus Gold, ATX 3.1, PCIe 5.1        \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5060 Ti 8GB",
+      "image": {
+        "src": "/images/category/pc-41cc15eb51d5.jpg",
+        "width": 600,
+        "height": 407
+      },
+      "price": "29.860.000 VNĐ",
+      "market": "30.990.000 VNĐ",
+      "discount": "-4%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5060 Ti 8GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              29.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze Semi-Modular\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5060 8GB",
+      "image": {
+        "src": "/images/category/pc-f5841e561e1b.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "27.860.000 VNĐ",
+      "market": "30.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5060 8GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              27.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze Semi-Modular\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5050 8GB OC",
+      "image": {
+        "src": "/images/category/pc-97cecbbd8f71.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "24.680.000 VNĐ",
+      "market": "25.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 5050 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              24.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RX 7600 8GB OC",
+      "image": {
+        "src": "/images/category/pc-8d9953ed7936.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "21.980.000 VNĐ",
+      "market": "23.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RX 7600 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              21.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3060 12GB",
+      "image": {
+        "src": "/images/category/pc-3ca676af01a7.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "24.980.000 VNĐ",
+      "market": "28.990.000 VNĐ",
+      "discount": "-15%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3060 12GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              24.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze Semi-Modular\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3050 8GB OC",
+      "image": {
+        "src": "/images/category/pc-10df3212250d.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "20.680.000 VNĐ",
+      "market": "23.990.000 VNĐ",
+      "discount": "-15%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3050 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              20.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3050 6GB",
+      "image": {
+        "src": "/images/category/pc-c292669a33b9.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "19.480.000 VNĐ",
+      "market": "22.990.000 VNĐ",
+      "discount": "-15%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING RYZEN 5 5600X3D - RTX 3050 6GB \n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              19.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 5 5600X3D TRAY (6 CORES | 12 THREADS | UPTO 4.4GHZ | 96 MB CACHE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B450M-T M.2 V14 DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính SSTC 550F - 550W\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - RX 9070 XT 16GB",
+      "image": {
+        "src": "/images/category/pc-2671dba2ab10.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "50.680.000 VNĐ",
+      "market": "55.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING CORE ULTRA 5 250K PLUS - RX 9070 XT 16GB\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              50.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core Ultra 5 250K Plus (Intel LGA1851 - 18 Core - 18 Thread - Base 3.3Ghz - Turbo 5.3Ghz - Cache 30MB) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB BUSS 5200MHZ DDR5 BLACK\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Thermalright TR-KG850 850W 80 Plus Gold\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên</span>&nbsp;Ram 16GB bus 6000Mhz DDR5&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;700.000đ</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"font-size: 12pt;\"><strong><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">Upgrade lên</span>&nbsp;SSD 512GB NVME GEN4&nbsp;<span style=\"color: #000000;\">thêm</span>&nbsp;1 triệu</span></strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>*** <span style=\"color: #000000;\">Lưu ý về Hệ điều hành:</span> Máy ráp sẵn tại PCM đã bao gồm <span style=\"color: #000000;\">Windows 10/11</span> bản dùng thử trong <span style=\"color: #000000;\">30 ngày</span>.</strong></span></p>\n</div>\n        </div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #ff0000; font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><strong>Bộ PC này đã áp dụng CTKM SHOCK nên sẽ không được Áp dụng CTKM Chung</strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC ASUS GAMING PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5060 Ti 8GB OC",
+      "image": {
+        "src": "/images/category/pc-13347e9c0848.jpg",
+        "width": 600,
+        "height": 407
+      },
+      "price": "38.280.000 VNĐ",
+      "market": "39.990.000 VNĐ",
+      "discount": "-4%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC ASUS GAMING PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5060 Ti 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              38.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS TUF GAMING B650M-E DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ASUS GAMING PRO RYZEN 5 7500F | 16GB DDR5| RTX 5060 8GB OC",
+      "image": {
+        "src": "/images/category/pc-f5c788cdc25a.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "32.280.000 VNĐ",
+      "market": "35.990.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ASUS GAMING PRO RYZEN 5 7500F | 16GB DDR5| RTX 5060 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS TUF GAMING B650M-E DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ASUS GAMING PRO i5 14600KF| 16GB DDR4 | RTX 5060 8GB OC",
+      "image": {
+        "src": "/images/category/pc-118a6998e7bc.jpg",
+        "width": 600,
+        "height": 407
+      },
+      "price": "32.980.000 VNĐ",
+      "market": "36.990.000 VNĐ",
+      "discount": "-11%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ASUS GAMING PRO i5 14600KF| 16GB DDR4 | RTX 5060 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Asus TUF GAMING B760M-PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ASUS GAMING PRO i5 14600KF| 16GB DDR4 | RTX 5060 Ti 8GB OC",
+      "image": {
+        "src": "/images/category/pc-13347e9c0848.jpg",
+        "width": 600,
+        "height": 407
+      },
+      "price": "34.280.000 VNĐ",
+      "market": "36.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ASUS GAMING PRO i5 14600KF| 16GB DDR4 | RTX 5060 Ti 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              34.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Asus TUF GAMING B760M-PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ASUS GAMING PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB OC",
+      "image": {
+        "src": "/images/category/pc-13347e9c0848.jpg",
+        "width": 600,
+        "height": 407
+      },
+      "price": "30.280.000 VNĐ",
+      "market": "35.990.000 VNĐ",
+      "discount": "-16%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ASUS GAMING PRO i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              30.280.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M AYW WIFI DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ASUS GAMING PRO i5 14400F | 16GB DDR4 | RTX 5060 8GB OC",
+      "image": {
+        "src": "/images/category/pc-f5c788cdc25a.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "28.980.000 VNĐ",
+      "market": "30.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ASUS GAMING PRO i5 14400F | 16GB DDR4 | RTX 5060 8GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              28.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M AYW WIFI DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING PRO i5 14600KF | 16GB DDR4 | RTX 5060 Ti 8GB MOON OC WHITE",
+      "image": {
+        "src": "/images/category/pc-1aadbed2a05a.jpg",
+        "width": 600,
+        "height": 405
+      },
+      "price": "32.860.000 VNĐ",
+      "market": "35.990.000 VNĐ",
+      "discount": "-9%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING PRO i5 14600KF | 16GB DDR4 | RTX 5060 Ti 8GB MOON OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI B760M GAMING PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A750BN PCIE5 III (750W/ 80 Plus Bronze/ ATX/ Đen)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><span style=\"color: #e03e2d;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Tặng 24 PIN - 12 PIN&nbsp;</span></strong></span></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB MOON OC WHITE",
+      "image": {
+        "src": "/images/category/pc-78297e5db05d.jpg",
+        "width": 600,
+        "height": 405
+      },
+      "price": "29.860.000 VNĐ",
+      "market": "39.900.000 VNĐ",
+      "discount": "-25%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING i5 14400F | 16GB DDR4 | RTX 5060 Ti 8GB MOON OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              29.860.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M AYW WIFI DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn Máy Tính MSI MAG A650BN 650W - 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG AMD GAMING PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5060 Ti 8GB MOON OC WHITE",
+      "image": {
+        "src": "/images/category/pc-1aadbed2a05a.jpg",
+        "width": 600,
+        "height": 405
+      },
+      "price": "37.480.000 VNĐ",
+      "market": "39.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG AMD GAMING PRO RYZEN 7 7800X3D | 16GB DDR5 | RTX 5060 Ti 8GB MOON OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              37.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A750BN PCIE5 III (750W/ 80 Plus Bronze/ ATX/ Đen)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING Ryzen 5 7500F  | 16GB DDR5 | RTX 5060 Ti 8GB MOON OC WHITE",
+      "image": {
+        "src": "/images/category/pc-78297e5db05d.jpg",
+        "width": 600,
+        "height": 405
+      },
+      "price": "32.480.000 VNĐ",
+      "market": "33.990.000 VNĐ",
+      "discount": "-4%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING Ryzen 5 7500F  | 16GB DDR5 | RTX 5060 Ti 8GB MOON OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              32.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 5 7500F (3.7 GHz Upto 5.0 GHz , 6 Core- 12 Threads ,AM5) (Tray)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard Colorful BATTLE-AX B650M-PLUS WIFI V15\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn Máy Tính MSI MAG A650BN 650W - 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p><strong><span style=\"font-size: 12pt; color: #ff0000;\">Tặng 24 PIN - 8 PIN&nbsp;</span></strong></p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING RYZEN 7 7800X3D | 32GB DDR5 | RTX 5070 12GB OC BLACK",
+      "image": {
+        "src": "/images/category/pc-e680f46ace6b.jpg",
+        "width": 600,
+        "height": 400
+      },
+      "price": "62.980.000 VNĐ",
+      "market": "69.900.000 VNĐ",
+      "discount": "-10%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING RYZEN 7 7800X3D | 32GB DDR5 | RTX 5070 12GB OC BLACK\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              62.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard SAPPHIRE NITRO+ B850M WIFI – Socket AM5               \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM CRUCIAL PRO OC GAMING 32GB (2X16GB) DDR5 6400MHZ C38 BLACK\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ CỨNG SSD NVME TEAMGROUP NV5000 1TB PCIE GEN4X4        \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính THERMALRIGHT TR-KG850 850W 80 Plus Gold Đen/Black        \n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG ULTRA GAMING i5 14400F - RTX 3050 8GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-68a67cae7444.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "19.480.000 VNĐ",
+      "market": "22.990.000 VNĐ",
+      "discount": "-15%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG ULTRA GAMING i5 14400F - RTX 3050 8GB OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              19.480.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M-F PRIME DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram SSTC 16GB Bus 3200Mhz DDR4 BLACK TẢN NHIỆT\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze Semi-Modular\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING RYZEN 7 9800X3D | 16GB DDR5 | RTX 5070 12GB OC BLACK",
+      "image": {
+        "src": "/images/category/pc-1cff03ee75b8.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "56.980.000 VNĐ",
+      "market": "59.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING RYZEN 7 9800X3D | 16GB DDR5 | RTX 5070 12GB OC BLACK\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              56.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard SAPPHIRE NITRO+ B850M WIFI – Socket AM5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Darkflash PMT850 850W ( ATX3.1 &amp; PCIe 5.1, 80 Plus Gold, Full Modular )\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC PREMIUM TTG GAMING i5 14400F | 16GB DDR4 | RTX 5060 Ti 16GB OC EDITION",
+      "image": {
+        "src": "/images/category/pc-20c279dd757d.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "36.980.000 VNĐ",
+      "market": "38.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC PREMIUM TTG GAMING i5 14400F | 16GB DDR4 | RTX 5060 Ti 16GB OC EDITION\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              36.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard AUSS B760M AYW WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular, 6 năm bảo hành)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING ATLAS LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB OC",
+      "image": {
+        "src": "/images/category/pc-b4840bcc4246.png",
+        "width": 600,
+        "height": 600
+      },
+      "price": "79.680.000 VNĐ",
+      "market": "85.900.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING ATLAS LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              79.680.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span>  Mainboard SAPPHIRE NITRO+ B850M WIFI – Socket AM5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span>  Ram ADATA XPG LANCER RGB 32GB (16GBx2) CL30 DDR5 6000MHz DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span>  Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span>  Nguồn Máy Tính Darkflash PMT850 - 850w White Edition (ATX 3.1 - PCIe 5.1 80 Plus Gold - Full Modul)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING CORE ULTRA 5 250K PLUS - 16GB DDR5 - RTX 5070 Ti 16GB OC BLACK",
+      "image": {
+        "src": "/images/category/pc-afa36414da71.webp",
+        "width": 600,
+        "height": 406
+      },
+      "price": "57.980.000 VNĐ",
+      "market": "65.990.000 VNĐ",
+      "discount": "-12%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING CORE ULTRA 5 250K PLUS - 16GB DDR5 - RTX 5070 Ti 16GB OC BLACK\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              57.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core Ultra 5 250K Plus (Intel LGA1851 - 18 Core - 18 Thread - Base 3.3Ghz - Turbo 5.3Ghz - Cache 30MB) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard GIGABYTE B860M AORUS ELITE WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM APACER NOX 16GB (1x16GB) BUSS 5200Mhz DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính Darkflash PMT850 850W ( ATX3.1 &amp; PCIe 5.1, 80 Plus Gold, Full Modular )\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC ASUS ROG 20th Anniversary | Ryzen 9 9950X3D2 - RAM 128GB - SSD 4TB - RTX 5090 32GB OC",
+      "image": {
+        "src": "/images/category/pc-c536b5fac588.webp",
+        "width": 600,
+        "height": 600
+      },
+      "price": "532.000.000 VNĐ",
+      "market": "559.900.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC ASUS ROG 20th Anniversary | Ryzen 9 9950X3D2 - RAM 128GB - SSD 4TB - RTX 5090 32GB OC\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              532.000.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 9 9950X3D2 Dual Edition (Up to 5.6GHz | 16 Cores Zen5 | 192 MB Cache)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ROG CROSSHAIR X870E EDITION 20\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM CORSAIR VENGEANCE RGB 128GB (2x64GB) DDR5 6400Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Card màn hình ROG Astral GeForce RTX 5090 32GB Edition 20\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD SAMSUNG 4TB 990 PRO\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-d2e772a1fdba.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "83.980.000 VNĐ",
+      "market": "89.990.000 VNĐ",
+      "discount": "-8%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG GAMING LUXURY RYZEN 7 9800X3D - RTX 5070 Ti 16GB OC WHITE\n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              83.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD Ryzen 7 9800X3D (8 nhân 16 luồng/ 4.7GHz up to 5.2GHz/ 120W)- TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> MAINBOARD SAPPHIRE PURE B850M WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram Gskill RIPJAWS M5 RGB 32GB (2x16GB) DDR5 bus 6000MHz WHITE\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn Máy Tính Darkflash PMT850 - 850w White Edition (ATX 3.1 - PCIe 5.1 80 Plus Gold - Full Modul)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING i5 14600KF | 16GB DDR4 |  RTX 5070 12GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-3d751af55b46.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "47.980.000 VNĐ",
+      "market": "50.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING i5 14600KF | 16GB DDR4 |  RTX 5070 12GB OC WHITE \n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              47.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5-14600KF (Up to 5.3Ghz, 14 NHÂN 20 LUỒNG, 24MB CACHE) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard MSI B760M GAMING PLUS WIFI DDR4\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính MSI MAG A750BN PCIE5 III (750W/ 80 Plus Bronze/ ATX/ Đen)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p>Tặng 24 PIN - 12 PIN&nbsp;</p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING i5 14400F | 16GB DDR4 |  RTX 5070 12GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-3d751af55b46.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "43.980.000 VNĐ",
+      "market": "46.990.000 VNĐ",
+      "discount": "-6%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING i5 14400F | 16GB DDR4 |  RTX 5070 12GB OC WHITE \n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              43.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU Intel Core i5 14400F (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700) TRAY\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Mainboard ASUS B760M AYW WIFI DDR4 \n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ram TeamGroup Elite Plus 16GB DDR4 Bus 3200Mhz\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn máy tính ASUS PRIME 750B (750W, 80 Plus Bronze, Non-modular)\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Khuyến mại:</b>\n      <div>\n        <div class=\"item flex gap-[4px]\">\n          <span class=\"listing-tip-icon listing-tip-gift\" aria-hidden=\"true\"></span>\n          <div class=\"flex-1\"><p>Tặng 24 PIN - 12 PIN&nbsp;</p></div>\n        </div>\n        \n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    },
+    {
+      "name": "PC TTG PREMIUM GAMING RYZEN 7 7800X3D | 16GB DDR5 |  RTX 5070 12GB OC WHITE",
+      "image": {
+        "src": "/images/category/pc-3d751af55b46.webp",
+        "width": 600,
+        "height": 400
+      },
+      "price": "53.980.000 VNĐ",
+      "market": "56.990.000 VNĐ",
+      "discount": "-5%",
+      "buy": "THÊM VÀO GIỎ",
+      "status": "Còn hàng",
+      "tooltipHtml": "\n    <a class=\"hover-name\">\n      PC TTG PREMIUM GAMING RYZEN 7 7800X3D | 16GB DDR5 |  RTX 5070 12GB OC WHITE \n    </a>\n\n    <div style=\"padding: 0 15px;margin: 10px 0;\">\n      <table>\n        <tbody><tr>\n          <td width=\"80\"><b>Giá bán:</b></td>\n          <td>\n            <span class=\"img_price_full\">\n              53.980.000 VNĐ\n            </span>\n\n            <span class=\"hover-vat\">\n              \n              \n            </span>\n          </td>\n        </tr>\n\n        <tr style=\"vertical-align: text-bottom;\">\n          <td width=\"80\"><b>Bảo hành:</b></td>\n          <td>36 Tháng</td>\n        </tr>\n        </tbody></table>\n    </div>\n\n    <div class=\"hover-offer\">\n      <b class=\"title\"> Mô tả tóm tắt:</b>\n      <div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> CPU AMD RYZEN 7 7800X3D (4.2GHZ UP TO 5.0GHZ/105MB/8 CORES 16 THREADS) (TRAY)\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> MAINBOARD SAPPHIRE PURE B850M WIFI DDR5\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Ổ cứng SSD HIKSEMI WAVE 512GB M2 NVMe GEN3\n</div>\n        <div class=\"item\"><span class=\"listing-tip-icon listing-tip-check\" aria-hidden=\"true\"></span> Nguồn MSI MAG A750BN PCIE5 750W – 80 Plus Bronze\n</div>\n        <div class=\"item\">...</div>\n      </div>\n    </div>\n    ",
+      "overlay": "delta",
+      "href": "#"
+    }
+  ],
+  "overlays": {
+    "delta": {
+      "src": "/images/category/pc-eb03eb72ae35.png",
+      "width": 1000,
+      "height": 285
+    }
+  },
+  "zalo": {
+    "src": "/images/products/shared-5e2d408707ddcf4a.png",
+    "width": 323,
+    "height": 323
+  },
+  "messenger": {
+    "src": "/images/products/shared-88574564c7a09e1e.png",
+    "width": 240,
+    "height": 240
+  }
+}

@@ -1,0 +1,211 @@
+@layer components {
+  .ttg-footer {
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .footer-showroom {
+    background: #002023;
+    color: white;
+    border-radius: 20px 20px 0 0;
+    padding: 24px 0;
+  }
+  .footer-showroom h2 {
+    text-align: center;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    margin-bottom: 24px;
+  }
+  .showroom-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .showroom-card {
+    min-width: 0;
+  }
+  .showroom-name {
+    padding: 2px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #ff4f60 0.24%, #ffc617 100.24%);
+  }
+  .showroom-name > span {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: 12px;
+    background:
+      linear-gradient(0deg, rgba(255, 79, 96, 0) 1%, #af9746 120%), #002023;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 6px 48px;
+    font-weight: 600;
+  }
+  .showroom-name > span::before {
+    content: "";
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    width: 27px;
+    height: 20px;
+    background: url("/images/icons/ttgshop-static-icon-border-2.png") no-repeat
+      center/contain;
+  }
+  .showroom-name > span::after {
+    content: "";
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    width: 45px;
+    height: 30px;
+    background: url("/images/icons/ttgshop-static-icon-border-1.png") no-repeat
+      center/contain;
+  }
+  .showroom-info {
+    font-size: 14px;
+    line-height: 26px;
+    margin-top: 18px;
+  }
+  .footer-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    transform: translateY(2px);
+    background: url("/images/icons/ttgshop-icons-map-2.png") no-repeat;
+    background-size: 226px 203px;
+  }
+  .showroom-info .footer-icon {
+    margin-right: 4px;
+  }
+  .footer-icon-location {
+    background-position: -205px -130px;
+  }
+  .footer-icon-phone {
+    background-position: -169px -156px;
+  }
+  .footer-icon-email {
+    background-position: -195px -156px;
+  }
+  .footer-icon-map {
+    background-position: -55px -182px;
+  }
+  .footer-icon-contact-location {
+    background-position: -77px -57px;
+  }
+  .footer-icon-contact-phone {
+    background-position: -103px -57px;
+  }
+  .footer-icon-contact-email {
+    background-position: -129px -57px;
+  }
+  .footer-company {
+    background: white;
+  }
+  .footer-logo {
+    display: block;
+    padding: 14px 0;
+  }
+  .footer-logo img {
+    width: 144px;
+    height: auto;
+  }
+  .footer-company-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding-bottom: 40px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .footer-company-grid > section {
+    min-width: 0;
+  }
+  .footer-company-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: 12px;
+  }
+  .footer-company-grid ul {
+    line-height: 24px;
+  }
+  .footer-bct {
+    margin-top: 12px;
+  }
+  .footer-bct img {
+    width: 121px;
+    height: auto;
+  }
+  .footer-copyright {
+    padding: 10px;
+    text-align: center;
+    background: #dbdbdb;
+    color: #4c4c4c;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .showroom-info,
+  .footer-company-grid,
+  .footer-copyright {
+    overflow-wrap: anywhere;
+  }
+  @media (min-width: 640px) {
+    .footer-company-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (min-width: 768px) {
+    .showroom-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .showroom-name > span {
+      font-size: 20px;
+      line-height: 37px;
+      padding: 0;
+    }
+  }
+  @media (min-width: 1024px) {
+    .footer-company-grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+  @media (min-width: 101.25rem) {
+    .ttg-footer {
+      font-size: 16px;
+    }
+    .footer-showroom h2 {
+      font-size: 28px;
+      line-height: 42px;
+      margin-top: 12px;
+      margin-bottom: 32px;
+    }
+    .showroom-name > span {
+      font-size: 22px;
+      height: 40px;
+    }
+    .showroom-info {
+      font-size: 16px;
+    }
+    .footer-company-grid {
+      font-size: 15px;
+    }
+    .footer-company-title {
+      font-size: 16px;
+    }
+    .footer-company-grid ul {
+      line-height: 30px;
+    }
+    .footer-bct img {
+      width: 150px;
+    }
+    .footer-copyright {
+      font-size: 13px;
+      line-height: 19.5px;
+    }
+  }
+}

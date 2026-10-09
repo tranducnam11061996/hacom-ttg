@@ -1,14 +1,22 @@
 {
-  "checkedAt": "2026-10-07T10:32:04.789Z",
+  "checkedAt": "2026-10-09T01:37:39.572Z",
   "metrics": {
     "sourceHtmlBytes": 912001,
-    "htmlBytes": 322116,
-    "cssBytes": 45651,
-    "cssGzipBytes": 9774,
+    "htmlBytes": 322444,
+    "cssBytes": 85628,
+    "cssGzipBytes": 17396,
     "products": 171,
-    "pages": 6,
+    "pages": 10,
     "localReferenceErrors": 0,
     "js": {
+      "buildpc.js": {
+        "bytes": 108,
+        "gzipBytes": 92
+      },
+      "category.js": {
+        "bytes": 88,
+        "gzipBytes": 83
+      },
       "home.js": {
         "bytes": 186,
         "gzipBytes": 129
@@ -17,13 +25,21 @@
         "bytes": 7023,
         "gzipBytes": 2202
       },
+      "modules/category.js": {
+        "bytes": 2350,
+        "gzipBytes": 1001
+      },
       "modules/commitment.js": {
         "bytes": 1865,
         "gzipBytes": 738
       },
+      "modules/component-picker.js": {
+        "bytes": 2655,
+        "gzipBytes": 986
+      },
       "modules/demo.js": {
-        "bytes": 785,
-        "gzipBytes": 446
+        "bytes": 873,
+        "gzipBytes": 468
       },
       "modules/header.js": {
         "bytes": 6898,
@@ -36,6 +52,10 @@
       "modules/motion.js": {
         "bytes": 319,
         "gzipBytes": 245
+      },
+      "modules/product-tooltips.js": {
+        "bytes": 4056,
+        "gzipBytes": 1338
       },
       "modules/sale-tabs.js": {
         "bytes": 1817,
@@ -67,8 +87,61 @@
           "js/modules/hero.js",
           "js/modules/sale-tabs.js"
         ],
-        "bytes": 24111,
-        "gzipBytes": 8420
+        "bytes": 24199,
+        "gzipBytes": 8442
+      },
+      "pc/index.html": {
+        "modules": [
+          "js/category.js",
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js",
+          "js/modules/category.js",
+          "js/modules/product-tooltips.js"
+        ],
+        "bytes": 23968,
+        "gzipBytes": 8210
+      },
+      "cart/index.html": {
+        "modules": [
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js"
+        ],
+        "bytes": 17474,
+        "gzipBytes": 5788
+      },
+      "buildpc/index.html": {
+        "modules": [
+          "js/buildpc.js",
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js",
+          "js/modules/component-picker.js"
+        ],
+        "bytes": 20237,
+        "gzipBytes": 6866
+      },
+      "pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc/index.html": {
+        "modules": [
+          "js/ui.js",
+          "js/modules/demo.js",
+          "js/modules/header.js",
+          "js/modules/carousel.js",
+          "js/modules/motion.js",
+          "js/modules/commitment.js"
+        ],
+        "bytes": 17474,
+        "gzipBytes": 5788
       },
       "videos/index.html": {
         "modules": [
@@ -79,8 +152,8 @@
           "js/modules/motion.js",
           "js/modules/commitment.js"
         ],
-        "bytes": 17386,
-        "gzipBytes": 5766
+        "bytes": 17474,
+        "gzipBytes": 5788
       },
       "videos/playlist/sieu-trung-thuc.html": {
         "modules": [
@@ -115,8 +188,8 @@
         "gzipBytes": 1685
       }
     },
-    "htmlReductionPercent": 64.7,
-    "htmlGzipBytes": 23951
+    "htmlReductionPercent": 64.6,
+    "htmlGzipBytes": 24111
   },
   "errors": []
 }

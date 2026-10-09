@@ -1,0 +1,5644 @@
+{
+  "groups": [
+    {
+      "id": "1003491769",
+      "name": "CPU",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1070534556",
+          "name": "CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)",
+          "image": {
+            "src": "/images/buildpc/eddbf7f76e1f8a4c.webp",
+            "width": 600,
+            "height": 338
+          },
+          "stock": "Còn hàng",
+          "warranty": "36 Tháng",
+          "price": 5980000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1070534556",
+            "name": "CPU AMD Ryzen 5 9600X - TRAY (3.9 GHz Boost 5.4 GHz | 6 nhân/ 12 luồng | 32 MB Cache)",
+            "image": {
+              "src": "/images/buildpc/eddbf7f76e1f8a4c.webp",
+              "width": 600,
+              "height": 338
+            },
+            "price": 5980000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.980.000 VNĐ"
+          },
+          {
+            "id": "1068960088",
+            "name": "CPU Intel Core i5 14400F - TRAY (Up To 4.70GHz, 10 Nhân 16 Luồng, 20MB Cache, LGA 1700)",
+            "image": {
+              "src": "/images/buildpc/c9d170ff20f5d09f.webp",
+              "width": 600,
+              "height": 714
+            },
+            "price": 4590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.590.000 VNĐ"
+          },
+          {
+            "id": "1066944564",
+            "name": "CPU Intel Core i5-10400F - TRAY NEW (3.4GHz turbo up to 4.4Ghz, 6 nhân 12 luồng, 12MB Cache, 65W)",
+            "image": {
+              "src": "/images/buildpc/efe58e39a9f4b8ef.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.990.000 VNĐ"
+          },
+          {
+            "id": "1066944475",
+            "name": "CPU Intel Core i3 12100F - TRAY NEW (3.3GHz turbo up to 4.3GHz, 4 nhân 8 luồng, 12MB Cache, 58W)- Socket Intel LGA 1700)",
+            "image": {
+              "src": "/images/buildpc/dd048ff27eacde8e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "2.990.000 VNĐ"
+          },
+          {
+            "id": "1066944459",
+            "name": "CPU Intel Core i5 12400F- TRAY NEW (Upto 4.4Ghz, 6 nhân 12 luồng, 18MB Cache, 65W) - Socket Intel LGA 1700)",
+            "image": {
+              "src": "/images/buildpc/46c7bfd05c314690.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.690.000 VNĐ"
+          },
+          {
+            "id": "1066944421",
+            "name": "CPU INTEL CORE I5 12600KF - TRAY NEW (3.7GHZ TURBO UP TO 4.9GHZ, 10 NHÂN 16 LUỒNG, 20MB CACHE, 125W)",
+            "image": {
+              "src": "/images/buildpc/5d1768ddb037db2d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.990.000 VNĐ"
+          },
+          {
+            "id": "1066944337",
+            "name": "CPU Intel Core i5 14500 - TRAY NEW (Up To 5.0GHz, 14 Nhân 20 Luồng, 24MB Cache, LGA 1700)",
+            "image": {
+              "src": "/images/buildpc/6b00ac14e7ee56e8.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 8190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.190.000 VNĐ"
+          },
+          {
+            "id": "1066944301",
+            "name": "CPU AMD Ryzen 7 7700 - TRAY NEW (3.8 GHz Upto 5.3GHz / 40MB / 8 Cores, 16 Threads / 65W / Socket AM5)",
+            "image": {
+              "src": "/images/buildpc/99774b38cfa5c89b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.990.000 VNĐ"
+          },
+          {
+            "id": "1066944274",
+            "name": "CPU AMD Ryzen Ryzen 5 7500F - TRAY NEW (3.7 GHz Upto 5.0GHz / 38MB / 6 Cores, 12 Threads / 65W / Socket AM5)",
+            "image": {
+              "src": "/images/buildpc/4f86d46dcfb96674.webp",
+              "width": 600,
+              "height": 601
+            },
+            "price": 3980000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.980.000 VNĐ"
+          },
+          {
+            "id": "1066944260",
+            "name": "CPU AMD RYZEN 9 7900X - TRAY NEW (4.7 GHZ UPTO 5.6GHZ / 76MB / 12 CORES, 24 THREADS / 170W / AM5)",
+            "image": {
+              "src": "/images/buildpc/09971644e46e9b54.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 8990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.990.000 VNĐ"
+          },
+          {
+            "id": "1066944241",
+            "name": "CPU AMD Ryzen 7 9700X - TRAY NEW (3.8 GHz Boost 5.5 GHz | 8 nhân / 16 luồng| 40 MB Cache)",
+            "image": {
+              "src": "/images/buildpc/a7b193fe975293cb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.990.000 VNĐ"
+          },
+          {
+            "id": "1066944201",
+            "name": "CPU AMD Ryzen 9 9900X - TRAY NEW (4.4 GHz Boost 5.6 GHz | 12 nhân / 24 luồng| 64 MB Cache)",
+            "image": {
+              "src": "/images/buildpc/1f504d93c8d8a058.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 11890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "11.890.000 VNĐ"
+          },
+          {
+            "id": "1066944124",
+            "name": "CPU AMD Ryzen 9 9950X - TRAY NEW ( 16 nhân 32 luồng, up to 5.7GHz, 80MB Cache)",
+            "image": {
+              "src": "/images/buildpc/f8ea4e38dee0f40a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 15590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "15.590.000 VNĐ"
+          },
+          {
+            "id": "1066944118",
+            "name": "CPU AMD Ryzen 9 9950X3D - TRAY NEW (16 nhân 32 luồng, up to 5.7GHz ,144MB Cache , AM5)",
+            "image": {
+              "src": "/images/buildpc/9dc884956434a810.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 18980000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "18.980.000 VNĐ"
+          },
+          {
+            "id": "1066811978",
+            "name": "CPU Intel Core i5 13400F - TRAY NEW (up to 4.6Ghz, 10 nhân 16 luồng, 20MB Cache, 65W)",
+            "image": {
+              "src": "/images/buildpc/bee5de331f470118.webp",
+              "width": 600,
+              "height": 338
+            },
+            "price": 4790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.790.000 VNĐ"
+          },
+          {
+            "id": "1065266619",
+            "name": "CPU Intel Core Ultra 5 245KF (Up to 5.2GHz , 14 nhân 14 luồng, 24MB Cache, Arrow Lake)- TRAY",
+            "image": {
+              "src": "/images/buildpc/dde21976e1d53cf9.webp",
+              "width": 600,
+              "height": 388
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          },
+          {
+            "id": "1065266597",
+            "name": "CPU Intel Core Ultra 5 245K (Up to 5.2GHz , 14 nhân 14 luồng, 24MB Cache, Arrow Lake)- TRAY",
+            "image": {
+              "src": "/images/buildpc/be674ebb92efaeaf.webp",
+              "width": 600,
+              "height": 400
+            },
+            "price": 7290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.290.000 VNĐ"
+          },
+          {
+            "id": "1065266566",
+            "name": "CPU Intel Core Ultra 7 265K (Up to 5.5GHz , 20 nhân 20 luồng, 30MB Cache, Arrow Lake) - TRAY",
+            "image": {
+              "src": "/images/buildpc/ef81a38553c53a5e.webp",
+              "width": 600,
+              "height": 396
+            },
+            "price": 8990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.990.000 VNĐ"
+          },
+          {
+            "id": "1065266515",
+            "name": "CPU Intel Core Ultra 7 265KF (Up to 5.5GHz , 20 nhân 20 luồng, 30MB Cache, Arrow Lake)- TRAY",
+            "image": {
+              "src": "/images/buildpc/55377b57644ff377.webp",
+              "width": 600,
+              "height": 396
+            },
+            "price": 8680000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.680.000 VNĐ"
+          },
+          {
+            "id": "1065266490",
+            "name": "CPU Intel Core i5 14600K (UP TO 5.3GHZ, 14 NHÂN 20 LUỒNG, 24MB CACHE, 125W , LGA 1700/RAPTOR LAKE)- TRAY",
+            "image": {
+              "src": "/images/buildpc/b288a62d419d0b0f.webp",
+              "width": 600,
+              "height": 396
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": ["AMD (34)", "Intel (72)", "Khác (2)"]
+          },
+          {
+            "title": "Dòng CPU",
+            "values": [
+              "AMD Ryzen 5 (14)",
+              "AMD Ryzen 3 (1)",
+              "Intel Core Ultra 9 (1)",
+              "Intel Core Ultra 7 (5)",
+              "Intel Core Ultra 5 (7)",
+              "Intel Core I9 (9)",
+              "Intel Core I7 (15)",
+              "Intel Core I5 (24)",
+              "Intel Core I3 (9)",
+              "AMD Ryzen 9 (10)",
+              "AMD Ryzen 7 (10)"
+            ]
+          },
+          {
+            "title": "SOCKET",
+            "values": [
+              "LGA 1200 (6)",
+              "LGA 1700 (52)",
+              "LGA 1851 (13)",
+              "AM5 (27)",
+              "AM4 (7)"
+            ]
+          },
+          {
+            "title": "THẾ HỆ CPU",
+            "values": [
+              "AMD Ryzen 7000 Series (9)",
+              "AMD Ryzen 3000 Series (2)",
+              "AMD Ryzen 5000 Series (6)",
+              "AMD Ryzen 9000 Series (15)",
+              "Intel Gen 10th Comet Lake S (4)",
+              "Intel Gen 12th Alder Lake (14)",
+              "Intel Gen 13th Raptor Lake (15)",
+              "Intel Core Ultra Arrow Lake-S (10)",
+              "Intel Gen 14th Raptor Lake Refresh (26)",
+              "AMD Ryzen 8000 Series (1)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535746",
+      "name": "Mainboard",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1068274111",
+          "name": "Mainboard Gigabyte B650M AORUS ELITE AX DDR5",
+          "image": {
+            "src": "/images/buildpc/75dd8b0753443779.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "36 Tháng",
+          "price": 4590000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1071491008",
+            "name": "Mainboard ASUS ROG STRIX X870E-H GAMING WIFI 7 Hatsune Miku Edition",
+            "image": {
+              "src": "/images/buildpc/1b237e3ff75afd6b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 14890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "14.890.000 VNĐ"
+          },
+          {
+            "id": "1070691598",
+            "name": "Mainboard MSI B760M GAMING WIFI DDR5 ( 2 Khe RAM)",
+            "image": {
+              "src": "/images/buildpc/412dfdbeef0c1f9d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.290.000 VNĐ"
+          },
+          {
+            "id": "1069130079",
+            "name": "Mainboard ASRock X870 Pro RS Wifi",
+            "image": {
+              "src": "/images/buildpc/da27c5b467723e1c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          },
+          {
+            "id": "1068274111",
+            "name": "Mainboard Gigabyte B650M AORUS ELITE AX DDR5",
+            "image": {
+              "src": "/images/buildpc/75dd8b0753443779.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.590.000 VNĐ"
+          },
+          {
+            "id": "1068165177",
+            "name": "Mainboard Gigabyte Z890 AORUS ELITE WIFI7 ICE DDR5",
+            "image": {
+              "src": "/images/buildpc/89c100252f528405.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 9899000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "9.899.000 VNĐ"
+          },
+          {
+            "id": "1068165124",
+            "name": "Mainboard Asus PRIME Z890-P WIFI-CSM",
+            "image": {
+              "src": "/images/buildpc/ae05a9e6fdc67d29.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7199000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.199.000 VNĐ"
+          },
+          {
+            "id": "1068141819",
+            "name": "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E DDR5",
+            "image": {
+              "src": "/images/buildpc/851b878936c76c65.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5799000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.799.000 VNĐ"
+          },
+          {
+            "id": "1068141791",
+            "name": "Mainboard Gigabyte B860M AORUS ELITE WIFI 6E ICE DDR5",
+            "image": {
+              "src": "/images/buildpc/63ada41053a5f27d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6199000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.199.000 VNĐ"
+          },
+          {
+            "id": "1068141779",
+            "name": "Mainboard Gigabyte B860M AORUS PRO WIFI7 DDR5",
+            "image": {
+              "src": "/images/buildpc/dc058fb2c1cb7d82.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6899000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.899.000 VNĐ"
+          },
+          {
+            "id": "1068141770",
+            "name": "Mainboard Gigabyte B860M DS3H DDR5",
+            "image": {
+              "src": "/images/buildpc/67ae11f201954e14.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4299000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.299.000 VNĐ"
+          },
+          {
+            "id": "1068141703",
+            "name": "Mainboard Gigabyte B860M EAGLE WIFI6 DDR5",
+            "image": {
+              "src": "/images/buildpc/942a5b8d9795bb3a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4199000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.199.000 VNĐ"
+          },
+          {
+            "id": "1068141690",
+            "name": "Mainboard Gigabyte B860M GAMING X WIFI 6E",
+            "image": {
+              "src": "/images/buildpc/cd1406bef10f834e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5399000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.399.000 VNĐ"
+          },
+          {
+            "id": "1068141675",
+            "name": "Mainboard Gigabyte B860M EAGLE PLUS WIFI 6E DDR5",
+            "image": {
+              "src": "/images/buildpc/cec1c4f704b75378.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4999000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.999.000 VNĐ"
+          },
+          {
+            "id": "1068141093",
+            "name": "Mainboard ASUS PRIME B760M-K DDR5",
+            "image": {
+              "src": "/images/buildpc/e158785ade16d06b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.690.000 VNĐ"
+          },
+          {
+            "id": "1068115522",
+            "name": "Mainboard ASUS B860M AYW GAMING WIFI",
+            "image": {
+              "src": "/images/buildpc/4f8de391cdc9cf81.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5199000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.199.000 VNĐ"
+          },
+          {
+            "id": "1068115223",
+            "name": "Mainboard ASUS PRIME B860M-A-CSM",
+            "image": {
+              "src": "/images/buildpc/1ca52c6cf8bc42d0.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5299000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.299.000 VNĐ"
+          },
+          {
+            "id": "1068115111",
+            "name": "Mainboard ASUS PRIME B860M-A",
+            "image": {
+              "src": "/images/buildpc/c93bb3ce8cc7f4af.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1068114951",
+            "name": "Mainboard ASUS PRIME B860M-A WIFI-CSM",
+            "image": {
+              "src": "/images/buildpc/4e61adbd363347c7.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1068114923",
+            "name": "Mainboard ASUS PRIME B860M-A WIFI",
+            "image": {
+              "src": "/images/buildpc/e94dd2521b50db65.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1068114771",
+            "name": "Mainboard Asus TUF GAMING B860M-PLUS",
+            "image": {
+              "src": "/images/buildpc/b59c624f608d7fbd.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6499000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.499.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "COLORFUL (5)",
+              "ASROCK (22)",
+              "ASUS (85)",
+              "Darkflash (1)",
+              "Gigabyte (80)",
+              "Khác (8)",
+              "MSI (29)",
+              "SAPPHIRE (3)",
+              "SSTC (3)"
+            ]
+          },
+          {
+            "title": "Khoảng giá",
+            "values": [
+              "Dưới 2 triệu (14)",
+              "2 triệu - 5 triệu (72)",
+              "5 triệu - 10 triệu (94)",
+              "10 triệu - 20 triệu (37)",
+              "20 triệu - 30 triệu (8)",
+              "30 triệu - 50 triệu (2)",
+              "Trên 50 triệu (1)"
+            ]
+          },
+          {
+            "title": "SOCKET",
+            "values": [
+              "AM4 (8)",
+              "LGA 1851 (60)",
+              "LGA 1700 (92)",
+              "LGA 1200 (4)",
+              "AM5 (74)"
+            ]
+          },
+          {
+            "title": "Kích Thước Mainboard",
+            "values": ["E-ATX (2)", "ATX (114)", "m-ATX (118)"]
+          },
+          {
+            "title": "Khe Cắm Ram",
+            "values": ["4 Khe Cắm (195)", "2 Khe Cắm (42)"]
+          },
+          {
+            "title": "CHIPSET",
+            "values": [
+              "Intel B760 (LGA 1700) (46)",
+              "AMD B550 (AM4) (2)",
+              "AMD B450 (AM4) (1)",
+              "AMD B850 (AM5) (13)",
+              "Intel H410 (LGA 1200) (1)",
+              "AMD X870 (AM5) (30)",
+              "AMD X670 (AM5) (1)",
+              "AMD B650 (AM5) (24)",
+              "AMD A620 (AM5) (5)",
+              "AMD A520 (AM4) (2)",
+              "Intel H510 (LGA 1200) (3)",
+              "Intel H610 (LGA 1700) (5)",
+              "Intel B860 (LGA1851) (16)",
+              "Intel Z890 (LGA1851) (45)",
+              "Intel Z790 (LGA1700) (40)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          },
+          {
+            "label": "7",
+            "current": false
+          },
+          {
+            "label": "›",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535577",
+      "name": "RAM",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1072100336",
+          "name": "RAM Kingston FURY Beast RGB 16GB (1x16GB) DDR5 6000Mhz (KF560C36BBE2A-16WP) (AMD EXPO+INTEL XMP)",
+          "image": {
+            "src": "/images/buildpc/abe8fc25d141eef1.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "36 Tháng",
+          "price": 6990000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1072100336",
+            "name": "RAM Kingston FURY Beast RGB 16GB (1x16GB) DDR5 6000Mhz (KF560C36BBE2A-16WP) (AMD EXPO+INTEL XMP)",
+            "image": {
+              "src": "/images/buildpc/abe8fc25d141eef1.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          },
+          {
+            "id": "1046407165",
+            "name": "Ram Desktop Kingston Fury Beast RGB (KF552C40BBAK2-32) 32GB (2x16GB) - DDR5 5200MHz",
+            "image": {
+              "src": "/images/buildpc/7907f23cc3a7dced.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 14990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "14.990.000 VNĐ"
+          },
+          {
+            "id": "1045516269",
+            "name": "Ram ADATA XPG SPECTRIX D50 16GB (1x16GB) DDR4 3200MHz",
+            "image": {
+              "src": "/images/buildpc/fe23652887f9d56c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1067438592",
+            "name": "RAM GSKILL TRIDENT Z5 RGB 64GB (2X32GB) DDR5 bus 6000 (F5-6000J3636F32GX2-TZ5RK)",
+            "image": {
+              "src": "/images/buildpc/628452be4d958e30.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 29990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "29.990.000 VNĐ"
+          },
+          {
+            "id": "1072100134",
+            "name": "Ram PNY XLR8 Gaming 16GB (1x16GB) DDR4 3200MHz",
+            "image": {
+              "src": "/images/buildpc/04d0b328e5b38421.webp",
+              "width": 600,
+              "height": 305
+            },
+            "price": 2890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.890.000 VNĐ"
+          },
+          {
+            "id": "1072100135",
+            "name": "RAM Kingston Fury Beast 16GB Bus 5200MHZ DDR5",
+            "image": {
+              "src": "/images/buildpc/67637010c440b4b5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.290.000 VNĐ"
+          },
+          {
+            "id": "1072100136",
+            "name": "Ram Desktop Gskill Trident Z5 RGB 32Gb (2x16B) DDR5 6000Mhz (F5-6000U4040E16GX2-TZ5RS)",
+            "image": {
+              "src": "/images/buildpc/3841e20f5ea51f16.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          },
+          {
+            "id": "1072100138",
+            "name": "Ram Desktop Kingston Fury Beast (KF552C40BBK2-32) 32GB (2x16GB) DDR5 5200Mhz",
+            "image": {
+              "src": "/images/buildpc/67637010c440b4b5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 14990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "14.990.000 VNĐ"
+          },
+          {
+            "id": "1072100140",
+            "name": "RAM Adata XPG Lancer RGB 16GB Bus 6000Mhz DDR5",
+            "image": {
+              "src": "/images/buildpc/3ff446e8daa8b5cf.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          },
+          {
+            "id": "1072100329",
+            "name": "RAM Patriot EP Viper Venom 16GB DDR5 6000MHz",
+            "image": {
+              "src": "/images/buildpc/81e84082313d3ef3.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.690.000 VNĐ"
+          },
+          {
+            "id": "1072100330",
+            "name": "RAM Apacer NOX 16GB DDR5 Bus 6000MHz",
+            "image": {
+              "src": "/images/buildpc/11e2b93a7f2d7fdb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.490.000 VNĐ"
+          },
+          {
+            "id": "1072100331",
+            "name": "RAM TeamGroup T-Force Delta RGB 16GB DDR5 6000Mhz (FF3D516G6000HC38J01)",
+            "image": {
+              "src": "/images/buildpc/79b8a81b3cda849c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 6990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "6.990.000 VNĐ"
+          },
+          {
+            "id": "1072100332",
+            "name": "RAM Corsair Vengeance LPX 16GB DDR5 5200MHz Black (CMK16GX5M1B5200C40)",
+            "image": {
+              "src": "/images/buildpc/bf161c73636f26c5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.890.000 VNĐ"
+          },
+          {
+            "id": "1072100333",
+            "name": "RAM Adata XPG Lancer Blade White 32GB (2x16GB) DDR5 5600MHz (AX5U5600C4616G-DTLABWH)",
+            "image": {
+              "src": "/images/buildpc/c948788c9027676b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          },
+          {
+            "id": "1072100334",
+            "name": "RAM Adata XPG Lancer Blade Black 32GB (2x16GB) DDR5 5600MHz (AX5U5600C4616G-DTLABBK)",
+            "image": {
+              "src": "/images/buildpc/e1ed90bf92098570.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          },
+          {
+            "id": "1072100335",
+            "name": "Ram Kingston Fury Beast 16GB DDR5 5600MHz (KF556C40BB-16)",
+            "image": {
+              "src": "/images/buildpc/2192c1050a8721b6.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.790.000 VNĐ"
+          },
+          {
+            "id": "1046448662",
+            "name": "Ram Desktop Adata XPG Spectrix D50 RGB White (AX4U320016G16A-SW50) 16GB (1x16GB) DDR4 3200Mhz",
+            "image": {
+              "src": "/images/buildpc/fe23652887f9d56c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1072100379",
+            "name": "RAM G.Skill Ripjaws S5 32GB (2x16GB) DDR5 6000MHz (F5-6000J3636F16GX2-RS5K)",
+            "image": {
+              "src": "/images/buildpc/58058976e217fe70.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          },
+          {
+            "id": "1072100380",
+            "name": "Ram Corsair VENGEANCE RGB 32GB (2x16GB) DDR5 bus 6000MHz Black (CMH32GX5M2E6000C36)",
+            "image": {
+              "src": "/images/buildpc/137137223dca1b87.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          },
+          {
+            "id": "1072100381",
+            "name": "Ram Corsair VENGEANCE RGB 32GB (2x16GB) DDR5 bus 6000MHz White (CMH32GX5M2E6000C36W)",
+            "image": {
+              "src": "/images/buildpc/2b6cb40709190633.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 13990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "13.990.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "Corsair (14)",
+              "Adata (9)",
+              "APACER (1)",
+              "Crucial (1)",
+              "GEIL (3)",
+              "GSKILL (5)",
+              "HIKSEMI (1)",
+              "Khác (2)",
+              "Kingspec (1)",
+              "Kingston (5)",
+              "Patriot (4)",
+              "PNY (1)",
+              "Samsung (2)",
+              "SSTC (3)",
+              "TeamGroup (6)",
+              "VSP (2)"
+            ]
+          },
+          {
+            "title": "Dung Lượng RAM",
+            "values": [
+              "8GB (2)",
+              "16GB (32)",
+              "32GB (2x16GB) (19)",
+              "64GB (6)",
+              "96GB (1)",
+              "128GB (2)"
+            ]
+          },
+          {
+            "title": "Loại RAM",
+            "values": ["DDR5 (40)", "DDR4 (21)"]
+          },
+          {
+            "title": "Bus RAM",
+            "values": [
+              "6400 MHz (3)",
+              "6000 MHz (19)",
+              "5600 MHz (9)",
+              "5200 MHz (9)",
+              "3600 MHz (3)",
+              "3200 MHz (17)"
+            ]
+          },
+          {
+            "title": "Đèn LED",
+            "values": ["Không LED (34)", "Có LED (28)"]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003491597",
+      "name": "Card Đồ Họa",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1071539305",
+          "name": "Card màn hình ZOTAC GAMING GeForce RTX 5060 8GB Twin Edge",
+          "image": {
+            "src": "/images/buildpc/7f26d2eb5815d991.webp",
+            "width": 600,
+            "height": 414
+          },
+          "stock": "Còn hàng",
+          "warranty": "36 Tháng",
+          "price": 14990000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1071760709",
+            "name": "Card Màn Hình ZOTAC GAMING GeForce RTX 3060 12GB Twin Edge",
+            "image": {
+              "src": "/images/buildpc/c57621f2b26d3548.webp",
+              "width": 600,
+              "height": 414
+            },
+            "price": 10990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "10.990.000 VNĐ"
+          },
+          {
+            "id": "1072100205",
+            "name": "CARD MÀN HÌNH COLORFUL RTX 3060 NB DUO 12G V3 L-V",
+            "image": {
+              "src": "/images/buildpc/a627248aabf24628.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 10990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "10.990.000 VNĐ"
+          },
+          {
+            "id": "1049544524",
+            "name": "VGA OCPC GTX 1660 Super 6GB GDDR6",
+            "image": {
+              "src": "/images/buildpc/5784fa1b8c4d4cf9.webp",
+              "width": 600,
+              "height": 450
+            },
+            "price": 5390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.390.000 VNĐ"
+          },
+          {
+            "id": "1072091962",
+            "name": "CARD MÀN HÌNH ASUS ROG MATRIX GEFORCE RTX 5090 32GB GDDR7 30TH ANNIVESARY LIMITED EDITION",
+            "image": {
+              "src": "/images/buildpc/d4735b329ac316e2.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 199000000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "199.000.000 VNĐ"
+          },
+          {
+            "id": "1071913039",
+            "name": "Card màn hình ASRock AMD Radeon RX 9070 XT Challenger 16GB",
+            "image": {
+              "src": "/images/buildpc/3a2659c5575e4015.webp",
+              "width": 600,
+              "height": 500
+            },
+            "price": 23990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "23.990.000 VNĐ"
+          },
+          {
+            "id": "1071860338",
+            "name": "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti 16GB SOLID CORE OC",
+            "image": {
+              "src": "/images/buildpc/d92e4da73835973b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 35990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "35.990.000 VNĐ"
+          },
+          {
+            "id": "1071790893",
+            "name": "Card màn hình MSI RTX 5060 Ti 16GB SHADOW 2X OC PLUS",
+            "image": {
+              "src": "/images/buildpc/3ee497fe180999f5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 22990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "22.990.000 VNĐ"
+          },
+          {
+            "id": "1071539305",
+            "name": "Card màn hình ZOTAC GAMING GeForce RTX 5060 8GB Twin Edge",
+            "image": {
+              "src": "/images/buildpc/7f26d2eb5815d991.webp",
+              "width": 600,
+              "height": 414
+            },
+            "price": 14990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "14.990.000 VNĐ"
+          },
+          {
+            "id": "1071491660",
+            "name": "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 Hatsune Miku Edition",
+            "image": {
+              "src": "/images/buildpc/14d360153bc4b13f.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 69990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "69.990.000 VNĐ"
+          },
+          {
+            "id": "1071138566",
+            "name": "Card Màn Hình MSI GeForce RTX 5070 12G SHADOW 3X OC",
+            "image": {
+              "src": "/images/buildpc/788c1d39f110ab4f.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 26990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "26.990.000 VNĐ"
+          },
+          {
+            "id": "1070676352",
+            "name": "Card Màn Hình Colorful iGame RTX 5070 Vulcan OC 12GB",
+            "image": {
+              "src": "/images/buildpc/179f1b83f8d6f42e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 27990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "27.990.000 VNĐ"
+          },
+          {
+            "id": "1070670621",
+            "name": "Card màn hình ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC 16GB GDDR7",
+            "image": {
+              "src": "/images/buildpc/e525f2fd92e9028d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 37990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "37.990.000 VNĐ"
+          },
+          {
+            "id": "1070387530",
+            "name": "Card màn hình GALAX GeForce RTX 5080 1-Click OC 16GB GDDR7",
+            "image": {
+              "src": "/images/buildpc/5734eacf31c00478.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1070105237",
+            "name": "Card màn hình PNY GeForce RTX 5060 Dual Fan OC 8GB",
+            "image": {
+              "src": "/images/buildpc/2df446b625b7f5c2.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 12990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "12.990.000 VNĐ"
+          },
+          {
+            "id": "1069742080",
+            "name": "Card màn hình ASUS TUF Gaming GeForce RTX 5090 32GB GDDR7",
+            "image": {
+              "src": "/images/buildpc/51c98930ec1874ad.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1069558506",
+            "name": "CARD MÀN HÌNH GIGABYTE RTX 3060 WINDFORCE OC 12GB",
+            "image": {
+              "src": "/images/buildpc/4fd84920d6d2ab96.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 10990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "10.990.000 VNĐ"
+          },
+          {
+            "id": "1069436540",
+            "name": "Card màn hình ASUS ROG ASTRAL RTX 5090 32GB GAMING WHITE OC",
+            "image": {
+              "src": "/images/buildpc/132558c903fc3107.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 189000000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "189.000.000 VNĐ"
+          },
+          {
+            "id": "1069197631",
+            "name": "Card màn hình PowerColor Reaper AMD Radeon RX 9060 XT 16GB GDDR6",
+            "image": {
+              "src": "/images/buildpc/a5899b2a7c02db58.webp",
+              "width": 600,
+              "height": 333
+            },
+            "price": 14980000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "14.980.000 VNĐ"
+          },
+          {
+            "id": "1068880452",
+            "name": "Card Màn Hình Colorful iGame GeForce RTX 5080 Vulcan W OC 16GB-V",
+            "image": {
+              "src": "/images/buildpc/587f2bc86cdae80a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1068853261",
+            "name": "Card màn hình ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 WHITE OC Edition",
+            "image": {
+              "src": "/images/buildpc/2416a58f66cd8fc3.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 69990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "69.990.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "COLORFUL (29)",
+              "ASL (1)",
+              "ASROCK (13)",
+              "ASUS (58)",
+              "GAINWARD (1)",
+              "GALAX (1)",
+              "Gigabyte (62)",
+              "INNO3D (16)",
+              "JGINYUE (1)",
+              "Khác (3)",
+              "MSI (76)",
+              "Neo Forza (2)",
+              "OCPC (3)",
+              "Palit (5)",
+              "PNY (6)",
+              "PowerColor (1)",
+              "SAPPHIRE (10)",
+              "Zotac (16)"
+            ]
+          },
+          {
+            "title": "Khoảng giá",
+            "values": [
+              "Dưới 5 triệu (2)",
+              "1 triệu - 15 triệu (68)",
+              "15 triệu - 20 triệu (36)",
+              "20 triệu - 30 triệu (60)",
+              "30 triệu - 40 triệu (17)",
+              "40 triệu - 50 triệu (24)",
+              "50 triệu - 80 triệu (9)",
+              "Trên 10 triệu (213)"
+            ]
+          },
+          {
+            "title": "GPU",
+            "values": [
+              "AMD RX 9070 XT 16GB (10)",
+              "AMD RX 9070 16GB (5)",
+              "AMD RX 9060 XT 16GB (8)",
+              "NVIDIA RTX 5060 Ti 8GB (28)",
+              "NVIDIA RTX 3050 6GB (10)",
+              "NVIDIA RTX 3050 8GB (4)",
+              "NVIDIA RTX 3060 12GB (12)",
+              "NVIDIA RTX 4060 Ti 8GB (7)",
+              "NVIDIA RTX 4060 Ti 16GB (2)",
+              "NVIDIA RTX 5050 8GB (9)",
+              "NVIDIA RTX 5060 8GB (35)",
+              "NVIDIA RTX 5060 Ti 16GB (40)",
+              "NVIDIA RTX 5070 12GB (36)",
+              "NVIDIA RTX 5070 Ti 16GB (32)",
+              "NVIDIA RTX 5080 16GB (36)",
+              "NVIDIA RTX 5090 32GB (18)",
+              "AMD RX 6500 XT 4GB (1)",
+              "AMD RX 7600 8GB (3)",
+              "AMD RX 9060 XT 8GB (4)"
+            ]
+          },
+          {
+            "title": "Dung Lượng Bộ Nhớ VGA",
+            "values": [
+              "4GB VRAM (1)",
+              "6GB VRAM (10)",
+              "8GB VRAM (91)",
+              "12GB VRAM (49)",
+              "16GB VRAM (134)",
+              "24GB VRAM (2)",
+              "32GB VRAM (18)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          },
+          {
+            "label": "7",
+            "current": false
+          },
+          {
+            "label": "›",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535352",
+      "name": "Ổ Cứng",
+      "multiple": true,
+      "items": [
+        {
+          "id": "1045512385",
+          "name": "Ổ cứng SSD Crucial P3 Plus 1TB NVMe 3D-NAND M.2 PCIe Gen4 x4",
+          "image": {
+            "src": "/images/buildpc/38fcd26a3e6c59da.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Hết hàng",
+          "warranty": "",
+          "price": 5390000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1072100582",
+            "name": "Ổ cứng SSD Samsung 9100 PRO 1TB M.2 NVMe M.2 2280 PCIe Gen5.0 x4",
+            "image": {
+              "src": "/images/buildpc/4e4e0dd0aae7b623.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 9990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "9.990.000 VNĐ"
+          },
+          {
+            "id": "1045512385",
+            "name": "Ổ cứng SSD Crucial P3 Plus 1TB NVMe 3D-NAND M.2 PCIe Gen4 x4",
+            "image": {
+              "src": "/images/buildpc/38fcd26a3e6c59da.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "5.390.000 VNĐ"
+          },
+          {
+            "id": "1045511919",
+            "name": "SSD Kingston NV2 M.2 NVMe 500GB - M2 2280 - PCIe Gen4x4",
+            "image": {
+              "src": "/images/buildpc/3fc7bec72589ba04.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 0,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "Liên hệ"
+          },
+          {
+            "id": "1072100237",
+            "name": "Ổ cứng SSD ADATA LEGEND 710 512GB PCIe Gen3x4",
+            "image": {
+              "src": "/images/buildpc/657ab5c7186c557c.webp",
+              "width": 600,
+              "height": 491
+            },
+            "price": 2390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.390.000 VNĐ"
+          },
+          {
+            "id": "1072100374",
+            "name": "Ổ cứng SSD VSP 860G SATA III 2.5\" 256GB",
+            "image": {
+              "src": "/images/buildpc/96b824087e82d184.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1072100393",
+            "name": "Ổ cứng SSD Patriot P400 Lite M.2 PCIe Gen 4x4 NVMe 1TB",
+            "image": {
+              "src": "/images/buildpc/77fdd314e66bb8e8.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.590.000 VNĐ"
+          },
+          {
+            "id": "1072100399",
+            "name": "Ổ cứng SSD Patriot P300 2TB PCIe Gen 3 x 4 NVMe (P300P2TBM28)",
+            "image": {
+              "src": "/images/buildpc/524e6bab7e029733.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.290.000 VNĐ"
+          },
+          {
+            "id": "1072100410",
+            "name": "Ổ Cứng SSD SSTC Oceanic Whitetip E130 256GB M.2 2280 PCIe NVMe (Gen 3x4)",
+            "image": {
+              "src": "/images/buildpc/575074518b24b8e5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1072100429",
+            "name": "Ổ cứng SSD SSTC M100 512GB | SATA III, 2.5\"",
+            "image": {
+              "src": "/images/buildpc/9fed66acdccb0c1f.webp",
+              "width": 600,
+              "height": 381
+            },
+            "price": 1990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.990.000 VNĐ"
+          },
+          {
+            "id": "1072100430",
+            "name": "Ổ cứng SSD AGI AI238 512GB 2.5 inch SATA III - AGI500GIMAI238-CB",
+            "image": {
+              "src": "/images/buildpc/f4a4b3d166bdefea.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.990.000 VNĐ"
+          },
+          {
+            "id": "1072100500",
+            "name": "Ổ Cứng SSD HIKSEMI WAVE 512GB - M.2 2280 PCIe Gen3 x4 (Đọc 2500MB/s - Ghi 1025MB/s) - (HS-SSD-WAVE(P) 512G)",
+            "image": {
+              "src": "/images/buildpc/e7dbc6dbf592c82e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.390.000 VNĐ"
+          },
+          {
+            "id": "1072100545",
+            "name": "Ổ CỨNG NVME KIOXIA EXCERIA BASIC 1TB GEN 4X4 (6600 MB/s - 7200 MB/s)",
+            "image": {
+              "src": "/images/buildpc/210d29b9aecd2d38.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.390.000 VNĐ"
+          },
+          {
+            "id": "1054374913",
+            "name": "Ổ CỨNG HDD SEAGATE BARRACUDA 1TB (3.5 INCH, 7200RPM, SATA, 256MB CACHE )(ST1000DM014)",
+            "image": {
+              "src": "/images/buildpc/7fccc51828714dea.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "3.790.000 VNĐ"
+          },
+          {
+            "id": "1072100636",
+            "name": "Ổ cứng SSD Kioxia Exceria Plus G4 1TB M.2 PCIe Gen5 x4 (Đọc 10000MB/s - Ghi 7900MB/s)",
+            "image": {
+              "src": "/images/buildpc/cf9fb6a8db7c4b08.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.790.000 VNĐ"
+          },
+          {
+            "id": "1072100732",
+            "name": "Ổ cứng SSD HIKSEMI HS-SSD-WAVE(S) 256G (SATA3/ 2.5Inch/ 530MB/s/ 400MB/s)",
+            "image": {
+              "src": "/images/buildpc/2ec9850f8a107199.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1072100733",
+            "name": "Ổ cứng SSD HIKSEMI HS-SSD-WAVE(S) 512G (SATA3/ 2.5Inch/ 530MB/s/ 450MB/s)",
+            "image": {
+              "src": "/images/buildpc/a90145d96b86f82e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Liên hệ"
+              }
+            ],
+            "priceLabel": "1.890.000 VNĐ"
+          },
+          {
+            "id": "1072100854",
+            "name": "Ổ cứng SSD Kingston NV3 500GB PCIe 4.0 x4 M.2 NVMe (SNV3S/500G)",
+            "image": {
+              "src": "/images/buildpc/4ff3da8447ddfeed.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.290.000 VNĐ"
+          },
+          {
+            "id": "1072101001",
+            "name": "Ổ cứng SSD TeamGroup NV5000 1TB M.2 PCIe NVMe Gen4x4 (4,500 MB/s - 1,900 MB/s)",
+            "image": {
+              "src": "/images/buildpc/0018fc85e7b12f9d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.490.000 VNĐ"
+          },
+          {
+            "id": "1072101026",
+            "name": "Ổ cứng WD Caviar Blue 1TB 64MB Cache 5400 RPM (WD10EARZ)",
+            "image": {
+              "src": "/images/buildpc/859212720fff10f1.webp",
+              "width": 600,
+              "height": 450
+            },
+            "price": 3790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.790.000 VNĐ"
+          },
+          {
+            "id": "1072101027",
+            "name": "Ổ Cứng HDD WD 2TB Blue 3.5 inch, 7200RPM, SATA III, 256MB Cache (WD20EZBX)",
+            "image": {
+              "src": "/images/buildpc/c2792cef6def040a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4090000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.090.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "Adata (2)",
+              "Gigabyte (2)",
+              "HIKSEMI (4)",
+              "Khác (2)",
+              "Kingston (4)",
+              "Kioxia (4)",
+              "MSI (2)",
+              "OCPC (1)",
+              "Patriot (2)",
+              "PNY (1)",
+              "Samsung (5)",
+              "SEAGATE (3)",
+              "SSTC (4)",
+              "TeamGroup (3)",
+              "VSP (1)",
+              "Western Digital (7)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535357",
+      "name": "Nguồn (PSU)",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1072100921",
+          "name": "Nguồn Máy Tính Super Flower Zillion DB 650W 80Plus Bronze",
+          "image": {
+            "src": "/images/buildpc/5b757534bebb55e4.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "36 Tháng",
+          "price": 1650000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1072100921",
+            "name": "Nguồn Máy Tính Super Flower Zillion DB 650W 80Plus Bronze",
+            "image": {
+              "src": "/images/buildpc/5b757534bebb55e4.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1650000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.650.000 VNĐ"
+          },
+          {
+            "id": "1072100927",
+            "name": "Nguồn máy tính SuperFlower ZILLION SFX 850W ATX 3.1 WHITE 80 Plus Gold (SF-850Z92SFG(WH))",
+            "image": {
+              "src": "/images/buildpc/eceeb98a74b4a1a7.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4090000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.090.000 VNĐ"
+          },
+          {
+            "id": "1072100926",
+            "name": "Nguồn máy tính SuperFlower ZILLION SFX 750W ATX 3.1 80 Plus Gold (SF-750Z92SFG)",
+            "image": {
+              "src": "/images/buildpc/c80c404cd84827d9.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.690.000 VNĐ"
+          },
+          {
+            "id": "1072100925",
+            "name": "Nguồn máy tính Super Flower Leadex III Gold 850W ATX 3.1 Black 80 Plus Gold (SF-850F14GE-GL)",
+            "image": {
+              "src": "/images/buildpc/58d68a9dddc099c5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.390.000 VNĐ"
+          },
+          {
+            "id": "1072100924",
+            "name": "Nguồn máy tính SuperFlower ZILLION FG GOLD 850W ATX3.1 (SF-850Z12FG)",
+            "image": {
+              "src": "/images/buildpc/8f29b4aedd4276f9.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2950000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.950.000 VNĐ"
+          },
+          {
+            "id": "1072100923",
+            "name": "Nguồn máy tính Super Flower ZILLION DB Bronze 750W ATX 3.1 (80 PLUS BRONZE ,SF-750Z12DB-DA)",
+            "image": {
+              "src": "/images/buildpc/951cf453430c4ddb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.890.000 VNĐ"
+          },
+          {
+            "id": "1072100915",
+            "name": "Nguồn Antec GSK850 850W (80 + Gold / Full-Modular / ATX 3.1 - PCIE 5.1)",
+            "image": {
+              "src": "/images/buildpc/6048a0d03a31e1d7.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.190.000 VNĐ"
+          },
+          {
+            "id": "1072100904",
+            "name": "Nguồn Asus Rog Thor 3000W Titanium III Edition 20 (ATX 3.1/ PCIe 5.1/ 80Plus Titanium/ Full Modular) - ROG-THOR-3000T3-GAMING-EDITION-20",
+            "image": {
+              "src": "/images/buildpc/63922375bcc7b243.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 29900000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "120 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "29.900.000 VNĐ"
+          },
+          {
+            "id": "1072100778",
+            "name": "Nguồn máy tính Einarex AXIS MASTER L1 650W 80 Plus Bronze Semi-Modular",
+            "image": {
+              "src": "/images/buildpc/f9902ac572aff394.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1072100928",
+            "name": "Nguồn máy tính Super Flower LEADEX VII XG 850W ATX3.1 (SF-850F14XG-WH)",
+            "image": {
+              "src": "/images/buildpc/244b4b22cb2bf574.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.990.000 VNĐ"
+          },
+          {
+            "id": "1072100922",
+            "name": "Nguồn Máy Tính Super Flower Zillion DB 750W 80Plus Bronze",
+            "image": {
+              "src": "/images/buildpc/e3464ec6ef23922c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1450000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.450.000 VNĐ"
+          },
+          {
+            "id": "1072100717",
+            "name": "Nguồn máy tính Corsair RM850e ATX 3.1 Cybenetics Gold - Full Modul - CP-9020296-NA",
+            "image": {
+              "src": "/images/buildpc/8edd04b0ef71c9c5.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3090000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "84 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.090.000 VNĐ"
+          },
+          {
+            "id": "1072100668",
+            "name": "Nguồn máy tính Thermalright TR-KG850 850W 80 Plus Gold",
+            "image": {
+              "src": "/images/buildpc/e69089373e3e0ebc.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.390.000 VNĐ"
+          },
+          {
+            "id": "1072100589",
+            "name": "Nguồn Super Flower Leadex Platinum 1600W SF-1600F14HP",
+            "image": {
+              "src": "/images/buildpc/d2a4e137c972ecdb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 8390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.390.000 VNĐ"
+          },
+          {
+            "id": "1072100537",
+            "name": "NGUỒN MÁY TÍNH SSTC 550F 550W",
+            "image": {
+              "src": "/images/buildpc/d72a7a02dcf38a34.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "790.000 VNĐ"
+          },
+          {
+            "id": "1072100481",
+            "name": "Nguồn máy tính FSP VIC WD 650 650W 80 Plus White",
+            "image": {
+              "src": "/images/buildpc/b64bcd16d58e303c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1072100480",
+            "name": "Nguồn máy tính FSP VIC BD 750 750W 80 Plus Bronze",
+            "image": {
+              "src": "/images/buildpc/a707aa33451ba779.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.590.000 VNĐ"
+          },
+          {
+            "id": "1072100407",
+            "name": "Nguồn máy tính ASUS ROG STRIX GAMING 1200P (1200W, ATX 3.1, PCIe 5.0, 80 Plus Plantinum, Full Modular, 10 năm bảo hành)",
+            "image": {
+              "src": "/images/buildpc/bd4333d27cf4c335.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "120 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.990.000 VNĐ"
+          },
+          {
+            "id": "1072100929",
+            "name": "Nguồn máy tính Super Flower LEADEX VII XG 1000W ATX3.1 80 Plus Gold (SF-1000F14XG)",
+            "image": {
+              "src": "/images/buildpc/672e634a9a072d58.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.790.000 VNĐ"
+          },
+          {
+            "id": "1072100930",
+            "name": "Nguồn máy tính Super Flower LEADEX VII XG 1000W ATX3.1 WHITE 80 Plus Gold (SF-1000F14XG-WH)",
+            "image": {
+              "src": "/images/buildpc/35b48a7dcbabe930.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "60 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.890.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "Corsair (5)",
+              "AIGO (3)",
+              "Antec (4)",
+              "ASUS (9)",
+              "Cooler Master (1)",
+              "Darkflash (2)",
+              "FSP (7)",
+              "Gamdias (3)",
+              "Gigabyte (4)",
+              "Lian Li (1)",
+              "SSTC (1)",
+              "Super Flower (22)",
+              "Thermalright (1)",
+              "Thermaltake (1)"
+            ]
+          },
+          {
+            "title": "Khoảng giá",
+            "values": [
+              "Dưới 1 triệu (2)",
+              "1 triệu - 2 triệu (23)",
+              "2 triệu - 5 triệu (23)",
+              "5 triệu - 10 triệu (12)",
+              "Trên 10 triệu (6)"
+            ]
+          },
+          {
+            "title": "Công suất nguồn",
+            "values": [
+              "2200W (1)",
+              "2800W (2)",
+              "3000W (1)",
+              "1600W (2)",
+              "1300W (1)",
+              "1200W (9)",
+              "1000W (10)",
+              "850W (14)",
+              "750W (13)",
+              "650W (9)",
+              "550W (3)"
+            ]
+          },
+          {
+            "title": "Chuẩn nguồn",
+            "values": [
+              "Cybenetics Platinum (7)",
+              "80 PLUS Titanium (5)",
+              "80 PLUS White (3)",
+              "80 PLUS Platinum (6)",
+              "80 PLUS Gold (21)",
+              "80 PLUS Silver (2)",
+              "80 PLUS Bronze (19)",
+              "80 PLUS (1)"
+            ]
+          },
+          {
+            "title": "Kích thước nguồn",
+            "values": ["ATX (65)"]
+          },
+          {
+            "title": "Kiểu dây nguồn",
+            "values": ["Full Modular (39)", "Non Modular (24)"]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535359",
+      "name": "Tản nhiệt",
+      "multiple": true,
+      "items": [
+        {
+          "id": "1072100389",
+          "name": "Tản nhiệt Cooler Master HYPER 620S ARGB",
+          "image": {
+            "src": "/images/buildpc/d018bc9ee69de6eb.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "12 Tháng",
+          "price": 790000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1072100389",
+            "name": "Tản nhiệt Cooler Master HYPER 620S ARGB",
+            "image": {
+              "src": "/images/buildpc/d018bc9ee69de6eb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "790.000 VNĐ"
+          },
+          {
+            "id": "1071907141",
+            "name": "Tản Nhiệt Nước Asus ROG Ryuo IV SLC 360 ARGB",
+            "image": {
+              "src": "/images/buildpc/ecdb50849c6d4ae0.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 8990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "72 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.990.000 VNĐ"
+          },
+          {
+            "id": "1071907135",
+            "name": "Tản Nhiệt Nước Asus ROG Ryuo IV SLC 360 ARGB White Edition",
+            "image": {
+              "src": "/images/buildpc/5f2c2f66a181a254.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 9990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "72 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "9.990.000 VNĐ"
+          },
+          {
+            "id": "1071755533",
+            "name": "Tản nhiệt nước AIO ID-Cooling FX360 LCD ARGB Black",
+            "image": {
+              "src": "/images/buildpc/d23ee81ac5636a9c.webp",
+              "width": 600,
+              "height": 480
+            },
+            "price": 1990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.990.000 VNĐ"
+          },
+          {
+            "id": "1071492443",
+            "name": "Tản Nhiệt Nước Asus ROG RYUO IV 360 ARGB Hatsune Miku Edition",
+            "image": {
+              "src": "/images/buildpc/d2b299082c1ea1a7.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 10590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "10.590.000 VNĐ"
+          },
+          {
+            "id": "1070757038",
+            "name": "Tản nhiệt nước TRYX PANORAMA SE 360 ARGB BLACK (Màn 2k 6.5\"/Bơm ASETEK Adela)",
+            "image": {
+              "src": "/images/buildpc/77ccc4dc60a0299c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "Tản nhiệt nước AIO: 72 tháng - Màn hình: 24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.990.000 VNĐ"
+          },
+          {
+            "id": "1070756839",
+            "name": "Tản nhiệt nước TRYX PANORAMA SE 360 ARGB White (Màn 2k 6.5\"/Bơm ASETEK Adela)",
+            "image": {
+              "src": "/images/buildpc/522d0f45e098fc5b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "Tản nhiệt nước AIO: 72 tháng - Màn hình: 24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.990.000 VNĐ"
+          },
+          {
+            "id": "1070752486",
+            "name": "Tản nhiệt nước TRYX PANORAMA ARGB 360 WHITE (Màn AMOLED 6.5/Bơm ASETEK 8)",
+            "image": {
+              "src": "/images/buildpc/c0ae220768ad7bda.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 9990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "Tản nhiệt nước AIO: 72 tháng - Màn hình: 24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "9.990.000 VNĐ"
+          },
+          {
+            "id": "1070453246",
+            "name": "Tản nhiệt nước Leopard Stellar RealM 360 ARGB Digital",
+            "image": {
+              "src": "/images/buildpc/706aa5c61528eea4.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.590.000 VNĐ"
+          },
+          {
+            "id": "1070205836",
+            "name": "Tản nhiệt nước AIO JONSBO TF3-360SCB Black",
+            "image": {
+              "src": "/images/buildpc/8cd94155fffb74c2.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.390.000 VNĐ"
+          },
+          {
+            "id": "1070205832",
+            "name": "Tản nhiệt nước AIO JONSBO TF3-360SCW WHITE",
+            "image": {
+              "src": "/images/buildpc/f46508873d50c095.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.590.000 VNĐ"
+          },
+          {
+            "id": "1069160847",
+            "name": "TẢN NHIỆT NƯỚC ID-COOLING FX360 INF WHITE",
+            "image": {
+              "src": "/images/buildpc/89fe73f843f5c5fa.webp",
+              "width": 600,
+              "height": 480
+            },
+            "price": 1690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.690.000 VNĐ"
+          },
+          {
+            "id": "1068849400",
+            "name": "Tản nhiệt nước AIO ASUS PRIME LC 360 ARGB",
+            "image": {
+              "src": "/images/buildpc/318011a7fe7d2a1a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "72 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.390.000 VNĐ"
+          },
+          {
+            "id": "1068150057",
+            "name": "Tản nhiệt AIO Thermalright Wonder Vision 360 UB ARGB WHITE",
+            "image": {
+              "src": "/images/buildpc/c17d036d8ee22898.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.890.000 VNĐ"
+          },
+          {
+            "id": "1068150052",
+            "name": "Tản nhiệt AIO Thermalright Wonder Vision 360 UB ARGB BLACK",
+            "image": {
+              "src": "/images/buildpc/d2c0426e41183c21.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.890.000 VNĐ"
+          },
+          {
+            "id": "1067936998",
+            "name": "Tản nhiệt khí Thermalright Peerless Assassin 120 SE ARGB",
+            "image": {
+              "src": "/images/buildpc/ae69fa8b3cdfde40.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "890.000 VNĐ"
+          },
+          {
+            "id": "1067919668",
+            "name": "TẢN NHIỆT NƯỚC ID-COOLING FX360 INF ARGB",
+            "image": {
+              "src": "/images/buildpc/e872b4dabfb69462.webp",
+              "width": 600,
+              "height": 480
+            },
+            "price": 1490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.490.000 VNĐ"
+          },
+          {
+            "id": "1067919656",
+            "name": "TẢN NHIỆT NƯỚC ID-COOLING FX240 INF ARGB",
+            "image": {
+              "src": "/images/buildpc/46b81a01e31c49ec.webp",
+              "width": 600,
+              "height": 480
+            },
+            "price": 1390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "12 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.390.000 VNĐ"
+          },
+          {
+            "id": "1067253996",
+            "name": "Tản Nhiệt Nước Lian Li HydroShift LCD 360TL fan White",
+            "image": {
+              "src": "/images/buildpc/c9bfb2df8245cd49.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.890.000 VNĐ"
+          },
+          {
+            "id": "1067253982",
+            "name": "Tản nhiệt nước LIAN LI HydroShift LCD 360TL fan Black",
+            "image": {
+              "src": "/images/buildpc/7fce621f7ffbdc8b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.990.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "ASUS (7)",
+              "Cooler Master (1)",
+              "DEEPCOOL (21)",
+              "EINAREX (3)",
+              "Gamdias (18)",
+              "ID-Cooling (9)",
+              "Jonsbo (21)",
+              "Jungle Leopard (9)",
+              "Khác (18)",
+              "Leopard (1)",
+              "Lian Li (18)",
+              "NOCTUA (1)",
+              "NZXT (2)",
+              "SSTC (2)",
+              "Thermalright (20)",
+              "TRYX (6)"
+            ]
+          },
+          {
+            "title": "Khoảng giá",
+            "values": [
+              "Dưới 1 triệu (29)",
+              "1 triệu - 2 triệu (47)",
+              "2 triệu - 3 triệu (25)",
+              "3 triệu - 5 triệu (33)",
+              "5 triệu - 10 triệu (25)",
+              "Trên 10 triệu (1)"
+            ]
+          },
+          {
+            "title": "SOCKET",
+            "values": [
+              "AM4 (66)",
+              "LGA 115x (34)",
+              "LGA 1851 (51)",
+              "LGA 1700 (65)",
+              "LGA 1200 (60)",
+              "AM5 (65)"
+            ]
+          },
+          {
+            "title": "Kích Thước Tản Nhiệt",
+            "values": [
+              "360 mm (48)",
+              "280 mm (2)",
+              "240 mm (12)",
+              "120 mm (13)"
+            ]
+          },
+          {
+            "title": "Màu sắc",
+            "values": ["Màu Trắng (25)", "Màu Đen (59)"]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          },
+          {
+            "label": "7",
+            "current": false
+          },
+          {
+            "label": "›",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003535358",
+      "name": "Vỏ Case",
+      "multiple": false,
+      "items": [
+        {
+          "id": "1068922111",
+          "name": "Vỏ case ANTEC C3 Basic (ATX/Màu đen)",
+          "image": {
+            "src": "/images/buildpc/e089d6dd90218c00.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "",
+          "price": 1090000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1071876866",
+            "name": "VỎ CASE MAGIC GM-08L PRO (FULL M-ATX, SẴN DẢI LED RGB OR ARGB)",
+            "image": {
+              "src": "/images/buildpc/445930ce6ae80d17.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "790.000 VNĐ"
+          },
+          {
+            "id": "1071540359",
+            "name": "Vỏ CASE MAGIC GA-02 PRO CURVED (ATX)",
+            "image": {
+              "src": "/images/buildpc/ba39cd1c726a6bfa.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.190.000 VNĐ"
+          },
+          {
+            "id": "1071494121",
+            "name": "Vỏ Case Asus ROG Strix Helios II Hatsune Miku Edition",
+            "image": {
+              "src": "/images/buildpc/53b76ffd419873c2.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 11090000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "11.090.000 VNĐ"
+          },
+          {
+            "id": "1070648229",
+            "name": "Vỏ Case máy tính DeepCool CH160 PLUS WHITE",
+            "image": {
+              "src": "/images/buildpc/c7d517cd5724a978.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.490.000 VNĐ"
+          },
+          {
+            "id": "1070648227",
+            "name": "Vỏ Case máy tính DeepCool CH160 PLUS Black",
+            "image": {
+              "src": "/images/buildpc/07ffb6fac0c6af04.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.490.000 VNĐ"
+          },
+          {
+            "id": "1070429046",
+            "name": "Vỏ case Lian Li O11 VISION Compact - White (ATX/Mid Tower/Màu Trắng)",
+            "image": {
+              "src": "/images/buildpc/44d4fc48c1ad9154.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.490.000 VNĐ"
+          },
+          {
+            "id": "1070429040",
+            "name": "Vỏ case Lian Li O11 VISION Compact - Black (ATX/Mid Tower/Màu Đen)",
+            "image": {
+              "src": "/images/buildpc/8f8675dbb286bc05.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3490000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.490.000 VNĐ"
+          },
+          {
+            "id": "1070046554",
+            "name": "VỎ CASE PC JONSBO M-ATX D200 BLACK",
+            "image": {
+              "src": "/images/buildpc/87de1709ba49aff9.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.690.000 VNĐ"
+          },
+          {
+            "id": "1070046549",
+            "name": "VỎ CASE PC JONSBO M-ATX D200 WHITE",
+            "image": {
+              "src": "/images/buildpc/3311ffa4f44fe97a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.690.000 VNĐ"
+          },
+          {
+            "id": "1069880040",
+            "name": "Vỏ case Lian Li O11D mini V2 Flow White",
+            "image": {
+              "src": "/images/buildpc/61d9a8e205e28f59.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.990.000 VNĐ"
+          },
+          {
+            "id": "1069880037",
+            "name": "Vỏ case Lian Li O11D mini V2 Flow Black",
+            "image": {
+              "src": "/images/buildpc/bcd849e86f042ac1.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.990.000 VNĐ"
+          },
+          {
+            "id": "1069729301",
+            "name": "Vỏ case máy tính Mini ITX XiKii Industry FF07 ROG",
+            "image": {
+              "src": "/images/buildpc/0e2cbfa820e41b2d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 29990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "29.990.000 VNĐ"
+          },
+          {
+            "id": "1069649225",
+            "name": "Vỏ Case Darkflash Floatron F1 Black (M-ATX / Màu Đen)",
+            "image": {
+              "src": "/images/buildpc/ce20f394f9d5135a.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.990.000 VNĐ"
+          },
+          {
+            "id": "1068922111",
+            "name": "Vỏ case ANTEC C3 Basic (ATX/Màu đen)",
+            "image": {
+              "src": "/images/buildpc/e089d6dd90218c00.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1090000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.090.000 VNĐ"
+          },
+          {
+            "id": "1068904547",
+            "name": "Vỏ Case Montech Heritage PRO White",
+            "image": {
+              "src": "/images/buildpc/add965781065572e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.990.000 VNĐ"
+          },
+          {
+            "id": "1068843870",
+            "name": "VỎ CASE AIGO Q15 MATX USB 3.0",
+            "image": {
+              "src": "/images/buildpc/eb754da2abafccf6.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 299000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "299.000 VNĐ"
+          },
+          {
+            "id": "1068843858",
+            "name": "Vỏ case XIGMATEK XA-22 (ATX)",
+            "image": {
+              "src": "/images/buildpc/94113f0993d4b34d.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 309000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "309.000 VNĐ"
+          },
+          {
+            "id": "1068843855",
+            "name": "Vỏ case XIGMATEK XA-20 (ATX)",
+            "image": {
+              "src": "/images/buildpc/b75706456fb274fd.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 309000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "309.000 VNĐ"
+          },
+          {
+            "id": "1068245408",
+            "name": "Vỏ case JONSBO D300 WHITE (mATX/Mid Tower/Màu Trắng /Kính Cong)",
+            "image": {
+              "src": "/images/buildpc/a10fb386b26dbe7b.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1799000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.799.000 VNĐ"
+          },
+          {
+            "id": "1068245403",
+            "name": "Vỏ case JONSBO D300 BLACK (mATX/Mid Tower/Màu ĐEN /Kính Cong)",
+            "image": {
+              "src": "/images/buildpc/9cd62d0d0b8d6f63.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 1799000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": ""
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "1.799.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "Corsair (2)",
+              "AIGO (2)",
+              "Antec (6)",
+              "ASUS (3)",
+              "Centaur (1)",
+              "César (3)",
+              "Cooler Master (2)",
+              "Darkflash (1)",
+              "DEEPCOOL (2)",
+              "Gamdias (5)",
+              "Hyte (5)",
+              "Jonsbo (21)",
+              "Khác (15)",
+              "Lian Li (11)",
+              "MAGIC (1)",
+              "Montech (1)",
+              "NZXT (9)",
+              "Phanteks (2)",
+              "QC.Art (2)",
+              "Segotep (1)",
+              "Tecware (1)",
+              "Thermalright (2)",
+              "Xigmatek (32)",
+              "XiKii Industry (1)",
+              "Zotac (2)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          },
+          {
+            "label": "7",
+            "current": false
+          },
+          {
+            "label": "›",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    },
+    {
+      "id": "1003486567",
+      "name": "Màn Hình",
+      "multiple": true,
+      "items": [
+        {
+          "id": "1072100271",
+          "name": "Màn Hình LG UltraGear G6 27G610A-B (27 inch - IPS - 2K - 200Hz - 1ms)",
+          "image": {
+            "src": "/images/buildpc/8e24a66b9b5f4ca6.webp",
+            "width": 600,
+            "height": 600
+          },
+          "stock": "Còn hàng",
+          "warranty": "24 tháng",
+          "price": 5190000,
+          "quantity": 1,
+          "href": "#"
+        }
+      ],
+      "picker": {
+        "products": [
+          {
+            "id": "1072100271",
+            "name": "Màn Hình LG UltraGear G6 27G610A-B (27 inch - IPS - 2K - 200Hz - 1ms)",
+            "image": {
+              "src": "/images/buildpc/8e24a66b9b5f4ca6.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.190.000 VNĐ"
+          },
+          {
+            "id": "1072101045",
+            "name": "Màn Hình Gaming LG UltraGear 27G64NA-B (27 Inch/ QHD/ IPS/ 300Hz/ 1ms)",
+            "image": {
+              "src": "/images/buildpc/bc7d890932db1844.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 7190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "7.190.000 VNĐ"
+          },
+          {
+            "id": "1072101046",
+            "name": "Màn Hình Gaming LG UltraGear 25G523B-B (25 inch - IPS - FHD - 200Hz - 1ms)",
+            "image": {
+              "src": "/images/buildpc/c92ad144a0f51dd8.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.190.000 VNĐ"
+          },
+          {
+            "id": "1072101047",
+            "name": "Màn Hình Gaming LG UltraGear 27G523B-B (27 inch - IPS - FHD - 200Hz - 1ms)",
+            "image": {
+              "src": "/images/buildpc/1a93724acfab070c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.590.000 VNĐ"
+          },
+          {
+            "id": "1071164411",
+            "name": "Màn Hình Gaming ASUS TUF Gaming VG259QM5A (24.5 inch/ Fast IPS/ FHD/ 0.3ms/ 240Hz)",
+            "image": {
+              "src": "/images/buildpc/c6f2164982062631.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1071164411"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.190.000 VNĐ"
+          },
+          {
+            "id": "1064103912",
+            "name": "MÀN HÌNH GAMING GIGABYTE GS25F2 (24.5 INCH / FHD / IPS/ 200Hz / 1MS )",
+            "image": {
+              "src": "/images/buildpc/020ead54c5594c85.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.590.000 VNĐ"
+          },
+          {
+            "id": "1072100151",
+            "name": "Màn Hình Gaming ViewSonic VX24G30 (24 inch - IPS - FHD - 0.8ms - 240Hz)",
+            "image": {
+              "src": "/images/buildpc/7e521f90e885b18e.webp",
+              "width": 600,
+              "height": 468
+            },
+            "price": 2690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.690.000 VNĐ"
+          },
+          {
+            "id": "1072100260",
+            "name": "Màn Hình AOC 24G50Z (23.8 inch - IPS - FHD - 260Hz - 0.3ms)",
+            "image": {
+              "src": "/images/buildpc/d58ae3f086bdfe0e.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2690000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.690.000 VNĐ"
+          },
+          {
+            "id": "1069182399",
+            "name": "Màn hình Gaming ASUS TUF VG249Q5R (23.8 inch - IPS - FHD - 200Hz - 0.3ms - Speaker )",
+            "image": {
+              "src": "/images/buildpc/a0ff736348e968ac.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1069182399"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.590.000 VNĐ"
+          },
+          {
+            "id": "1070324223",
+            "name": "Màn hình Gaming ASUS TUF VG279Q5R (27 inch - IPS - FHD - 200Hz - 0.3ms - Speaker )",
+            "image": {
+              "src": "/images/buildpc/71ec386ed923c868.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3290000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.290.000 VNĐ"
+          },
+          {
+            "id": "1071164337",
+            "name": "Màn Hình MSI MAG 245F X24 (23.8 inch - IPS - FHD - 240Hz - 0.5ms)",
+            "image": {
+              "src": "/images/buildpc/18166741c09d0907.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1071164337"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.890.000 VNĐ"
+          },
+          {
+            "id": "1070648416",
+            "name": "Màn Hình MSI MAG 272F X24 (27 inch - IPS - FHD - 240Hz - 0.5ms)",
+            "image": {
+              "src": "/images/buildpc/40454384f72e9909.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 3390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1070648416"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "3.390.000 VNĐ"
+          },
+          {
+            "id": "1072100408",
+            "name": "Màn Hình MSI PRO MP242 E14A (23.8 inch - IPS - FHD - 144Hz - 1ms)",
+            "image": {
+              "src": "/images/buildpc/d8ac0c168686fe93.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2190000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1072100408"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.190.000 VNĐ"
+          },
+          {
+            "id": "1071941932",
+            "name": "Màn Hình EDRA EGM27F120H (27 inch - IPS - FHD - 120Hz - 1ms)",
+            "image": {
+              "src": "/images/buildpc/763cbbd007afc2fb.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2390000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.390.000 VNĐ"
+          },
+          {
+            "id": "1071517516",
+            "name": "Màn hình LG 27U411A-B (27 inch/FHD/IPS/120Hz/5ms)",
+            "image": {
+              "src": "/images/buildpc/bdf51663ff65d8d0.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 2790000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "2.790.000 VNĐ"
+          },
+          {
+            "id": "1071491404",
+            "name": "Màn Hình Gaming ASUS ROG Strix XG27ACMEG-G Hatsune Miku Edition (27 inch - IPS - 2K - 1ms - 260Hz - USB TypeC)",
+            "image": {
+              "src": "/images/buildpc/4cb170d90cef8e87.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 8990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "8.990.000 VNĐ"
+          },
+          {
+            "id": "1070532860",
+            "name": "Màn Hình Gaming ASUS ROG Swift OLED PG27UCDM (26.5 inch - 4K - OLED - 240Hz - 0.03ms)",
+            "image": {
+              "src": "/images/buildpc/b52fe6b23400bd27.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 31990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "31.990.000 VNĐ"
+          },
+          {
+            "id": "1069845660",
+            "name": "Màn Hình Gaming SAMSUNG Odyssey G5 G55C LS32CG552EEXXV (32.0 inch - 2K - VA - 165Hz - 1ms - FreeSync - HDR10 - Curved)",
+            "image": {
+              "src": "/images/buildpc/58320f742d52b1e0.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5590000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "24 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.590.000 VNĐ"
+          },
+          {
+            "id": "1069709708",
+            "name": "Màn Hình Gaming ASUS TUF Gaming VG27AQ5A (27 inch - IPS - 2K - 210Hz - 1ms - Speaker)",
+            "image": {
+              "src": "/images/buildpc/42a963af36094f84.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 4890000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": "1069709708"
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "4.890.000 VNĐ"
+          },
+          {
+            "id": "1069709696",
+            "name": "Màn hình gaming Asus TUF Gaming VG27AQM5A (27 inch / QHD / IPS / 300Hz / 0.3ms)",
+            "image": {
+              "src": "/images/buildpc/5badccd1461f094c.webp",
+              "width": 600,
+              "height": 600
+            },
+            "price": 5990000,
+            "info": [
+              {
+                "label": "Mã SP:",
+                "value": ""
+              },
+              {
+                "label": "Bảo hành:",
+                "value": "36 Tháng"
+              },
+              {
+                "label": "Kho hàng:",
+                "value": "Còn hàng"
+              }
+            ],
+            "priceLabel": "5.990.000 VNĐ"
+          }
+        ],
+        "filters": [
+          {
+            "title": "Hãng sản xuất",
+            "values": [
+              "ACER (3)",
+              "AOC (1)",
+              "ASUS (38)",
+              "BenQ (1)",
+              "Dell (18)",
+              "DUAN (2)",
+              "Edra (4)",
+              "Gigabyte (5)",
+              "Khác (4)",
+              "Lenovo (1)",
+              "LG (35)",
+              "MSI (29)",
+              "Samsung (22)",
+              "SSTC (2)",
+              "Viewsonic (11)"
+            ]
+          },
+          {
+            "title": "Khoảng giá",
+            "values": [
+              "Dưới 2 triệu (9)",
+              "2 triệu - 5 triệu (85)",
+              "5 triệu - 7 triệu (18)",
+              "7 triệu - 10 triệu (14)",
+              "10 triệu - 15 triệu (8)",
+              "15 triệu - 20 triệu (6)",
+              "20 triệu - 50 triệu (30)",
+              "Trên 50 triệu (1)"
+            ]
+          },
+          {
+            "title": "Loại Màn Hình",
+            "values": [
+              "Màn Hình Gaming (129)",
+              "Màn Hình Đồ Họa (35)",
+              "Màn Hình Văn Phòng (52)",
+              "Màn Hình Cong (13)",
+              "Màn Hình Ultrawide (4)"
+            ]
+          },
+          {
+            "title": "Độ Sáng",
+            "values": [
+              "200 cd/m² (3)",
+              "240 cd/m² (3)",
+              "250 cd/m² (56)",
+              "270 cd/m² (2)",
+              "300 cd/m² (53)",
+              "320 cd/m² (4)",
+              "350 cd/m² (13)",
+              "400 cd/m² (21)",
+              "450 cd/m² (5)",
+              "500 cd/m² (1)",
+              "600 cd/m² (1)",
+              "220 cd/m² (1)",
+              "1000 cd/m² (2)",
+              "275 cd/m² (2)",
+              "1300 cd/m² (3)",
+              "260 cd/㎡ (1)",
+              "1500 cd/m² (3)",
+              "230 cd/m² (1)",
+              "335cd/m² (1)"
+            ]
+          },
+          {
+            "title": "Tần số quét màn hình",
+            "values": [
+              "60 Hz (5)",
+              "75 Hz (4)",
+              "100 Hz (23)",
+              "120 Hz (16)",
+              "144 Hz (19)",
+              "160 Hz (4)",
+              "165 Hz (7)",
+              "175 Hz (1)",
+              "180 Hz (19)",
+              "200 Hz (13)",
+              "220 Hz (3)",
+              "240 Hz (31)",
+              "280 Hz (4)",
+              "360 Hz (3)",
+              "480 Hz (2)",
+              "255 Hz (1)",
+              "500 Hz (1)",
+              "250 Hz (3)",
+              "320 Hz (3)",
+              "300 Hz (6)",
+              "260 Hz (3)",
+              "540 Hz (3)",
+              "146 Hz (1)",
+              "210 Hz (1)",
+              "330 Hz (2)"
+            ]
+          },
+          {
+            "title": "Thời gian đáp ứng",
+            "values": [
+              "0.4ms (2)",
+              "0.5ms (16)",
+              "1ms (82)",
+              "4ms (3)",
+              "5ms (26)",
+              "8ms (1)",
+              "0.02ms (2)",
+              "0.03ms (35)",
+              "0.3ms (8)",
+              "0.8ms (1)"
+            ]
+          },
+          {
+            "title": "Tấm nền",
+            "values": [
+              "IPS (118)",
+              "FAST IPS (6)",
+              "TN (1)",
+              "VA (15)",
+              "OLED (37)"
+            ]
+          },
+          {
+            "title": "Độ phân giải màn hình",
+            "values": [
+              "Full HD (1920x1080) (88)",
+              "WUXGA (1920x1200) (4)",
+              "2K QHD (2560x1440) (49)",
+              "WQHD (3440x1440) (8)",
+              "4K -UHD (3840x2160) (19)",
+              "DualQHD (5120x1440) (1)",
+              "5K (5120 x 2880) (1)",
+              "5K2K (5120x2160) (3)",
+              "UWQHD (3,440 x 1,440) (1)",
+              "DQHD (5120 x 1440) (1)"
+            ]
+          },
+          {
+            "title": "Kích thước màn hình",
+            "values": [
+              "21.5 inch (3)",
+              "23.8 inch (26)",
+              "24 inch (11)",
+              "24.5 inch (11)",
+              "25 inch (6)",
+              "27 inch (90)",
+              "31.5 inch (6)",
+              "32 inch (7)",
+              "34 inch (6)",
+              "38 inch (1)",
+              "49 inch (2)",
+              "39 inch (3)",
+              "26.5 inch (2)",
+              "45 inch (2)"
+            ]
+          }
+        ],
+        "pages": [
+          {
+            "label": "1",
+            "current": true
+          },
+          {
+            "label": "2",
+            "current": false
+          },
+          {
+            "label": "3",
+            "current": false
+          },
+          {
+            "label": "4",
+            "current": false
+          },
+          {
+            "label": "5",
+            "current": false
+          },
+          {
+            "label": "6",
+            "current": false
+          },
+          {
+            "label": "7",
+            "current": false
+          },
+          {
+            "label": "›",
+            "current": false
+          }
+        ],
+        "sort": [
+          "Tùy chọn",
+          "Mới nhất",
+          "Giá tăng dần",
+          "Giá giảm dần",
+          "Lượt xem",
+          "Trao đổi",
+          "Đánh giá",
+          "Tên A->Z"
+        ]
+      }
+    }
+  ]
+}
