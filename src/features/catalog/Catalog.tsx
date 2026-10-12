@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { catalogData as data } from "@/data";
 import { ProductCard } from "@/components/product/ProductCard";
+import { ProductTooltip } from "@/components/product/ProductTooltip";
 import { Support } from "@/components/support/Support";
 import { FloatingContact } from "@/components/support/FloatingContact";
 import { routes } from "@/lib/routes";
@@ -29,9 +30,11 @@ export function Catalog() {
             filterGroups: data.filterGroups,
           }}
         >
-          {data.products.map((p, i) => (
-            <ProductCard key={i} product={p} overlays={data.overlays} listing />
-          ))}
+          <ProductTooltip items={data.products.flatMap((p, i) => p.tooltipHtml ? [{ key: String(i), html: p.tooltipHtml }] : [])}>
+            {data.products.map((p, i) => (
+              <ProductCard key={i} product={p} overlays={data.overlays} listing tooltipKey={p.tooltipHtml ? String(i) : undefined} />
+            ))}
+          </ProductTooltip>
         </CatalogResults>
         <Support />
       </div>

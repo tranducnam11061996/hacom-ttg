@@ -3,7 +3,6 @@ import { AssetImage, type ImageAsset } from "@/components/ui/AssetImage";
 import { DemoButton } from "@/components/ui/Demo";
 import { Icon } from "@/components/ui/Icon";
 import { routes } from "@/lib/routes";
-import { ProductTooltip } from "./ProductTooltip";
 
 export interface Product {
   name: string;
@@ -14,17 +13,18 @@ export interface Product {
   status: string;
   buy: string;
   overlay: string;
-  href: string;
   tooltipHtml?: string;
 }
 export function ProductCard({
   product: p,
   overlays = {},
   listing = false,
+  tooltipKey,
 }: {
   product: Product;
   overlays?: Record<string, ImageAsset>;
   listing?: boolean;
+  tooltipKey?: string;
 }) {
   const pictures = (
     <>
@@ -50,15 +50,9 @@ export function ProductCard({
       data-product=""
       className={`category-card${listing ? " listing-card" : ""}`}
     >
-      {listing && p.tooltipHtml ? (
-        <ProductTooltip html={p.tooltipHtml} href={routes.product}>
-          {pictures}
-        </ProductTooltip>
-      ) : (
-        <Link prefetch={false} href={routes.product} className="category-image">
+        <Link prefetch={false} href={routes.product} className="category-image" data-product-hover={tooltipKey ? "" : undefined} data-tooltip-key={tooltipKey}>
           {pictures}
         </Link>
-      )}
       <h3 className="category-name">
         <Link prefetch={false} href={routes.product} title={p.name}>
           {p.name}

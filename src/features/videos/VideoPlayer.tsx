@@ -5,11 +5,11 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { Icon } from "@/components/ui/Icon";
 import { loadYoutubeApi, type YoutubePlayer } from "./youtube-api";
+import { resolvePlaylistVideo } from "./resolve-playlist-video";
 import type { Playlist } from "./types";
 
 export function VideoPlayer({
   playlist,
-  initialVideoId,
   capturedAt,
 }: {
   playlist: Playlist;
@@ -19,16 +19,15 @@ export function VideoPlayer({
   const search = useSearchParams(),
     pathname = usePathname(),
     router = useRouter();
-  const candidate = search.get("video"),
-    first = playlist.videos[0];
-  const [externalId, setExternalId] = useState<string | null>(null);
-  const selected =
-    externalId ||
-    (playlist.videos.some((v) => v.id === candidate)
-      ? candidate!
-      : candidate
-        ? first.id
-        : initialVideoId);
+  const queryKey = search.toString();
+  const first = playlist.videos[0];
+  const [externalId, setExternalId] = useState<{ id: string; query: string; from?: string } | null>(null);
+  const [observedQuery, setObservedQuery] = useState(queryKey);
+  if (observedQuery !== queryKey) {
+    setObservedQuery(queryKey);
+    if (externalId) setExternalId(externalId.query === queryKey ? { id: externalId.id, query: queryKey } : null);
+  }
+  const selected = externalId && (externalId.query === queryKey || externalId.from === queryKey) ? externalId.id : resolvePlaylistVideo(playlist, search.getAll("video"));
   const known = playlist.videos.find((v) => v.id === selected);
   const [ready, setReady] = useState(false),
     [loading, setLoading] = useState(false);
@@ -38,10 +37,13 @@ export function VideoPlayer({
   const alive = useRef(false),
     current = useRef(selected);
   const playingId = useRef<string | undefined>(undefined);
+  const attempt = useRef(0);
   useEffect(() => {
+    const epoch = attempt;
     alive.current = true;
     return () => {
       alive.current = false;
+      epoch.current++;
       player.current?.destroy();
       player.current = undefined;
     };
@@ -60,18 +62,26 @@ export function VideoPlayer({
       }
     }
   }, [selected, ready, playlist]);
-  function changeUrl(id: string) {
+  function changeUrl(id: string, automatic = false) {
     const params = new URLSearchParams(window.location.search);
+    const from = params.toString();
     params.set("video", id);
-    router.replace(`${pathname}?${params}#player`, { scroll: false });
+    const query = params.toString();
+    if (automatic) {
+      setExternalId({ id, query, from });
+      router.replace(`${pathname}?${query}#player`, { scroll: false });
+    } else {
+      router.push(`${pathname}?${query}#player`, { scroll: false });
+    }
   }
   async function play() {
     if (loading || player.current) return;
+    const token = ++attempt.current;
     setLoading(true);
     setStatus("Đang tải trình phát…");
     try {
       const api = await loadYoutubeApi();
-      if (!alive.current || !holder.current) return;
+      if (!alive.current || token !== attempt.current || !holder.current) return;
       const mount = document.createElement("div");
       holder.current.replaceChildren(mount);
       player.current = new api.Player(mount, {
@@ -87,7 +97,7 @@ export function VideoPlayer({
         },
         events: {
           onReady: (event) => {
-            if (!alive.current) return;
+            if (!alive.current || token !== attempt.current) return;
             setReady(true);
             setStatus("Trình phát đã sẵn sàng.");
             playingId.current = current.current;
@@ -101,15 +111,21 @@ export function VideoPlayer({
             });
           },
           onStateChange: (event) => {
-            if (!alive.current) return;
+            if (!alive.current || token !== attempt.current) return;
             const id = event.target.getVideoData()?.video_id;
             if (!id || id === current.current) return;
             playingId.current = id;
             current.current = id;
-            setExternalId(playlist.videos.some((v) => v.id === id) ? null : id);
-            changeUrl(id);
+            changeUrl(id, true);
           },
           onError: () => {
+            if (!alive.current || token !== attempt.current) return;
+            attempt.current++;
+            player.current?.destroy();
+            player.current = undefined;
+            holder.current?.replaceChildren();
+            setReady(false);
+            setLoading(false);
             if (alive.current)
               setStatus(
                 "Video không phát được tại đây. Dùng liên kết “Xem trên YouTube” bên dưới.",
@@ -118,6 +134,10 @@ export function VideoPlayer({
         },
       });
     } catch (error) {
+      if (!alive.current || token !== attempt.current) return;
+      player.current?.destroy();
+      player.current = undefined;
+      holder.current?.replaceChildren();
       if (alive.current)
         setStatus(
           error instanceof Error
@@ -125,7 +145,7 @@ export function VideoPlayer({
             : "Không tải được YouTube. Hãy thử lại hoặc xem trên YouTube.",
         );
     } finally {
-      if (alive.current) setLoading(false);
+      if (alive.current && token === attempt.current) setLoading(false);
     }
   }
   return (
@@ -213,11 +233,12 @@ export function VideoPlayer({
                 <Link
                   data-episode=""
                   data-video-id={v.id}
-                  href={`?video=${v.id}#player`}
+                  href={`?${new URLSearchParams([...search.entries()].filter(([key]) => key !== "video").concat([["video", v.id]])).toString()}#player`}
                   prefetch={false}
                   aria-current={v.id === selected ? "true" : undefined}
                   className="flex items-start gap-3 rounded-lg p-2 hover:bg-orange-50 aria-current:bg-orange-100"
                   onClick={(event) => {
+                    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
                     event.preventDefault();
                     setExternalId(null);
                     changeUrl(v.id);

@@ -59,12 +59,15 @@ export function loadYoutubeApi(): Promise<YoutubeApi> {
       cleanup();
       previous?.();
       if (window.YT?.Player) resolve(window.YT);
-      else
+      else {
+        pending = undefined;
+        script.remove();
         reject(
           new Error(
             "Không tải được YouTube. Hãy thử lại hoặc xem trên YouTube.",
           ),
         );
+      }
     }
     function fail() {
       cleanup();

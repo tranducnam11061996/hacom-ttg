@@ -19,7 +19,7 @@ function ease(value: number) {
 /** Each carousel owns its observers, drag state, animation and autoplay lifecycle. */
 export function useCarousel(
   ref: RefObject<HTMLElement | null>,
-  { hero = false, draggable = false, enabled = true, initialPosition = 0 } = {},
+  { hero = false, draggable = false, enabled = true, initialIndex = 0 } = {},
 ) {
   useEffect(() => {
     if (!enabled) return;
@@ -138,7 +138,7 @@ export function useCarousel(
       frame = requestAnimationFrame(tick);
     }
     function measure() {
-      const previous = measured ? (hero ? index : current()) : -1;
+      const previous = measured ? index : -1;
       step = hero
         ? track!.clientWidth + 10
         : (track!.firstElementChild?.getBoundingClientRect().width ?? 0) + 10;
@@ -153,7 +153,7 @@ export function useCarousel(
       programmaticUntil = performance.now() + 80;
       select(
         Math.min(
-          previous < 0 ? Math.round(initialPosition / step) : previous,
+          previous < 0 ? initialIndex : previous,
           maxIndex,
         ),
       );
@@ -371,5 +371,5 @@ export function useCarousel(
       visibility.disconnect();
       resize.disconnect();
     };
-  }, [ref, hero, draggable, enabled, initialPosition]);
+  }, [ref, hero, draggable, enabled, initialIndex]);
 }

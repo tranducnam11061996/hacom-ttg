@@ -2,15 +2,15 @@
 import Link from "next/link";
 import { routes } from "@/lib/routes";
 
-import { useState } from "react";
+import { memo, useState } from "react";
 import { AssetImage } from "@/components/ui/AssetImage";
 import { DemoButton, DemoForm, useDemo } from "@/components/ui/Demo";
 import { Dialog } from "@/components/ui/Dialog";
 import { Pagination } from "@/components/ui/Pagination";
 import { formatMoney } from "@/lib/format";
-import type { ComponentGroup, PickerProduct } from "./types";
+import type { PickerGroup, PickerProduct } from "./types";
 
-function ProductRow({ item }: { item: PickerProduct }) {
+const ProductRow = memo(function ProductRow({ item }: { item: PickerProduct }) {
   return (
     <article className="bp-picker-item" data-picker-product={item.id}>
       <Link prefetch={false} href={routes.product} className="bp-picker-image">
@@ -45,12 +45,15 @@ function ProductRow({ item }: { item: PickerProduct }) {
       </DemoButton>
     </article>
   );
-}
+});
+const ProductList = memo(function ProductList({ products }: { products: PickerProduct[] }) {
+  return <div className="bp-picker-list">{products.map((item) => <ProductRow key={item.id} item={item} />)}</div>;
+});
 export function Picker({
   group,
   onClose,
 }: {
-  group: ComponentGroup;
+  group: PickerGroup;
   onClose: () => void;
 }) {
   const [filtersOpen, setFiltersOpen] = useState(false);
@@ -148,22 +151,16 @@ export function Picker({
                   }
                 />
                 {picker.pages.some((p) => !/^\d+$/.test(p.label)) && (
-                  <Link
-                    prefetch={false}
-                    href={routes.product}
+                  <DemoButton
                     className="bp-next"
                     aria-label="Trang tiếp theo"
                   >
                     ›
-                  </Link>
+                  </DemoButton>
                 )}
               </div>
             </div>
-            <div className="bp-picker-list">
-              {picker.products.map((item) => (
-                <ProductRow key={item.id} item={item} />
-              ))}
-            </div>
+            <ProductList products={picker.products} />
           </div>
         </DemoForm>
       </div>

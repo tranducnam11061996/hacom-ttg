@@ -1,9 +1,8 @@
-"use client";
-import { memo } from "react";
+import { PickerTrigger } from "./BuildPickerProvider";
 import Link from "next/link";
 import { routes } from "@/lib/routes";
 
-import { buildData } from "@/data";
+import type { ComponentGroup } from "./types";
 import { DemoButton } from "@/components/ui/Demo";
 import { AssetImage } from "@/components/ui/AssetImage";
 import { Icon } from "@/components/ui/Icon";
@@ -13,11 +12,9 @@ import type { SelectedComponent } from "./types";
 function SelectedItem({
   item,
   groupId,
-  onChoose,
 }: {
   item: SelectedComponent;
   groupId: string;
-  onChoose: (id: string) => void;
 }) {
   return (
     <article className="bp-item" data-build-item={item.id}>
@@ -64,18 +61,18 @@ function SelectedItem({
             </b>
           </div>
           <div className="bp-item-actions">
-            <button
+            <PickerTrigger
               type="button"
               data-picker-open={groupId}
               aria-haspopup="dialog"
               aria-controls="component-picker"
               aria-label={`Thay đổi ${item.name}`}
-              onClick={() => onChoose(groupId)}
+              groupId={groupId}
             >
               <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path d="m17 2 5 5-12 12-6 1 1-6zm-1 4L7 15l-1 3 3-1 9-9z" />
               </svg>
-            </button>
+            </PickerTrigger>
             <DemoButton aria-label={`Xóa ${item.name}`}>
               <Icon name="trash" className="cart-icon" />
             </DemoButton>
@@ -85,12 +82,8 @@ function SelectedItem({
     </article>
   );
 }
-export const Configuration = memo(function Configuration({
-  onChoose,
-}: {
-  onChoose: (id: string) => void;
-}) {
-  const total = buildData.groups.reduce(
+export function Configuration({ groups }: { groups: ComponentGroup[] }) {
+  const total = groups.reduce(
     (n, g) => n + g.items.reduce((v, p) => v + p.price * p.quantity, 0),
     0,
   );
@@ -110,7 +103,7 @@ export const Configuration = memo(function Configuration({
         {summary}
       </div>
       <div className="bp-groups">
-        {buildData.groups.map((group, index) => (
+        {groups.map((group, index) => (
           <section
             className="bp-group"
             data-build-group={group.id}
@@ -125,20 +118,19 @@ export const Configuration = memo(function Configuration({
                   key={item.id}
                   item={item}
                   groupId={group.id}
-                  onChoose={onChoose}
                 />
               ))}
               {(!group.items.length || group.multiple) && (
                 <div className="bp-choose-row">
-                  <button
+                  <PickerTrigger
                     type="button"
                     data-picker-open={group.id}
                     aria-haspopup="dialog"
                     aria-controls="component-picker"
-                    onClick={() => onChoose(group.id)}
+                    groupId={group.id}
                   >
                     + {group.items.length ? "Chọn Thêm" : `Chọn ${group.name}`}
-                  </button>
+                  </PickerTrigger>
                 </div>
               )}
             </div>
@@ -165,4 +157,4 @@ export const Configuration = memo(function Configuration({
       </div>
     </div>
   );
-});
+}

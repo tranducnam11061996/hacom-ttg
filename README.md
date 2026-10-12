@@ -49,7 +49,7 @@ URL HTML cũ chuyển hướng sang route tương ứng; query `?video=...` đư
 
 Mỗi route có title và description riêng. Ảnh/tên sản phẩm dẫn đến màn chi tiết mẫu chung; danh mục bán hàng dẫn đến `/pc`. Playlist render danh sách tập từ server và chỉ tải player khi bấm phát. Font production được cache một giờ; khi thay file font cùng tên cần tải lại bỏ qua cache.
 
-Báo cáo triển khai SEO, hiệu năng, bằng chứng và các phần chưa đạt nghiệm thu đầy đủ: [báo cáo ngày 09/10/2026](docs/reports/2026-10-09-seo-performance/README.md).
+SEO và hiệu năng chưa nghiệm thu hoàn toàn: popup lần đầu và một số lần đổi nhóm khuyến mãi còn vượt mục tiêu phản hồi 200 ms.
 
 ## Chỉnh sửa
 
@@ -63,4 +63,4 @@ Tìm kiếm, lọc, sắp xếp, phân trang, tài khoản, mua hàng, xuất fi
 
 Video giữ 82 tập từ dữ liệu đã lưu. Ảnh YouTube và phát video cần Internet. IFrame API chỉ tải khi bấm phát; chọn tập bằng query chỉ nhận ID thuộc playlist mẫu. Luôn có liên kết xem trên YouTube khi trình phát bị chặn.
 
-Build dùng dữ liệu local, không thu thập lại nguồn. Dự án không cần database, API key hoặc backend nghiệp vụ. Mã Next.js không phụ thuộc vào source HTML, kiểm thử, công cụ thu thập/so ảnh và báo cáo lịch sử cũ. Các thư mục cũ hiện vẫn còn do thao tác xóa bị chính sách thực thi chặn.
+Build dùng dữ liệu local, không thu thập lại nguồn. Dự án không cần database, API key hoặc backend nghiệp vụ.

@@ -10,17 +10,17 @@ export function Carousel({
   label,
   sale = false,
   active = true,
-  initialPosition = 0,
+  initialIndex = 0,
 }: {
   children: ReactNode;
   id: string;
   label: string;
   sale?: boolean;
   active?: boolean;
-  initialPosition?: number;
+  initialIndex?: number;
 }) {
   const ref = useRef<HTMLDivElement>(null);
-  useCarousel(ref, { draggable: sale, enabled: active, initialPosition });
+  useCarousel(ref, { draggable: sale, enabled: active, initialIndex });
   return (
     <div
       ref={ref}

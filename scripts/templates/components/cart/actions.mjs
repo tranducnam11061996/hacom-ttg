@@ -1,5 +1,0 @@
-import { cartMoney } from './items.mjs';
-import { cartIcon } from './icons.mjs';
-export function cartActions({ installmentMonthly }) {
-  return `<div class="cart-actions"><label class="cart-terms"><input type="checkbox"> <b>Tôi đã đọc và đồng ý với các Điều kiện giao dịch chung của website</b></label><div class="cart-action-grid"><button type="button" data-demo class="cart-export">${cartIcon('print')} In báo giá</button><button type="button" data-demo class="cart-export">${cartIcon('excel')} Tải file excel</button><button type="submit" class="cart-order">${cartIcon('check')} ĐẶT HÀNG</button><button type="button" data-demo class="cart-installment">${cartIcon('card')} TRẢ GÓP QUA HỒ SƠ<small>Chỉ từ ${cartMoney(installmentMonthly)} đ/tháng</small></button></div><div class="cart-payment-grid"><button type="button" data-demo class="cart-pay-card"><strong>Trả góp qua thẻ</strong><span>Visa, Master, JCB</span></button><button type="button" data-demo class="cart-pay-later"><strong>Mua Ngay - Trả Sau</strong></button></div></div>`;
-}

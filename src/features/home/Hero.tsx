@@ -1,15 +1,15 @@
 "use client";
 
 import { useRef } from "react";
-import { storeData } from "@/data";
+import type { Banner } from "./types";
 import { AssetImage } from "@/components/ui/AssetImage";
 import { DemoLink } from "@/components/ui/Demo";
 import { useCarousel } from "@/hooks/useCarousel";
 
-export function Hero() {
+export function Hero({ banners }: { banners: Banner[] }) {
   const ref = useRef<HTMLDivElement>(null);
   useCarousel(ref, { hero: true, draggable: true });
-  const image = (h: (typeof storeData.hero)[number], i: number) => (
+  const image = (h: Banner, i: number) => (
     <AssetImage
       image={h.image}
       alt={h.alt}
@@ -34,7 +34,7 @@ export function Hero() {
         tabIndex={0}
       >
         <div data-hero-track="" className="ttg-hero-track">
-          {storeData.hero.slice(0, 9).map((h, i) => (
+          {banners.slice(0, 9).map((h, i) => (
             <DemoLink
               key={i}
               className="ttg-slide"
@@ -55,7 +55,7 @@ export function Hero() {
         </button>
       </div>
       <div className="ttg-secondary-banners">
-        {storeData.hero.slice(9).map((h, i) => (
+        {banners.slice(9).map((h, i) => (
           <DemoLink key={i}>
             <picture>
               <source media="(min-width: 801px)" srcSet={h.image.src} />

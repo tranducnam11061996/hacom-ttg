@@ -323,9 +323,6 @@
     height: 100%;
     display: flex;
   }
-  .bp-picker-body[hidden] {
-    display: none;
-  }
   .bp-filters {
     width: 29%;
     border-right: 1px solid #e1e1e1;

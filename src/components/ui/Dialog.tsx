@@ -26,10 +26,9 @@ export function Dialog({
   useEffect(() => {
     const dialog = ref.current!,
       trigger = document.activeElement as HTMLElement | null;
+    const search = dialog.querySelector<HTMLInputElement>('input[type="search"]');
+    if (search) search.autofocus = true;
     dialog.showModal();
-    dialog
-      .querySelector<HTMLInputElement>('input[type="search"]')
-      ?.focus({ preventScroll: true });
     return () => {
       dialog.close();
       if (trigger?.isConnected) trigger.focus({ preventScroll: true });

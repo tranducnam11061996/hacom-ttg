@@ -66,12 +66,19 @@ function Category({
   );
 }
 export function Home() {
+  const banners = storeData.hero.map(({ alt, image }) => ({ alt, image }));
+  const collections = storeData.collections.map(({ id, products }) => ({
+    id,
+    products: products.map(({ name, image, price, market, discount, status, buy, overlay }) => ({
+      name, image, price, market, discount, status, buy, overlay,
+    })),
+  }));
   return (
     <main id="main" className="site-container store-main pt-[12px]">
       <h1 className="sr-only">{storeData.title}</h1>
-      <Hero />
+      <Hero banners={banners} />
       <PlaylistSection />
-      <Sale />
+      <Sale collections={collections} saleTitle={storeData.saleTitle} overlays={storeData.overlays} />
       <div className="category-group">
         {storeData.categories.map((c, i) => (
           <Category key={i} category={c} index={i} />

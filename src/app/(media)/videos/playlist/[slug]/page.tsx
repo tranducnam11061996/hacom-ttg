@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { youtubeData } from "@/data";
+import { resolvePlaylistVideo } from "@/features/videos/resolve-playlist-video";
 import { VideoPlayer } from "@/features/videos/VideoPlayer";
 type Props = {
   params: Promise<{ slug: string }>;
@@ -26,10 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function Page({ params, searchParams }: Props) {
   const playlist = findPlaylist((await params).slug);
   const { video } = await searchParams;
-  const initialVideoId =
-    playlist.videos.find(
-      (v) => v.id === (typeof video === "string" ? video : undefined),
-    )?.id ?? playlist.videos[0].id;
+  const initialVideoId = resolvePlaylistVideo(playlist, video === undefined ? [] : Array.isArray(video) ? video : [video]);
   return (
     <VideoPlayer
       key={playlist.id}

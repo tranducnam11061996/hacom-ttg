@@ -1,7 +1,8 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { storeData } from "@/data";
+import type { SaleCollection } from "./types";
+import type { ImageAsset } from "@/components/ui/AssetImage";
 import { AssetImage } from "@/components/ui/AssetImage";
 import Link from "next/link";
 import { routes } from "@/lib/routes";
@@ -16,16 +17,18 @@ const labels = [
   "PC AMD Gaming",
   "PC đồ họa — làm việc",
 ];
-export function Sale() {
+export function Sale({ collections, saleTitle, overlays }: { collections: SaleCollection[]; saleTitle: ImageAsset; overlays: Record<string, ImageAsset> }) {
   const [positions, setPositions] = useState<Record<string, number>>({});
   const [selected, setSelected] = useState(0),
     [open, setOpen] = useState(false);
   const tabs = useRef<HTMLDivElement>(null),
     toggle = useRef<HTMLButtonElement>(null);
   function select(index: number, focus = false) {
-    const current = storeData.collections[selected];
-    const position =
-      document.getElementById(`sale-track-${current.id}`)?.scrollLeft ?? 0;
+    if (index === selected) return;
+    const current = collections[selected];
+    const track = document.getElementById(`sale-track-${current.id}`);
+    const step = (track?.firstElementChild?.getBoundingClientRect().width ?? 0) + 10;
+    const position = Math.round((track?.scrollLeft ?? 0) / step);
     setPositions((previous) => ({ ...previous, [current.id]: position }));
     setSelected(index);
     if (focus)
@@ -48,7 +51,7 @@ export function Sale() {
     >
       <h2 id="sale-title">
         <span className="sr-only">Deal HOT mỗi ngày - Khuyến mãi liền tay</span>
-        <AssetImage image={storeData.saleTitle} className="sale-title" />
+        <AssetImage image={saleTitle} className="sale-title" />
       </h2>
       <div
         ref={tabs}
@@ -58,7 +61,7 @@ export function Sale() {
         className="sale-groups"
         hidden={!open}
       >
-        {storeData.collections.map((c, i) => (
+        {collections.map((c, i) => (
           <button
             key={c.id}
             id={`tab-${c.id}`}
@@ -85,7 +88,7 @@ export function Sale() {
           </button>
         ))}
       </div>
-      {[storeData.collections[selected]].map((c) => (
+      {[collections[selected]].map((c) => (
         <div
           key={c.id}
           id={`collection-${c.id}`}
@@ -93,14 +96,14 @@ export function Sale() {
           aria-labelledby={`tab-${c.id}`}
         >
           <Carousel
-            initialPosition={positions[c.id] ?? 0}
+            initialIndex={positions[c.id] ?? 0}
             key={c.id}
             id={`sale-track-${c.id}`}
             label={labels[selected]}
             sale
           >
             {c.products.map((p, j) => (
-              <ProductCard key={j} product={p} overlays={storeData.overlays} />
+              <ProductCard key={j} product={p} overlays={overlays} />
             ))}
           </Carousel>
         </div>
