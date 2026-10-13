@@ -16,11 +16,11 @@
     align-items: center;
     gap: 9px;
     padding: 12px 0;
-    color: #002023;
+    color: var(--color-secondary);
     line-height: 21px;
   }
   .bp-breadcrumb a {
-    color: #777;
+    color: #707070;
   }
   .bp-panel {
     background: white;
@@ -42,7 +42,7 @@
     gap: 10px;
   }
   .bp-reset {
-    background: #ec1b23;
+    background: #d91605;
     color: white;
     border-radius: 4px;
     font-size: 14px;
@@ -123,7 +123,7 @@
     flex-wrap: wrap;
   }
   .bp-stock {
-    color: #00a400;
+    color: #00653b;
   }
   .bp-empty,
   .bp-warranty {
@@ -141,7 +141,7 @@
     padding-inline: 5px;
   }
   .bp-summary-label {
-    color: #002023;
+    color: var(--color-secondary);
   }
   .bp-quantity {
     display: inline-flex;
@@ -190,7 +190,7 @@
     width: 14px;
     height: 14px;
     margin-left: 9px;
-    color: #1d7be5;
+    color: var(--color-brand-text);
   }
   .bp-item-actions button:last-child {
     width: 12.25px;
@@ -207,7 +207,7 @@
     padding: 12px 16px;
   }
   .bp-choose-row button {
-    background: #ff5636;
+    background: var(--color-brand-action);
     color: white;
     border-radius: 5px;
     padding: 9px 10px;
@@ -220,7 +220,7 @@
   }
   .bp-actions button {
     flex: 1;
-    background: #002023;
+    background: var(--color-secondary);
     color: white;
     font-weight: 700;
     text-transform: uppercase;
@@ -237,7 +237,7 @@
     vertical-align: middle;
   }
   .bp-actions .bp-red {
-    background: red;
+    background: var(--brand-readable-gradient);
   }
   .bp-support {
     margin-top: 32px;
@@ -276,7 +276,7 @@
     line-height: 32px;
   }
   .bp-picker-header {
-    background: #ff5636;
+    background: var(--color-brand-action);
     color: white;
     display: flex;
     align-items: center;
@@ -367,7 +367,7 @@
     width: 13px;
     height: 13px;
     vertical-align: middle;
-    accent-color: #ff5636;
+    accent-color: var(--color-brand-action);
   }
   .bp-picker-content {
     width: 71%;
@@ -416,7 +416,7 @@
   }
   .bp-sort .bp-clear {
     color: white;
-    background: #ec1b23;
+    background: #d91605;
   }
   .bp-toolbar .listing-pagination {
     display: flex;
@@ -443,7 +443,7 @@
   }
   .bp-toolbar .listing-page.active {
     color: white;
-    background: #ff5636;
+    background: var(--color-brand-action);
     border-color: transparent;
   }
   .bp-next {
@@ -512,7 +512,7 @@
   }
   .bp-buy {
     color: white;
-    background: #ff5636;
+    background: var(--color-brand-action);
     border-radius: 3px;
     font-weight: 500;
     line-height: 32px;
@@ -525,7 +525,7 @@
     bottom: 15px;
     left: 50%;
     transform: translateX(-50%);
-    background: #002023;
+    background: var(--color-secondary);
     color: white;
     padding: 12px 16px;
     border-radius: 6px;
@@ -537,7 +537,7 @@
     cursor: pointer;
   }
   .buildpc-screen :focus-visible {
-    outline: 2px solid #007782;
+    outline: 2px solid var(--color-brand-focus);
     outline-offset: 3px;
   }
   @media (min-width: 1280px) {

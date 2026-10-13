@@ -18,7 +18,7 @@ export function Footer() {
     <footer className="ttg-footer">
       <section className="footer-showroom" aria-labelledby="showroom-title">
         <div className="ttg-container">
-          <h2 id="showroom-title">HỆ THỐNG SHOWROOM TTG</h2>
+          <h2 id="showroom-title">HỆ THỐNG SHOWROOM TGB SHOP</h2>
           <div className="showroom-grid">
             {footerData.showrooms.map((s, i) => (
               <section className="showroom-card" key={i}>
@@ -43,8 +43,8 @@ export function Footer() {
       </section>
       <div className="footer-company">
         <div className="ttg-container">
-          <DemoLink className="footer-logo" aria-label="TTG SHOP">
-            <AssetImage image={footerData.logo} alt="TTG SHOP" />
+          <DemoLink className="footer-logo" aria-label="TGB SHOP">
+            <AssetImage image={footerData.logo} alt="TGB SHOP" />
           </DemoLink>
           <div className="footer-company-grid">
             {footerData.companies.map((company, i) => (

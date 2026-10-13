@@ -58,7 +58,8 @@
     @apply flex h-[40px] items-center justify-between px-[12px];
   }
   .ttg-menu-item.is-active > a {
-    @apply bg-primary text-white;
+    @apply text-white;
+    background: var(--pdf-gradient);
   }
   .ttg-chevron {
     @apply size-[8px] rotate-[-45deg] border-b-2 border-r-2 border-[#4e4e4e];

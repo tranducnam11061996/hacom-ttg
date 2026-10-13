@@ -3,12 +3,12 @@ import { youtubeData } from "@/data";
 import { routes } from "@/lib/routes";
 export function VideoNavigation() {
   return (
-    <header className="bg-secondary text-white">
+    <header className="bg-secondary text-white [&_:focus-visible]:outline-brand-muted">
       <div className="site-container flex flex-wrap items-center justify-between gap-3 py-5">
         <Link prefetch={false} href={routes.home} className="font-bold">
-          TTG SHOP
+          TGB SHOP
         </Link>
-        <Link prefetch={false} href={routes.videos}>
+        <Link prefetch={false} href={routes.videos} className="hover:text-brand-muted">
           Danh sách phát
         </Link>
         <a

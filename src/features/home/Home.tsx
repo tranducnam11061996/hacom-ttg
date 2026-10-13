@@ -78,7 +78,7 @@ export function Home() {
       <h1 className="sr-only">{storeData.title}</h1>
       <Hero banners={banners} />
       <PlaylistSection />
-      <Sale collections={collections} saleTitle={storeData.saleTitle} overlays={storeData.overlays} />
+      <Sale collections={collections} overlays={storeData.overlays} />
       <div className="category-group">
         {storeData.categories.map((c, i) => (
           <Category key={i} category={c} index={i} />

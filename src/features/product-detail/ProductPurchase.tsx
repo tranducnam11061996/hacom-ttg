@@ -17,7 +17,7 @@ export function ProductPurchase() {
           />
           <div className="top-[1px] right-0 bottom-[0] w-[45px]">
             <DemoButton
-              className="flex items-center justify-center w-full h-[24px] hover:[&_svg]:fill-[var(--color-primary)]"
+              className="flex items-center justify-center w-full h-[24px] hover:[&_svg]:fill-[var(--color-brand-action)]"
               type="button"
               title="Thêm"
               aria-label="Thêm"
@@ -35,7 +35,7 @@ export function ProductPurchase() {
             </DemoButton>
             <div className="border-b w-full border-b-[#E3E3E3]"></div>
             <DemoButton
-              className="flex items-center justify-center w-full h-[24px] hover:[&_svg]:fill-[var(--color-primary)]"
+              className="flex items-center justify-center w-full h-[24px] hover:[&_svg]:fill-[var(--color-brand-action)]"
               type="button"
               title="Giảm"
               aria-label="Giảm"
@@ -56,7 +56,7 @@ export function ProductPurchase() {
       </div>
       <div className="pd-purchase">
         <DemoButton
-          className="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold bg-[#ff0000] rounded-[4px] hover:bg-[#ea3511]"
+          className="col-span-2 h-[56px] text-white text-[18px] leading-[56px] font-bold brand-button rounded-[4px]"
           type="button"
           data-demo=""
         >
@@ -64,7 +64,7 @@ export function ProductPurchase() {
         </DemoButton>
 
         <DemoButton
-          className="h-[56px] text-[var(--color-primary)] text-[16px] leading-[56px] font-bold border border-[var(--color-primary)] rounded-[4px] hover:bg-[var(--color-primary)] hover:text-white"
+          className="h-[56px] text-[var(--color-brand-action)] text-[16px] leading-[56px] font-bold border border-[var(--color-brand-action)] rounded-[4px] hover:bg-[var(--color-brand-action)] hover:text-white"
           type="button"
           data-demo=""
         >
@@ -72,7 +72,7 @@ export function ProductPurchase() {
         </DemoButton>
 
         <DemoButton
-          className="h-[56px] text-white font-bold bg-[#1877F2] rounded-[4px] hover:bg-[#1169db]"
+          className="h-[56px] text-white font-bold brand-button rounded-[4px]"
           type="button"
           data-demo=""
         >

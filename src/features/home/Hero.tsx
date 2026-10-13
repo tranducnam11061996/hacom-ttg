@@ -23,7 +23,7 @@ export function Hero({ banners }: { banners: Banner[] }) {
     />
   );
   return (
-    <section className="ttg-hero-section" aria-label="Ưu đãi TTG">
+    <section className="ttg-hero-section" aria-label="Ưu đãi TGB SHOP">
       <div
         ref={ref}
         data-hero=""

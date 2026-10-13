@@ -74,7 +74,7 @@ export function ProductCard({
         >
           <span className="category-buy-inner">
             <span className="category-cart">
-              <Icon name="cart" />
+              <Icon name="cart" className="block size-[18px] shrink-0" viewBox="0 0.5 24 24" />
             </span>
             <span>{p.buy}</span>
           </span>

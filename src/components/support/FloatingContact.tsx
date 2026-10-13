@@ -23,7 +23,7 @@ export function FloatingContact({
   ) : (
     <aside
       className="floating-contact pd-contact"
-      aria-label="Liên hệ TTG SHOP"
+      aria-label="Liên hệ TGB SHOP"
     >
       {content}
     </aside>

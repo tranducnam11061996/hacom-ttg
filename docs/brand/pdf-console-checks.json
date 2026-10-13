@@ -1,0 +1,90 @@
+[
+  {
+    "route": "/",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/pc",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/cart",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/buildpc",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/videos",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  },
+  {
+    "route": "/pdf-style-404",
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+        }
+      ]
+    }
+  }
+]

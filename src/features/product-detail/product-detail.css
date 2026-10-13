@@ -124,7 +124,7 @@
     box-shadow: inset 0 0 0 1px #ccc;
   }
   .pd-thumbnail.pd-selected {
-    box-shadow: inset 0 0 0 1px #ff5636;
+    box-shadow: inset 0 0 0 1px var(--color-brand-selected);
   }
   .pd-thumbnail > span {
     display: block;
@@ -152,6 +152,12 @@
     border: 1px dashed #d4d4d4;
     border-radius: 8px;
   }
+  .pd-price-market,
+  .pd-price-discount {
+    padding: 2px 4px;
+    border-radius: 3px;
+    background: transparent;
+  }
   .pd-call-support {
     display: flex;
     align-items: center;
@@ -161,13 +167,7 @@
     font-size: 14px;
     line-height: 30px;
     border-radius: 100px;
-    background: repeating-linear-gradient(
-      to right,
-      #ff2a2a 0,
-      #1616ff 50%,
-      #ff2a2a 100%
-    );
-    background-size: 200% auto;
+    background: linear-gradient(90deg in srgb, #94218b 0%, #1616ff 54%, #801f9e 100%);
   }
   .pd-call-support svg {
     margin-right: 4px;
@@ -183,30 +183,32 @@
     display: inline-block;
     flex-shrink: 0;
     position: relative;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
   }
   .pd-icon-check {
     width: 12px;
     height: 12px;
     margin-top: 3px;
-    background: url("/images/icons/ttgshop-icons-map-2.png")
-      no-repeat -163px -5px / 226px 203px;
+    background: var(--color-tertiary);
+    mask-image: url("/images/icons/tgb-check.svg");
   }
   .pd-icon-gift {
     width: 16px;
     height: 16px;
-    background: url("/images/icons/ttgshop-icons-map-2.png")
-      no-repeat -155px -87px / 226px 203px;
+    background: #ff0000;
+    mask-image: url("/images/icons/tgb-gift.svg");
   }
   .pd-icon-config {
     width: 20px;
     height: 20px;
-    background: url("/images/icons/ttgshop-icons-map-2.png")
-      no-repeat -163px -27px / 226px 203px;
+    background: #ff0000;
+    mask-image: url("/images/icons/tgb-config.svg");
   }
   .pd-offer > p .pd-icon-gift {
     width: 21px;
     height: 21px;
-    background-position: -155px -57px;
   }
   .pd-upgrade,
   .pd-offer {
@@ -256,8 +258,9 @@
     line-height: 19.5px;
   }
   .pd-upgrade-choice.pd-selected {
-    color: #ff5636;
-    border-color: #ff5636;
+    color: #333;
+    border-color: transparent;
+    background: linear-gradient(white, white) padding-box, var(--pdf-gradient) border-box;
   }
   .pd-upgrade-choice.pd-selected::before {
     content: "";
@@ -266,7 +269,7 @@
     right: 0;
     width: 20px;
     height: 20px;
-    background: #ff5636;
+    background: var(--pdf-gradient);
     clip-path: polygon(100% 0, 100% 100%, 0 100%);
   }
   .pd-upgrade-choice.pd-selected::after {
@@ -311,7 +314,7 @@
     line-height: 18px;
   }
   .pd-payment-card {
-    background: #288ad6;
+    background: #235d97;
     color: white;
   }
   .pd-payment-later {
@@ -375,7 +378,7 @@
   }
   .pd-combo-card > button {
     width: 100%;
-    background: #e30019;
+    background: var(--pdf-gradient);
     color: white;
     border-radius: 4px;
     font-size: 12px;
@@ -414,9 +417,9 @@
     justify-content: center;
     gap: 6px;
     padding: 8px 16px;
-    color: #e30019;
+    color: #ff0000;
     background: white;
-    border: 1px solid #e30019;
+    border: 1px solid #ff0000;
     border-radius: 4px;
     font-size: 14px;
     font-weight: 600;
@@ -503,7 +506,7 @@
     text-align: center;
   }
   .pd-more button {
-    color: #ff5636;
+    color: var(--color-brand-action);
   }
   .pd-more span {
     display: inline-block;
@@ -548,7 +551,7 @@
     font-size: 13px;
     font-weight: 600;
     line-height: 1.5;
-    color: #004147;
+    color: var(--color-tertiary);
   }
   .pd-section-heading > a svg {
     display: inline-block;

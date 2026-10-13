@@ -3,7 +3,6 @@
 import { useRef, useState } from "react";
 import type { SaleCollection } from "./types";
 import type { ImageAsset } from "@/components/ui/AssetImage";
-import { AssetImage } from "@/components/ui/AssetImage";
 import Link from "next/link";
 import { routes } from "@/lib/routes";
 import { ProductCard } from "@/components/product/ProductCard";
@@ -17,7 +16,7 @@ const labels = [
   "PC AMD Gaming",
   "PC đồ họa — làm việc",
 ];
-export function Sale({ collections, saleTitle, overlays }: { collections: SaleCollection[]; saleTitle: ImageAsset; overlays: Record<string, ImageAsset> }) {
+export function Sale({ collections, overlays }: { collections: SaleCollection[]; overlays: Record<string, ImageAsset> }) {
   const [positions, setPositions] = useState<Record<string, number>>({});
   const [selected, setSelected] = useState(0),
     [open, setOpen] = useState(false);
@@ -49,9 +48,9 @@ export function Sale({ collections, saleTitle, overlays }: { collections: SaleCo
         }
       }}
     >
-      <h2 id="sale-title">
-        <span className="sr-only">Deal HOT mỗi ngày - Khuyến mãi liền tay</span>
-        <AssetImage image={saleTitle} className="sale-title" />
+      <h2 id="sale-title" className="sale-title">
+        <i className="sale-flame" aria-hidden="true" />
+        <span>DEAL HOT MỖI NGÀY</span>
       </h2>
       <div
         ref={tabs}

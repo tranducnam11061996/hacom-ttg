@@ -148,16 +148,16 @@
     }
   ],
   "logo": {
-    "src": "/images/brand/logo_ttgshop-logo-27122025-1-91346259.webp",
-    "width": 507,
-    "height": 180
+    "src": "/images/brand/tgb-shop-logo.png",
+    "width": 600,
+    "height": 404
   },
   "companies": [
     {
-      "title": "Về TTG SHOP",
+      "title": "Về TGB SHOP",
       "blocks": [
         {
-          "paragraph": "TTG SHOP là đơn vị chuyên cung cấp PC GAMING , PC ĐỒ HỌA , PC Đẹp và các sản phẩm linh kiện máy tính giá tốt.",
+          "paragraph": "TGB SHOP là đơn vị chuyên cung cấp PC GAMING , PC ĐỒ HỌA , PC Đẹp và các sản phẩm linh kiện máy tính giá tốt.",
           "items": []
         }
       ]

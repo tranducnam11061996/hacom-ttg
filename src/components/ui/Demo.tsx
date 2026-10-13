@@ -13,7 +13,7 @@ import {
   type ReactNode,
 } from "react";
 
-const message = "Đây là giao diện demo. Chức năng mua hàng chưa được kết nối.";
+const message = "Đây là giao diện demo TGB SHOP. Chức năng mua hàng chưa được kết nối.";
 const DemoContext = createContext<() => void>(() => {});
 
 export function DemoProvider({ children }: { children: ReactNode }) {

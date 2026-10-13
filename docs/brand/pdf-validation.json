@@ -1,0 +1,30 @@
+{
+  "preservedExistingPublicAssets": 395,
+  "changedExistingAssets": [],
+  "pdfSha256": "3302128a06a64959345338f4ac9e1aa0ab9134e239e7b5117c6613d548f3d271",
+  "gradientMaxErrorPerRGBChannel": {
+    "pdf-gradient": 0.2519720669913611,
+    "pdf-pill-gradient": 0.19585184958290425,
+    "pdf-commitment-gradient": 0.10810548397063302,
+    "pdf-showroom-gradient": 0.08869559325571374,
+    "pdf-tooltip-price-gradient": 0.1895251565949413,
+    "pdf-tooltip-offer-gradient": 0.16310349124838974
+  },
+  "viewportCases": 32,
+  "screenshots": 11,
+  "svgDecorations": 6,
+  "vectorCoordinates": "original PDF paths; 7 significant digits (<0.001 pt rounding in these regions)",
+  "rasterComparison": {
+    "dealTopBackgroundMeanAbsoluteRGBError": 1.321812765778283,
+    "dealTopPixelsWithin3RGBUnits": 0.9060565870910698,
+    "note": "background-only sample x=300..width-15, y=7..65 after region normalization; includes renderer/crop antialiasing differences"
+  },
+  "checks": [
+    "lint passed",
+    "typecheck passed",
+    "build passed",
+    "32 viewport cases passed",
+    "8 pages no console errors/warnings",
+    "tooltips/gallery/configuration demo behavior preserved"
+  ]
+}

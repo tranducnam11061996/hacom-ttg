@@ -236,7 +236,7 @@ export function VideoPlayer({
                   href={`?${new URLSearchParams([...search.entries()].filter(([key]) => key !== "video").concat([["video", v.id]])).toString()}#player`}
                   prefetch={false}
                   aria-current={v.id === selected ? "true" : undefined}
-                  className="flex items-start gap-3 rounded-lg p-2 hover:bg-orange-50 aria-current:bg-orange-100"
+                  className="flex items-start gap-3 rounded-lg p-2 hover:bg-brand-soft aria-current:bg-brand-soft aria-current:ring-1 aria-current:ring-brand-selected"
                   onClick={(event) => {
                     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
                     event.preventDefault();

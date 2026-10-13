@@ -1,0 +1,534 @@
+[
+  {
+    "url": "/",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 36,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 60,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": {
+      "width": 259,
+      "textWidth": 185.828125,
+      "scrollWidth": 259
+    }
+  },
+  {
+    "url": "/",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 74,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": {
+      "width": 259,
+      "textWidth": 185.828125,
+      "scrollWidth": 259
+    }
+  },
+  {
+    "url": "/",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": {
+      "width": 259,
+      "textWidth": 185.828125,
+      "scrollWidth": 259
+    }
+  },
+  {
+    "url": "/",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": {
+      "width": 259,
+      "textWidth": 185.828125,
+      "scrollWidth": 259
+    }
+  },
+  {
+    "url": "/pc",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 36,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 60,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 74,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 36,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 60,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 74,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/cart",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 36,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 60,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/cart",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 74,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/cart",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/cart",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/buildpc",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 36,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 60,
+        "width": 349,
+        "padding": "6px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/buildpc",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 74,
+        "width": 353,
+        "padding": "0px 70px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/buildpc",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 37,
+        "width": 586,
+        "padding": "0px 99.6094px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/buildpc",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      },
+      {
+        "height": 40,
+        "width": 786,
+        "padding": "0px 133.609px",
+        "background": "rgb(24, 24, 24)"
+      }
+    ],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos/playlist/sieu-trung-thuc",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos/playlist/sieu-trung-thuc",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos/playlist/sieu-trung-thuc",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/videos/playlist/sieu-trung-thuc",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/pdf-style-404",
+    "width": 375,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/pdf-style-404",
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/pdf-style-404",
+    "width": 1280,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  },
+  {
+    "url": "/pdf-style-404",
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "showrooms": [],
+    "saleTitle": null
+  }
+]

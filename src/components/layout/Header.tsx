@@ -207,11 +207,11 @@ function HeaderContent({
               prefetch={false}
               href={routes.home}
               className="ttg-logo"
-              aria-label="TTG Shop trang chủ"
+              aria-label="TGB SHOP trang chủ"
             >
               <AssetImage
                 image={logo}
-                alt="TTG SHOP"
+                alt="TGB SHOP"
                 eager
                 fetchPriority={undefined}
               />

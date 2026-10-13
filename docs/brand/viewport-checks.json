@@ -1,0 +1,442 @@
+[
+  {
+    "route": "/",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "PC Gaming, PC đồ họa và linh kiện | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "PC Gaming, PC đồ họa và linh kiện | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "width": 1280,
+    "client": 1265,
+    "scroll": 1265,
+    "overflow": false,
+    "title": "PC Gaming, PC đồ họa và linh kiện | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "PC Gaming, PC đồ họa và linh kiện | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "PC Gaming | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "PC Gaming | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc",
+    "width": 1280,
+    "client": 1265,
+    "scroll": 1265,
+    "overflow": false,
+    "title": "PC Gaming | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "PC Gaming | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "PC TTG Core Ultra 7 270K Plus – RTX 5070 12GB OC | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "PC TTG Core Ultra 7 270K Plus – RTX 5070 12GB OC | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 1280,
+    "client": 1265,
+    "scroll": 1265,
+    "overflow": false,
+    "title": "PC TTG Core Ultra 7 270K Plus – RTX 5070 12GB OC | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "PC TTG Core Ultra 7 270K Plus – RTX 5070 12GB OC | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/cart",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "Giỏ hàng demo | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/cart",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "Giỏ hàng demo | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/cart",
+    "width": 1280,
+    "client": 1265,
+    "scroll": 1265,
+    "overflow": false,
+    "title": "Giỏ hàng demo | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/cart",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "Giỏ hàng demo | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/buildpc",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "Xây dựng cấu hình PC | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/buildpc",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "Xây dựng cấu hình PC | TGB SHOP — Demo",
+    "logo": [
+      [
+        95,
+        64,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/buildpc",
+    "width": 1280,
+    "client": 1265,
+    "scroll": 1265,
+    "overflow": false,
+    "title": "Xây dựng cấu hình PC | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/buildpc",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "Xây dựng cấu hình PC | TGB SHOP — Demo",
+    "logo": [
+      [
+        119,
+        80,
+        true
+      ]
+    ],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "Thầy Giáo Ba – Danh sách phát | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "overflow": false,
+    "title": "Thầy Giáo Ba – Danh sách phát | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos",
+    "width": 1280,
+    "client": 1280,
+    "scroll": 1280,
+    "overflow": false,
+    "title": "Thầy Giáo Ba – Danh sách phát | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "overflow": false,
+    "title": "Thầy Giáo Ba – Danh sách phát | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "Siêu Trung Thực – Thầy Giáo Ba | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "width": 768,
+    "client": 753,
+    "scroll": 753,
+    "overflow": false,
+    "title": "Siêu Trung Thực – Thầy Giáo Ba | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "width": 1280,
+    "client": 1280,
+    "scroll": 1280,
+    "overflow": false,
+    "title": "Siêu Trung Thực – Thầy Giáo Ba | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "width": 1920,
+    "client": 1905,
+    "scroll": 1905,
+    "overflow": false,
+    "title": "Siêu Trung Thực – Thầy Giáo Ba | TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/brand-test-404",
+    "width": 375,
+    "client": 375,
+    "scroll": 375,
+    "overflow": false,
+    "title": "TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/brand-test-404",
+    "width": 768,
+    "client": 768,
+    "scroll": 768,
+    "overflow": false,
+    "title": "TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/brand-test-404",
+    "width": 1280,
+    "client": 1280,
+    "scroll": 1280,
+    "overflow": false,
+    "title": "TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  },
+  {
+    "route": "/brand-test-404",
+    "width": 1920,
+    "client": 1920,
+    "scroll": 1920,
+    "overflow": false,
+    "title": "TGB SHOP — Demo",
+    "logo": [],
+    "brokenImages": []
+  }
+]

@@ -1,5 +1,14 @@
 import type { SVGProps } from "react";
 const icons = {
+  menu: <path d="M3 6h18M3 12h18M3 18h18" />,
+  phone: <path d="M8 3 4 5c-2 7 8 17 15 15l2-4-5-3-2 2c-3-1-5-3-6-6l2-2Z" />,
+  location: <><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z" /><circle cx="12" cy="10" r="3" /></>,
+  computer: <><rect x="2" y="3" width="15" height="12" rx="1" /><path d="M6 20h7M9 15v5" /><rect x="19" y="5" width="3" height="15" rx="1" /></>,
+  sales: <><circle cx="8" cy="7" r="3" /><path d="M2 20v-4a6 6 0 0 1 12 0v4M16 7h6M19 4v6M16 14h6" /></>,
+  delivery: <><path d="M2 5h12v12H2ZM14 9h4l4 5v3h-8M1 9h7M1 13h5" /><circle cx="6" cy="19" r="2" /><circle cx="18" cy="19" r="2" /></>,
+  return: <><path d="M4 10a8 8 0 1 1 0 7M4 4v6h6" /><path d="m9 14 3 3 5-5" /></>,
+  headset: <><path d="M3 13v-2a9 9 0 0 1 18 0v2M21 18c0 3-4 4-7 4" /><rect x="2" y="12" width="4" height="7" rx="2" /><rect x="18" y="12" width="4" height="7" rx="2" /></>,
+  flame: <path d="M13 2c1 6-4 6-3 11 2-1 3-3 4-4 4 4 7 7 5 11-3 5-12 4-14-1-2-6 3-10 5-14 0 3 1 4 2 4 2-2 1-4 1-7Z" />,
   arrow: (
     <>
       <path d="m9 5 7 7-7 7"></path>
@@ -77,7 +86,7 @@ export function Icon({
       viewBox={
         name === "game" || name === "combo" ? "0 0 640 640" : "0 0 24 24"
       }
-      fill={name === "game" ? "#ffffff" : name === "combo" ? "#e30019" : "none"}
+      fill={name === "game" || name === "combo" ? "currentColor" : "none"}
       stroke={name === "game" || name === "combo" ? undefined : "currentColor"}
       strokeWidth={
         ["trash", "print", "excel", "check", "card", "ticket"].includes(name)
@@ -92,7 +101,8 @@ export function Icon({
   );
 }
 export function HeaderIcon({ name }: { name: string }) {
+  const iconName = name in icons ? name as keyof typeof icons : "computer";
   return (
-    <span className={`ttg-header-icon ttg-icon-${name}`} aria-hidden="true" />
+    <Icon name={iconName} className={`ttg-header-icon ttg-icon-${name}`} />
   );
 }

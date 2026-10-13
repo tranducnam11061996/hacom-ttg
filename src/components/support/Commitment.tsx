@@ -72,7 +72,7 @@ export function Commitment({ questions }: { questions: Question[] }) {
   return (
     <section className="commitment-section" aria-labelledby="faq-title">
       <h2 id="faq-title" className="commitment-heading">
-        Trải nghiệm mua sắm tại <span className="text-primary">TTG SHOP</span>
+        Trải nghiệm mua sắm tại <span className="text-primary">TGB SHOP</span>
         <br />
         <span className="commitment-large">
           Cam Kết 100% <span className="commitment-gradient">Hài Lòng</span>

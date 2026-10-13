@@ -6,7 +6,7 @@
     line-height: 1.5;
   }
   .footer-showroom {
-    background: #002023;
+    background: var(--color-pdf-showroom);
     color: white;
     border-radius: 20px 20px 0 0;
     padding: 24px 0;
@@ -27,43 +27,31 @@
     min-width: 0;
   }
   .showroom-name {
-    padding: 2px;
+    padding: 3px;
     border-radius: 12px;
-    background: linear-gradient(90deg, #ff4f60 0.24%, #ffc617 100.24%);
+    overflow: hidden;
+    background: var(--pdf-showroom-gradient);
+    /* PDF glow is #ffc2e6 at 75% Screen over #181818 (effective #ffc8e8). */
+    box-shadow: 0 0 10.6px 2.3px rgb(255 200 232 / 75%);
   }
   .showroom-name > span {
     position: relative;
     display: block;
     overflow: hidden;
     border-radius: 12px;
-    background:
-      linear-gradient(0deg, rgba(255, 79, 96, 0) 1%, #af9746 120%), #002023;
+    background: var(--color-pdf-showroom) url("/images/brand/pdf/showroom-stripes.svg") center / 100% 100% no-repeat;
     text-align: center;
     text-transform: uppercase;
     font-size: 18px;
     line-height: 24px;
-    padding: 6px 48px;
+    padding: 6px clamp(70px, 17%, 135px);
     font-weight: 600;
   }
   .showroom-name > span::before {
-    content: "";
-    position: absolute;
-    right: 2px;
-    bottom: 2px;
-    width: 27px;
-    height: 20px;
-    background: url("/images/icons/ttgshop-static-icon-border-2.png") no-repeat
-      center/contain;
+    content: none;
   }
   .showroom-name > span::after {
-    content: "";
-    position: absolute;
-    left: 2px;
-    top: 2px;
-    width: 45px;
-    height: 30px;
-    background: url("/images/icons/ttgshop-static-icon-border-1.png") no-repeat
-      center/contain;
+    content: none;
   }
   .showroom-info {
     font-size: 14px;
@@ -111,8 +99,9 @@
     padding: 14px 0;
   }
   .footer-logo img {
-    width: 144px;
-    height: auto;
+    width: 119px;
+    height: 80px;
+    object-fit: contain;
   }
   .footer-company-grid {
     display: grid;
@@ -166,7 +155,8 @@
     .showroom-name > span {
       font-size: 20px;
       line-height: 37px;
-      padding: 0;
+      padding-block: 0;
+      padding-inline: clamp(70px, 17%, 135px);
     }
   }
   @media (min-width: 1024px) {
@@ -186,7 +176,8 @@
     }
     .showroom-name > span {
       font-size: 22px;
-      height: 40px;
+      min-height: 40px;
+      line-height: 40px;
     }
     .showroom-info {
       font-size: 16px;

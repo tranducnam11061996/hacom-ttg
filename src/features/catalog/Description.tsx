@@ -27,7 +27,7 @@ export function Description({ html }: { html: string }) {
             viewBox="0 -960 960 960"
           >
             <path
-              fill="#ff5636"
+              fill="currentColor"
               d="M480-192 240-432l51-51 189 189 189-189 51 51-240 240Zm0-285L240-717l51-51 189 189 189-189 51 51-240 240Z"
             />
           </svg>

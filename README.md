@@ -1,6 +1,8 @@
-# TTG SHOP — Next.js demo
+# TGB SHOP — Next.js demo
 
-Một dự án giao diện dùng Next.js App Router, React, TypeScript và Tailwind CSS 4. Giữ các màn hình và dữ liệu mẫu của bản TTG hiện tại.
+Một dự án giao diện dùng Next.js App Router, React, TypeScript và Tailwind CSS 4. Giao diện sử dụng nhận diện TGB SHOP hồng–đen, với dữ liệu sản phẩm mẫu hiện tại.
+
+Hệ màu, logo và kết quả kiểm tra chuyển đổi được ghi tại [docs/brand/README.md](docs/brand/README.md). Banner chiến dịch và ảnh sản phẩm có nhận diện TTG được giữ theo phạm vi chuyển đổi đã duyệt.
 
 ## Chạy dự án
 

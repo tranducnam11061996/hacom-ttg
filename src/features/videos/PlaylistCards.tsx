@@ -11,7 +11,7 @@ export function PlaylistCards({ headingLevel = 3 }: { headingLevel?: 2 | 3 }) {
       href={playlistHref(p.slug)}
       target="_blank"
       rel="noopener"
-      className="min-w-[260px] snap-start overflow-hidden rounded-xl bg-white shadow-sm"
+      className="min-w-[260px] snap-start overflow-hidden rounded-xl bg-white shadow-sm hover:ring-1 hover:ring-brand-selected"
     >
       <div className="relative aspect-video">
         <img
@@ -52,7 +52,7 @@ export function PlaylistSection() {
           href={routes.videos}
           target="_blank"
           rel="noopener"
-          className="font-semibold"
+          className="font-semibold text-brand-text hover:text-secondary"
         >
           Xem tất cả <Icon />
         </Link>

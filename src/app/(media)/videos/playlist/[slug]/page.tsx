@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       p.title +
       " của Thầy Giáo Ba với " +
       p.videos.length +
-      " tập đã lưu. Chọn tập và phát video YouTube trong giao diện demo TTG SHOP.",
+      " tập đã lưu. Chọn tập và phát video YouTube trong giao diện demo TGB SHOP.",
   };
 }
 export default async function Page({ params, searchParams }: Props) {

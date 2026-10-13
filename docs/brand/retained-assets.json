@@ -1,0 +1,153 @@
+{
+  "campaignBanners": [
+    {
+      "position": "hero",
+      "alt": "Banner",
+      "image": {
+        "src": "/images/banners/pc-delta-force_2-4499ead7.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/pc-delta-force_2-4499ead7-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Banner",
+      "image": {
+        "src": "/images/banners/ttg-lap-dat-pc-tai-nha-banner-chinh-c4d76f1d.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/ttg-lap-dat-pc-tai-nha-banner-chinh-c4d76f1d-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Thu cũ đổi mới tại nhà",
+      "image": {
+        "src": "/images/banners/thu-cu-doi-moi-bnc-ttg-905791b2.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/thu-cu-doi-moi-bnc-ttg-905791b2-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Banner",
+      "image": {
+        "src": "/images/banners/ttg-khuyen-mai-hs-sv-fade1a9c.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/ttg-khuyen-mai-hs-sv-fade1a9c-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Khuyến Mãi Doanh Nghiệp",
+      "image": {
+        "src": "/images/banners/ttg_khuyen-mai-pc-doanh-nghiep-1-686a5b39.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/ttg_khuyen-mai-pc-doanh-nghiep-1-686a5b39-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "PC Premium Gaming",
+      "image": {
+        "src": "/images/banners/slide_pc_premium-71c9a957.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/slide_pc_premium-71c9a957-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Đổi trả 10 ngày ",
+      "image": {
+        "src": "/images/banners/ttg-011-6e093026.webp",
+        "width": 1600,
+        "height": 608,
+        "small": "/images/banners/ttg-011-6e093026-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "PC ĐA CẤP",
+      "image": {
+        "src": "/images/banners/gioi-thieu-ban-mua-hang-ttg-d3dfed03.webp",
+        "width": 1600,
+        "height": 609,
+        "small": "/images/banners/gioi-thieu-ban-mua-hang-ttg-d3dfed03-800.webp"
+      }
+    },
+    {
+      "position": "hero",
+      "alt": "Banner",
+      "image": {
+        "src": "/images/banners/ttg-021-7f2d10c2.webp",
+        "width": 1600,
+        "height": 608,
+        "small": "/images/banners/ttg-021-7f2d10c2-800.webp"
+      }
+    },
+    {
+      "position": "secondary",
+      "alt": "pc premi",
+      "image": {
+        "src": "/images/banners/pc-pr-ttg-8b09f1e0.webp",
+        "width": 1376,
+        "height": 768,
+        "small": "/images/banners/pc-pr-ttg-8b09f1e0-800.webp"
+      }
+    },
+    {
+      "position": "secondary",
+      "alt": "ldpc",
+      "image": {
+        "src": "/images/banners/ttg-ldpctn-c07ee15f.webp",
+        "width": 1376,
+        "height": 768,
+        "small": "/images/banners/ttg-ldpctn-c07ee15f-800.webp"
+      }
+    },
+    {
+      "position": "secondary",
+      "alt": "Banner",
+      "image": {
+        "src": "/images/banners/tcdm-ttg-17442246.webp",
+        "width": 1376,
+        "height": 768,
+        "small": "/images/banners/tcdm-ttg-17442246-800.webp"
+      }
+    }
+  ],
+  "productImageOverlays": {
+    "home": {
+      "pcdeltaforce": {
+        "src": "/images/icons/khung-pc-delta-force_pc-eb03eb72.webp",
+        "width": 1000,
+        "height": 285
+      },
+      "kmwin11": {
+        "src": "/images/icons/khungwin-f2ca87a6.webp",
+        "width": 900,
+        "height": 256
+      }
+    },
+    "catalog": {
+      "delta": {
+        "src": "/images/category/pc-eb03eb72ae35.png",
+        "width": 1000,
+        "height": 285
+      }
+    },
+    "product": {
+      "delta": {
+        "src": "/images/category/pc-eb03eb72ae35.png",
+        "width": 1000,
+        "height": 285
+      }
+    }
+  },
+  "note": "Ảnh chiến dịch, ảnh sản phẩm, logo nhà sản xuất, hình liên hệ đối tác và chứng nhận Bộ Công Thương được giữ nguyên. Tên file có ttg không tự động có nghĩa hình ảnh chứa nhận diện TTG."
+}

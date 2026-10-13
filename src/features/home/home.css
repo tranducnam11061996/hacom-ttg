@@ -23,13 +23,56 @@
     min-width: 0;
     border-radius: 12px;
     padding: 10px 12px 12px;
-    background: url("/images/banners/ttgshop-collection-bg-1-553dce89.webp")
-      left top/cover no-repeat;
+    background:
+      url("/images/brand/pdf/deal-top.svg") center top / 100% auto no-repeat,
+      url("/images/brand/pdf/deal-bottom.svg") center bottom / 100% auto no-repeat,
+      var(--color-pdf-deal);
   }
   .sale-title {
-    width: 688px;
-    height: auto;
+    position: relative;
+    isolation: isolate;
+    display: inline-grid;
+    grid-template-columns: 57px minmax(0, 1fr) 28px;
+    align-items: end;
+    width: fit-content;
+    min-height: 84px;
     max-width: 100%;
+    color: white;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    white-space: normal;
+  }
+  .sale-title::before {
+    content: "";
+    position: absolute;
+    z-index: -2;
+    inset: 32px 0 0 28px;
+    background: white;
+    clip-path: polygon(0 0, calc(100% - 28px) 0, 100% 50%, calc(100% - 28px) 100%, 0 100%);
+  }
+  .sale-title::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 34px 3px 2px 30px;
+    background: var(--pdf-gradient);
+    clip-path: polygon(0 0, calc(100% - 26px) 0, 100% 50%, calc(100% - 26px) 100%, 0 100%);
+  }
+  .sale-title > span {
+    grid-column: 2;
+    min-width: 0;
+    min-height: 52px;
+    margin-top: 32px;
+    padding: 14px 20px 14px 12px;
+    overflow-wrap: anywhere;
+  }
+  .sale-flame {
+    grid-column: 1;
+    grid-row: 1;
+    width: 57px;
+    height: 84px;
+    background: url("/images/brand/pdf/deal-flame.svg") center bottom / contain no-repeat;
   }
   .sale-carousel {
     margin-top: 8px;
@@ -50,7 +93,8 @@
     background: white;
   }
   .sale-groups button[aria-selected="true"] {
-    background: #ffc617;
+    background: var(--color-brand-soft);
+    color: var(--color-brand-text);
   }
   .sale-footer {
     position: relative;
@@ -66,7 +110,7 @@
     gap: 4px;
     padding: 4px 8px 4px 11px;
     border-radius: 999px;
-    background: #ff5636;
+    background: var(--color-brand-action);
     color: white;
     font-size: 13px;
     font-weight: 500;
@@ -165,22 +209,40 @@
     line-height: 1.5;
   }
   .category-header {
-    @apply grid min-w-0 grid-cols-[minmax(0,1fr)_auto] items-center gap-x-[12px] gap-y-[8px] pr-[12px];
+    @apply flex min-w-0 flex-wrap items-center gap-x-[12px] gap-y-[8px] pr-[12px];
   }
   .category-heading {
-    @apply relative min-w-0 overflow-hidden pr-[44px];
+    position: relative;
+    isolation: isolate;
+    display: inline-grid;
+    grid-template-columns: minmax(0, 1fr) 48px;
+    width: fit-content;
+    max-width: 100%;
+    min-width: 0;
+    background: var(--pdf-gradient);
+    border-top-left-radius: 8px;
+    clip-path: polygon(0 0, 100% 0, calc(100% - 48px) 100%, 0 100%);
   }
   .category-heading::after {
     content: "";
-    @apply absolute inset-y-0 right-0 w-[44px] bg-cover bg-center;
-    background-image: url("/images/icons/category-polygon.png");
+    grid-column: 2;
+    grid-row: 1;
+    background: linear-gradient(125deg, var(--color-brand-action), var(--color-secondary));
+    clip-path: polygon(65% 0, 100% 0, 0 100%);
   }
   .category-heading h2 {
-    @apply bg-primary px-[10px] py-[12px] text-[18px] leading-[22px] font-bold text-white;
+    @apply py-[12px] text-[20px] leading-[24px] font-bold text-white;
+    grid-column: 1;
+    grid-row: 1;
+    min-width: 0;
+    padding-inline: 14px 20px;
+    background: transparent;
     overflow-wrap: anywhere;
   }
   .category-links {
-    @apply col-span-2 row-start-2 flex min-w-0 gap-[8px] overflow-x-auto px-[12px] pb-[2px] pt-[4px];
+    @apply flex min-w-0 gap-[8px] overflow-x-auto px-[12px] pb-[2px] pt-[4px];
+    flex-basis: 100%;
+    order: 3;
     scrollbar-width: none;
   }
   .category-links::-webkit-scrollbar {
@@ -194,6 +256,7 @@
   }
   .category-all {
     @apply whitespace-nowrap pt-[4px] text-[13px] leading-[19.5px] font-semibold text-tertiary;
+    margin-left: auto;
   }
   .category-all span {
     @apply inline-block text-[19px] leading-[16px];
@@ -202,14 +265,8 @@
     @apply px-[12px] pb-[15px] pt-[12px];
   }
   @media (min-width: 48rem) {
-    .category-heading {
-      padding-right: 52px;
-    }
-    .category-heading::after {
-      width: 54px;
-    }
     .category-heading h2 {
-      @apply pb-[13px] pl-[12px] pr-[12px] pt-[14px] text-[22px] leading-[27px];
+      @apply text-[22px] leading-[27px];
     }
   }
   @media (min-width: 80rem) {
@@ -224,9 +281,17 @@
     }
     .category-links {
       @apply flex-1 flex-wrap overflow-visible p-0 pt-[4px];
+      flex-basis: 260px;
+      order: 0;
     }
     .category-header-spacer {
       @apply block flex-1;
+    }
+  }
+  @media (max-width: 47.999rem) {
+    .category-all {
+      flex-basis: 100%;
+      padding-left: 14px;
     }
   }
   @media (min-width: 101.25rem) {

@@ -1,0 +1,34 @@
+[
+  {
+    "route": "/",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/pc",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/pc-ttg-gaming-core-ultra-7-270k-plus-rtx-5070-12gb-oc",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/cart",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/buildpc",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/videos",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/videos/playlist/sieu-trung-thuc",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  },
+  {
+    "route": "/brand-test-404",
+    "output": "Emulating viewport: {\"deviceScaleFactor\":1,\"isMobile\":false,\"hasTouch\":false,\"isLandscape\":false,\"width\":1920,\"height\":900}\n## Console messages\n<no console messages found>"
+  }
+]

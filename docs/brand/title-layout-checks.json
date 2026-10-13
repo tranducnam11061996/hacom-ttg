@@ -1,0 +1,758 @@
+[
+  {
+    "width": 375,
+    "cases": [
+      {
+        "scale": 1,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 142.015625,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 114.90625,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 65.3125
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 88.78125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 73.828125
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 132.890625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 64.984375
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 121.171875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 73.375
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 278.671875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48.828125
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 315.515625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68.96875
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 166.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 147.15625,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 205.78125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48.984375
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 283.1875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 89.640625
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 351.5625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48.984375
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 477.578125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 89.640625
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 327,
+            "height": 837.5,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48.203125
+          },
+          {
+            "kind": "category",
+            "width": 339,
+            "height": 1190.34375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68.65625
+          }
+        ],
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "cases": [
+      {
+        "scale": 1,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 142.015625,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 114.90625,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 338.1875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 370.75,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 563.21875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 664.875,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 705,
+            "height": 132.890625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48.75
+          },
+          {
+            "kind": "category",
+            "width": 717,
+            "height": 153.5625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 70.359375
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 166.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 147.15625,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 545.515625,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 648.09375,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 705,
+            "height": 157.1875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 151.09375
+          },
+          {
+            "kind": "category",
+            "width": 717,
+            "height": 153.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 136.90625
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 705,
+            "height": 351.5625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 56.328125
+          },
+          {
+            "kind": "category",
+            "width": 717,
+            "height": 477.578125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 70.609375
+          }
+        ],
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 1280,
+    "cases": [
+      {
+        "scale": 1,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 142.015625,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 114.90625,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 338.1875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 370.75,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 563.21875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 664.875,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 1176,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 55.921875
+          },
+          {
+            "kind": "category",
+            "width": 1188,
+            "height": 88.78125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 76.640625
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 166.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 147.15625,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 545.515625,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 648.09375,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 981.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 1188,
+            "height": 153.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 105.21875
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 1176,
+            "height": 254.375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 55.125
+          },
+          {
+            "kind": "category",
+            "width": 1188,
+            "height": 283.1875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 69.734375
+          }
+        ],
+        "overflow": false
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "cases": [
+      {
+        "scale": 1,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 142.015625,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 114.90625,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 338.1875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 370.75,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 563.21875,
+            "height": 84.296875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 664.875,
+            "height": 56.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 1,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 1576,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 50.15625
+          },
+          {
+            "kind": "category",
+            "width": 1588,
+            "height": 88.78125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 83.90625
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 166.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 147.15625,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 545.515625,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 648.09375,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "PC WORKSTATION 2D 3D PC WORKSTATION 2D 3D",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 981.203125,
+            "height": 108.59375,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 48
+          },
+          {
+            "kind": "category",
+            "width": 1224.46875,
+            "height": 88.796875,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 68
+          }
+        ],
+        "overflow": false
+      },
+      {
+        "scale": 2,
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "checks": [
+          {
+            "kind": "sale",
+            "width": 1576,
+            "height": 205.78125,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 50.640625
+          },
+          {
+            "kind": "category",
+            "width": 1588,
+            "height": 218.390625,
+            "paddingRight": "20px",
+            "contained": true,
+            "rightSpace": 80.453125
+          }
+        ],
+        "overflow": false
+      }
+    ]
+  }
+]

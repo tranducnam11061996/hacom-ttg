@@ -57,7 +57,7 @@
     text-align: center;
   }
   .listing-description-action button {
-    color: #ff5636;
+    color: var(--color-brand-action);
     font-weight: 500;
   }
   .listing-description-action button {
@@ -158,7 +158,7 @@
   .listing-filter-group input {
     width: 15px;
     height: 15px;
-    accent-color: #ff5636;
+    accent-color: var(--color-brand-action);
     flex-shrink: 0;
   }
   .listing-filter-primary {
@@ -169,7 +169,7 @@
   }
   .listing-sidebar a:hover,
   .listing-sidebar label:hover {
-    color: #ff5636;
+    color: var(--color-brand-action);
   }
   .listing-products {
     flex: 1;
@@ -192,7 +192,7 @@
     font-weight: 600;
   }
   .listing-toolbar p span {
-    color: #00a3e0;
+    color: var(--color-brand-text);
   }
   .listing-toolbar select {
     height: 32px;
@@ -265,8 +265,8 @@
   }
   .listing-page.active,
   .listing-page:hover {
-    background: #ff5636;
-    border-color: #ff5636;
+    background: var(--color-brand-action);
+    border-color: var(--color-brand-action);
     color: white;
   }
   .listing-tooltip-layer {
@@ -294,7 +294,7 @@
   .listing-tooltip > a:first-child {
     display: block;
     overflow: hidden;
-    background: #ff5636;
+    background: var(--pdf-gradient);
     color: white;
     padding: 15px;
     font-size: 16px;
@@ -310,7 +310,7 @@
     display: inline-block;
     padding: 5px 20px 5px 10px;
     border-radius: 3px;
-    background: #ff5636;
+    background: var(--pdf-gradient);
     margin-bottom: 10px;
     color: white;
     font-size: 13px;
@@ -326,7 +326,9 @@
     padding: 2px 0;
   }
   .listing-tooltip .img_price_full {
-    color: #ed1b24;
+    background: var(--pdf-tooltip-price-gradient);
+    background-clip: text;
+    color: transparent;
     font-size: 18px;
     font-weight: 700;
   }
@@ -339,31 +341,32 @@
   .listing-tooltip .listing-tip-gift {
     transform: translateY(2px);
   }
-  .listing-tip-icon,
-  .listing-card .category-cart::after {
+  .listing-tip-icon {
     display: inline-block;
     flex-shrink: 0;
-    background: url("/images/icons/ttgshop-icons-map-2.png") no-repeat;
-    background-size: 226px 203px;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
   }
   .listing-tip-check {
     width: 12px;
     height: 12px;
-    background-position: -163px -5px;
+    background: var(--color-tertiary);
+    mask-image: url("/images/icons/tgb-check.svg");
   }
   .listing-tip-gift {
     width: 16px;
     height: 16px;
-    background-position: -155px -87px;
+    background: var(--color-primary);
+    mask-image: url("/images/icons/tgb-gift.svg");
+  }
+  .listing-tooltip .pdf-offer-highlight {
+    background: var(--pdf-tooltip-offer-gradient);
+    background-clip: text;
+    color: transparent;
   }
   .listing-card .category-cart svg {
-    display: none;
-  }
-  .listing-card .category-cart::after {
-    content: "";
-    width: 16px;
-    height: 16px;
-    background-position: -103px -5px;
+    display: block;
   }
   .listing-card:hover .listing-picture {
     transform: translateY(-10px);
@@ -435,7 +438,6 @@
     .listing-tooltip .item {
       margin-bottom: 4px;
     }
-    .listing-card .category-cart::after,
     .listing-tip-gift {
       scale: 1.2;
     }
@@ -473,17 +475,6 @@
     .listing-card .category-buy {
       min-width: 0;
       width: 100%;
-      height: 20px;
-    }
-    .listing-card .category-buy-inner {
-      font-size: 10px;
-      gap: 3px;
-      padding-right: 0;
-    }
-    .listing-card .category-cart,
-    .listing-card .category-buy::before {
-      width: 20px;
-      height: 20px;
     }
     .listing-toolbar {
       flex-wrap: wrap;

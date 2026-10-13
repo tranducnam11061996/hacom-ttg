@@ -16,10 +16,10 @@
     align-items: center;
     gap: 9px;
     padding: 12px 0;
-    color: #002023;
+    color: var(--color-secondary);
   }
   .cart-breadcrumb a {
-    color: #777;
+    color: #707070;
   }
   .cart-heading {
     display: flex;
@@ -28,11 +28,11 @@
     padding-bottom: 10px;
   }
   .cart-heading h1 {
-    color: #007782;
+    color: var(--color-tertiary);
     font-weight: 700;
   }
   .cart-heading button {
-    color: #ff5636;
+    color: var(--color-brand-action);
     font-weight: 700;
   }
   .cart-items {
@@ -199,7 +199,7 @@
     min-width: 0;
     height: 40px;
     padding-left: 12px;
-    outline-color: #142ab0;
+    outline-color: var(--color-brand-focus);
   }
   .cart-voucher button {
     position: absolute;
@@ -208,7 +208,7 @@
     width: 170px;
     height: 42px;
     color: white;
-    background: #142ab0;
+    background: var(--color-brand-action);
     font-size: 16px;
     line-height: 24px;
   }
@@ -271,15 +271,15 @@
     font-size: 14px;
     line-height: 24px;
     padding: 13px 10px;
-    background: #214d7b;
+    background: var(--color-brand-action);
   }
   .cart-action-grid .cart-export {
     font-size: 13px;
     padding: 10px;
-    background: #002023;
+    background: var(--color-secondary);
   }
   .cart-action-grid .cart-order {
-    background: #d00;
+    background: var(--brand-readable-gradient);
     font-size: 15px;
   }
   .cart-action-grid .cart-installment {
@@ -305,7 +305,7 @@
     text-align: center;
   }
   .cart-pay-card {
-    background: #288ad6;
+    background: #235d97;
     color: white;
   }
   .cart-payment-grid strong {
@@ -365,7 +365,7 @@
     }
     .cart-cell-label {
       display: block;
-      color: #777;
+      color: #707070;
       font-size: 12px;
       margin-bottom: 4px;
     }

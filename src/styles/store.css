@@ -5,3 +5,42 @@
 @import "../components/layout/menu.css";
 @import "../components/product/product-card.css";
 @import "../components/product/carousel.css";
+
+@layer components {
+  :is(.ttg-pill, .ttg-search > button, .ttg-feature, .sale-all, .sale-groups button, .sale-toggle, .listing-page, .pd-call-support, .pd-combo-card > button, .pd-combo-buy, .cart-action-grid button, .cart-voucher button, .bp-choose-row button, .bp-actions button, .bp-buy, .bp-next) {
+    transition: background-color 150ms, color 150ms, box-shadow 150ms;
+  }
+  :is(.ttg-pill, .ttg-search > button, .sale-all, .pd-call-support, .pd-combo-card > button, .cart-voucher button, .cart-action-grid button, .bp-choose-row button, .bp-actions button, .bp-buy):hover {
+    background: var(--color-secondary);
+    color: white;
+  }
+  :is(.ttg-pill, .ttg-search > button, .sale-all, .pd-call-support, .pd-combo-card > button, .cart-voucher button, .cart-action-grid button, .bp-choose-row button, .bp-actions button, .bp-buy):active {
+    box-shadow: inset 0 0 0 2px var(--color-brand-muted);
+  }
+  :is(.ttg-search > button, .sale-groups button, .sale-toggle, .pd-purchase button, .pd-combo-card > button, .cart-action-grid button, .cart-voucher button, .bp-choose-row button, .bp-actions button, .bp-buy):disabled {
+    background: #e5e7eb;
+    color: #4b5563;
+    cursor: not-allowed;
+  }
+  :is(.ttg-search-hints a, .ttg-mega-child, .category-name a, .category-links a, .footer-company a, .cart-product-name, .bp-item-name, .bp-picker-name):hover {
+    color: var(--color-brand-text);
+  }
+  .pd-combo-buy:hover {
+    background: var(--color-secondary);
+    color: white;
+  }
+  .ttg-top :is(a, button):focus-visible,
+  .footer-showroom a:focus-visible {
+    outline-color: var(--color-brand-muted);
+  }
+  .listing-filter-group label:has(input:checked),
+  .bp-filter-values label:has(input:checked) {
+    color: var(--color-brand-text);
+    background: var(--color-brand-soft);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    :is(.ttg-pill, .ttg-search > button, .ttg-feature, .sale-all, .sale-groups button, .sale-toggle, .listing-page, .pd-call-support, .pd-combo-card > button, .pd-combo-buy, .cart-action-grid button, .cart-voucher button, .bp-choose-row button, .bp-actions button, .bp-buy, .bp-next) {
+      transition: none;
+    }
+  }
+}

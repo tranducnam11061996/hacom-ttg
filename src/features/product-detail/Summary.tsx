@@ -7,13 +7,13 @@ export function Summary() {
     <section className="pd-summary-column">
       <h1 className="pd-title">{data.displayTitle}</h1>
       <div className="pd-price-box">
-        <div className="pd-price flex flex-wrap items-center justify-between gap-[10px] text-[20px] leading-[24px] p-[16px] text-white bg-[linear-gradient(90deg,#FF5033_0%,#FF7301_100%)] rounded-[8px] min-[1620px]:p-[20px]">
+        <div className="pd-price flex flex-wrap items-center justify-between gap-[10px] text-[20px] leading-[24px] p-[16px] text-white pdf-gradient rounded-[8px] min-[1620px]:p-[20px]">
           <p className="pd-price-sale text-[24px] font-bold min-[1620px]:text-[28px]">
             {data.price.replace(/\s*đ$/, "")} <u>đ</u>
           </p>
           <del className="pd-price-market">{data.market}</del>
           <p
-            className="pd-price-discount text-[14px] min-[1620px]:text-[16]"
+            className="pd-price-discount text-[14px] min-[1620px]:text-[16px]"
             style={{ visibility: "visible" }}
           >
             Tiết kiệm: <span>{data.saving}</span>Đ

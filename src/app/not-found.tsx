@@ -6,9 +6,9 @@ export default function NotFound() {
       <Link
         prefetch={false}
         href="/"
-        className="mt-4 inline-block text-primary"
+        className="mt-4 inline-block text-brand-text"
       >
-        Về trang chủ TTG SHOP
+        Về trang chủ TGB SHOP
       </Link>
     </main>
   );

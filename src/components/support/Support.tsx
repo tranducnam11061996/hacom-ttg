@@ -1,5 +1,7 @@
 import { storeData } from "@/data";
 import { Commitment } from "./Commitment";
+import { Icon } from "@/components/ui/Icon";
+const serviceIcons = ["delivery", "return", "card", "headset"] as const;
 export function Support({
   className = "support-block",
 }: {
@@ -7,14 +9,11 @@ export function Support({
 }) {
   return (
     <div className={className}>
-      <section className="service-section" aria-label="Mua hàng tại TTG SHOP">
+      <section className="service-section" aria-label="Mua hàng tại TGB SHOP">
         <ul className="service-list">
           {storeData.features.map((f, i) => (
             <li key={i}>
-              <span
-                className={`service-icon service-icon-${i + 1}`}
-                aria-hidden="true"
-              />
+              <Icon name={serviceIcons[i] ?? "headset"} className="service-icon" />
               <p className="service-title">{f.title}</p>
               <p className="service-description">{f.text}</p>
             </li>

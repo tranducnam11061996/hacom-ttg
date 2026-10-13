@@ -1,9 +1,42 @@
 @theme {
   --breakpoint-wide: 101.25rem;
   --font-sans: Inter, sans-serif;
-  --color-primary: #ff5636;
-  --color-secondary: #002023;
-  --color-tertiary: #004147;
+  --color-primary: #fd0a8f;
+  --color-secondary: #111010;
+  --color-tertiary: #006b67;
+  --color-brand-text: #ae0051;
+  --color-brand-action: #ae0051;
+  --color-brand-soft: #ffe3f3;
+  --color-brand-muted: #eda5bd;
+  --color-brand-selected: #fd0a8f;
+  --color-brand-focus: #ae0051;
+  --color-teal-soft: #5bbab5;
+  --color-page: #f5f5f5;
+  --color-pdf-deal: #1c1920;
+  --color-pdf-deal-glow: #eb267c;
+  --color-pdf-showroom: #181818;
+  --color-pdf-coral: #fd9ca1;
+  --color-pdf-cart: #263b96;
+}
+:root {
+  --brand-gradient: linear-gradient(90deg, var(--color-primary) 0%, var(--color-brand-action) 50%, var(--color-secondary) 100%);
+  --brand-readable-gradient: linear-gradient(90deg, var(--color-brand-action) 0%, var(--color-secondary) 100%);
+}
+@utility brand-gradient {
+  background: var(--brand-gradient);
+}
+@utility pdf-gradient {
+  background: var(--pdf-gradient);
+}
+@utility brand-readable-gradient {
+  background: var(--brand-readable-gradient);
+}
+@utility brand-button {
+  background: var(--color-brand-action);
+  color: white;
+  &:hover { background: var(--color-secondary); }
+  &:active { box-shadow: inset 0 0 0 2px var(--color-brand-muted); }
+  &:disabled { background: #e5e7eb; color: #4b5563; cursor: not-allowed; }
 }
 @utility site-container {
   width: 100%;
@@ -32,7 +65,7 @@
     cursor: pointer;
   }
   :focus-visible {
-    outline: 3px solid #ff5636;
+    outline: 3px solid var(--color-brand-focus);
     outline-offset: 3px;
   }
   [hidden] {
@@ -40,6 +73,10 @@
   }
   img {
     max-width: 100%;
+  }
+  input[type="checkbox"],
+  input[type="radio"] {
+    accent-color: var(--color-brand-action);
   }
   @media (prefers-reduced-motion: reduce) {
     *,
